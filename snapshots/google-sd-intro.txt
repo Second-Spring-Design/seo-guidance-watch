@@ -1,0 +1,592 @@
+Skip to main content 
+
+[ ](https://developers.google.com/search)
+
+  * [ Google Search Central ](https://developers.google.com/search)
+
+
+
+[ Documentation ](https://developers.google.com/search/docs)
+
+  * SEO fundamentals
+  * [ Introduction  ](https://developers.google.com/search/docs)
+  * [ Search Essentials  ](https://developers.google.com/search/docs/essentials)
+  * [ SEO Starter Guide  ](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+  * [ Optimizing for generative AI search  ](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
+  * [ How Google Search Works  ](https://developers.google.com/search/docs/fundamentals/how-search-works)
+  * [ Do you need an SEO?  ](https://developers.google.com/search/docs/fundamentals/do-i-need-seo)
+
+
+
+  * Crawling and indexing
+  * [ Sitemaps  ](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)
+  * [ robots.txt  ](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
+  * [ Meta tags  ](https://developers.google.com/search/docs/crawling-indexing/special-tags)
+  * [ Crawler management  ](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl)
+  * [ Removals  ](https://developers.google.com/search/docs/crawling-indexing/control-what-you-share)
+  * [ Canonicalization  ](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls)
+  * [ Redirects  ](https://developers.google.com/search/docs/crawling-indexing/301-redirects)
+  * [ JavaScript SEO  ](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics)
+
+
+
+  * Ranking and search appearance
+  * [ Visual Elements gallery  ](https://developers.google.com/search/docs/appearance/visual-elements-gallery)
+  * [ Title links  ](https://developers.google.com/search/docs/appearance/title-link)
+  * [ Snippets  ](https://developers.google.com/search/docs/appearance/snippet)
+  * [ Images  ](https://developers.google.com/search/docs/appearance/google-images)
+  * [ Videos  ](https://developers.google.com/search/docs/appearance/video)
+  * [ Structured data  ](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
+  * [ Favicons  ](https://developers.google.com/search/docs/appearance/favicon-in-search)
+
+
+
+  * Site-specific guides
+  * [ Ecommerce  ](https://developers.google.com/search/docs/specialty/ecommerce)
+  * [ International and multilingual sites  ](https://developers.google.com/search/docs/specialty/international)
+
+
+  * Data analysis
+  * [ Get started with Search Console  ](https://developers.google.com/search/docs/monitor-debug/search-console-start)
+  * [ Debug traffic drops  ](https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops)
+  * [ Using Search Console and Google Analytics data for SEO  ](https://developers.google.com/search/docs/monitor-debug/google-analytics-search-console)
+  * [ Get started with Google Trends  ](https://developers.google.com/search/docs/monitor-debug/trends-start)
+
+
+
+[ Support ](https://developers.google.com/search/help) [ Blog ](https://developers.google.com/search/blog) [ What's new ](https://developers.google.com/search/news)
+
+  * [ All updates  ](https://developers.google.com/search/news)
+  * [ Documentation updates  ](https://developers.google.com/search/updates)
+  * [ Ranking updates  ](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history)
+  * [ New YouTube videos  ](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
+  * [ Recent podcast episodes  ](https://pod.link/1512522198)
+
+
+
+[ Events ](https://developers.google.com/search/events) [ Case studies ](https://developers.google.com/search/case-studies)
+
+`/`
+
+  * English
+  * Deutsch
+  * Español
+  * Español – América Latina
+  * Français
+  * Indonesia
+  * Italiano
+  * Polski
+  * Português – Brasil
+  * Tiếng Việt
+  * Türkçe
+  * Русский
+  * العربيّة
+  * हिंदी
+  * ภาษาไทย
+  * 中文 – 简体
+  * 中文 – 繁體
+  * 日本語
+  * 한국어
+
+Sign in
+
+  * [ Documentation ](https://developers.google.com/search/docs)
+
+
+
+[Search Console](https://goo.gle/searchconsole)
+
+[ ](https://developers.google.com/search)
+
+  * [ Google Search Central ](https://developers.google.com/search)
+
+
+
+  * [ Documentation  ](/search/docs)
+    * More 
+  * [ Support  ](/search/help)
+  * [ Blog  ](/search/blog)
+  * [ What's new  ](/search/news)
+    * More 
+  * [ Events  ](/search/events)
+  * [ Case studies  ](/search/case-studies)
+
+
+
+  * [Introduction](/search/docs)
+  * Search Essentials
+
+    * [Overview](/search/docs/essentials)
+    * [Technical requirements](/search/docs/essentials/technical)
+    * [Spam policies](/search/docs/essentials/spam-policies)
+
+  * SEO fundamentals
+
+    * [SEO Starter Guide](/search/docs/fundamentals/seo-starter-guide)
+    * [How Google Search works](/search/docs/fundamentals/how-search-works)
+    * [Creating helpful, reliable, people-first content](/search/docs/fundamentals/creating-helpful-content)
+    * Generative AI fundamentals
+
+      * [Optimizing for generative AI](/search/docs/fundamentals/ai-optimization-guide)
+      * [Guidance on using generative AI](/search/docs/fundamentals/using-gen-ai-content)
+
+    * [Maintaining your site's SEO](/search/docs/fundamentals/get-started)
+    * [Developer's guide to Search](/search/docs/fundamentals/get-started-developers)
+    * [Do you need an SEO?](/search/docs/fundamentals/do-i-need-seo)
+    * [Guidance on third-party SEO tools and advice](/search/docs/fundamentals/third-party-seo)
+
+  * Crawling and indexing
+
+    * [Overview](/search/docs/crawling-indexing)
+    * [File types Google can index](/search/docs/crawling-indexing/indexable-file-types)
+    * [URL structure](/search/docs/crawling-indexing/url-structure)
+    * [Links](/search/docs/crawling-indexing/links-crawlable)
+    * Sitemaps
+
+      * [Learn about sitemaps](/search/docs/crawling-indexing/sitemaps/overview)
+      * [Build and submit a sitemap](/search/docs/crawling-indexing/sitemaps/build-sitemap)
+      * [Manage sitemaps with sitemap index file](/search/docs/crawling-indexing/sitemaps/large-sitemaps)
+      * Sitemap extensions
+
+        * [Image sitemaps](/search/docs/crawling-indexing/sitemaps/image-sitemaps)
+        * [News sitemaps](/search/docs/crawling-indexing/sitemaps/news-sitemap)
+        * [Video sitemaps and alternatives](/search/docs/crawling-indexing/sitemaps/video-sitemaps)
+        * [Combining sitemap extensions](/search/docs/crawling-indexing/sitemaps/combine-sitemap-extensions)
+
+    * Crawler management
+
+      * [Ask Google to recrawl your URLs](/search/docs/crawling-indexing/ask-google-to-recrawl)
+      * [Troubleshoot crawl errors](/search/docs/crawling-indexing/troubleshoot-crawling-errors)
+      * Google crawlers
+
+        * [List of Google crawlers](/crawling/docs/crawlers-fetchers/overview-google-crawlers)
+        * [Googlebot](/search/docs/crawling-indexing/googlebot)
+        * [Reduce the Google crawl rate](/crawling/docs/crawlers-fetchers/reduce-crawl-rate)
+        * [Verifying Googlebot and other Google crawlers](/crawling/docs/crawlers-fetchers/verifying-googlebot)
+
+    * robots.txt
+
+      * [Introduction to robots.txt](/search/docs/crawling-indexing/robots/intro)
+      * [How Google interprets the robots.txt specification](/crawling/docs/robots-txt/robots-txt-spec)
+
+    * Canonicalization
+
+      * [What is URL canonicalization](/search/docs/crawling-indexing/canonicalization)
+      * [How to specify a canonical URL with rel="canonical" and other methods](/search/docs/crawling-indexing/consolidate-duplicate-urls)
+      * [Fix canonicalization issues](/search/docs/crawling-indexing/canonicalization-troubleshooting)
+
+    * [Mobile site and mobile-first indexing](/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing)
+    * AMP
+
+      * [About AMP on Google Search](/search/docs/crawling-indexing/amp)
+      * [Enhance AMP content](/search/docs/crawling-indexing/amp/enhance-amp)
+      * [Validate AMP content](/search/docs/crawling-indexing/amp/validate-amp)
+      * [Remove AMP content](/search/docs/crawling-indexing/amp/remove-amp)
+
+    * JavaScript
+
+      * [Understand the JavaScript SEO basics](/search/docs/crawling-indexing/javascript/javascript-seo-basics)
+      * [Fix search-related JavaScript problems](/search/docs/crawling-indexing/javascript/fix-search-javascript)
+      * [Fix lazy-loaded content](/search/docs/crawling-indexing/javascript/lazy-loading)
+      * [Dynamic rendering as a workaround](/search/docs/crawling-indexing/javascript/dynamic-rendering)
+
+    * Page and content metadata
+
+      * [Page metadata](/search/docs/crawling-indexing/valid-page-metadata)
+      * Meta tags
+
+        * [Meta tags and HTML attributes that Google supports](/search/docs/crawling-indexing/special-tags)
+        * [Robots meta tag, data-nosnippet, and X-Robots-Tag](/search/docs/crawling-indexing/robots-meta-tag)
+        * [noindex](/search/docs/crawling-indexing/block-indexing)
+
+      * [rel attributes](/search/docs/crawling-indexing/qualify-outbound-links)
+
+    * Removals
+
+      * [Control what you share with Google](/search/docs/crawling-indexing/control-what-you-share)
+      * [Page removals](/search/docs/crawling-indexing/remove-information)
+      * [Image removals](/search/docs/crawling-indexing/prevent-images-on-your-page)
+      * [Redacted information](/search/docs/crawling-indexing/keep-redacted-information-out)
+
+    * Site moves and changes
+
+      * [Redirects and Google Search](/search/docs/crawling-indexing/301-redirects)
+      * Site moves
+
+        * [Changing your hosting](/search/docs/crawling-indexing/site-move-no-url-changes)
+        * [Move a site with URL changes](/search/docs/crawling-indexing/site-move-with-url-changes)
+
+      * [A/B testing](/search/docs/crawling-indexing/website-testing)
+      * [Temporarily pause or disable a website](/search/docs/crawling-indexing/pause-online-business)
+
+  * Ranking and search appearance
+
+    * [Overview](/search/docs/appearance)
+    * [AI features](/search/docs/appearance/ai-features)
+    * [Byline dates](/search/docs/appearance/publication-dates)
+    * [Favicons](/search/docs/appearance/favicon-in-search)
+    * [Featured snippets](/search/docs/appearance/featured-snippets)
+    * [Flexible Sampling](/search/docs/appearance/flexible-sampling)
+    * [Google Discover](/search/docs/appearance/google-discover)
+    * [Images](/search/docs/appearance/google-images)
+    * Local features
+
+      * [Business details](/search/docs/appearance/establish-business-details)
+      * [Top Places List](/search/docs/appearance/top-places-list)
+      * [Opting out of local search results](https://support.google.com/webmasters/answer/3035947)
+
+    * Page experience
+
+      * [Understanding page experience](/search/docs/appearance/page-experience)
+      * [Core Web Vitals](/search/docs/appearance/core-web-vitals)
+      * [Interstitials and dialogs](/search/docs/appearance/avoid-intrusive-interstitials)
+
+    * [Preferred sources](/search/docs/appearance/preferred-sources)
+    * Ranking systems
+
+      * [A guide to Google Search ranking systems](/search/docs/appearance/ranking-systems-guide)
+      * [Reviews system](/search/docs/appearance/reviews-system)
+
+    * Ranking updates
+
+      * [List of ranking updates](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history)
+      * [Core updates](/search/docs/appearance/core-updates)
+      * [Spam updates](/search/docs/appearance/spam-updates)
+
+    * [Site names](/search/docs/appearance/site-names)
+    * [Sitelinks](/search/docs/appearance/sitelinks)
+    * [Snippets](/search/docs/appearance/snippet)
+    * Structured data
+
+      * [Understand how structured data works](/search/docs/appearance/structured-data/intro-structured-data)
+      * [Structured data general guidelines](/search/docs/appearance/structured-data/sd-policies)
+      * [Enriched search results](/search/docs/appearance/enriched-search-results)
+      * [Generate structured data with JavaScript](/search/docs/appearance/structured-data/generate-structured-data-with-javascript)
+      * Feature guides
+
+        * [All structured data features](/search/docs/appearance/structured-data/search-gallery)
+        * [Article](/search/docs/appearance/structured-data/article)
+        * [Book actions](/search/docs/appearance/structured-data/book)
+        * [Breadcrumb](/search/docs/appearance/structured-data/breadcrumb)
+        * [Carousel](/search/docs/appearance/structured-data/carousel)
+        * [Course list](/search/docs/appearance/structured-data/course)
+        * [Dataset](/search/docs/appearance/structured-data/dataset)
+        * [Discussion forum](/search/docs/appearance/structured-data/discussion-forum)
+        * [Education Q&A](/search/docs/appearance/structured-data/education-qa)
+        * [Employer aggregate rating](/search/docs/appearance/structured-data/employer-rating)
+        * [Fact check](/search/docs/appearance/structured-data/factcheck)
+        * [Event](/search/docs/appearance/structured-data/event)
+        * [Image metadata](/search/docs/appearance/structured-data/image-license-metadata)
+        * [Job posting](/search/docs/appearance/structured-data/job-posting)
+        * [Local business](/search/docs/appearance/structured-data/local-business)
+        * [Math solver](/search/docs/appearance/structured-data/math-solvers)
+        * [Movie carousel](/search/docs/appearance/structured-data/movie)
+        * [Organization](/search/docs/appearance/structured-data/organization)
+        * Shopping
+
+          * [Overview](/search/docs/appearance/structured-data/product)
+          * [Product snippet](/search/docs/appearance/structured-data/product-snippet)
+          * [Merchant listing](/search/docs/appearance/structured-data/merchant-listing)
+          * [Variants](/search/docs/appearance/structured-data/product-variants)
+          * [Loyalty program](/search/docs/appearance/structured-data/loyalty-program)
+          * [Merchant return policy](/search/docs/appearance/structured-data/return-policy)
+          * [Merchant shipping policy](/search/docs/appearance/structured-data/shipping-policy)
+
+        * [Profile page](/search/docs/appearance/structured-data/profile-page)
+        * [Q&A](/search/docs/appearance/structured-data/qapage)
+        * [Recipe](/search/docs/appearance/structured-data/recipe)
+        * [Review snippet](/search/docs/appearance/structured-data/review-snippet)
+        * [Software app](/search/docs/appearance/structured-data/software-app)
+        * [Speakable](/search/docs/appearance/structured-data/speakable)
+        * [Subscription and paywalled content](/search/docs/appearance/structured-data/paywalled-content)
+        * [Vacation rental](/search/docs/appearance/structured-data/vacation-rental)
+        * [Video](/search/docs/appearance/structured-data/video)
+
+    * [Title links](/search/docs/appearance/title-link)
+    * Translated features
+
+      * [Translated results](/search/docs/appearance/translated-results)
+      * [Ad networks and translation-related Google Search features](/search/docs/appearance/ad-network-and-translation)
+
+    * [Videos](/search/docs/appearance/video)
+    * [Visual Elements gallery](/search/docs/appearance/visual-elements-gallery)
+    * Web Stories
+
+      * [Enable Web Stories on Google](/search/docs/appearance/enable-web-stories)
+      * [Best practices for creating Web Stories](/search/docs/appearance/web-stories-creation-best-practices)
+      * [Web Story content policy](/search/docs/appearance/web-stories-content-policy)
+
+    * Early Adopters Program
+
+      * [Package tracking](/search/docs/appearance/package-tracking)
+      * [Structured data carousels (beta)](/search/docs/appearance/structured-data/carousels-beta)
+
+  * Monitoring and debugging
+
+    * [Debug drops in Search traffic](/search/docs/monitor-debug/debugging-search-traffic-drops)
+    * Monitor with Search Console
+
+      * [Get started with Search Console](/search/docs/monitor-debug/search-console-start)
+      * [Improve SEO with a bubble chart](/search/docs/monitor-debug/bubble-chart-analysis)
+      * [Using Search Console and Google Analytics data for SEO](/search/docs/monitor-debug/google-analytics-search-console)
+
+    * Debug with search operators
+
+      * [Overview](/search/docs/monitor-debug/search-operators)
+      * [site: search operator](/search/docs/monitor-debug/search-operators/all-search-site)
+      * [Google Images search operators](/search/docs/monitor-debug/search-operators/image-search)
+
+    * Preventing and monitoring abuse
+
+      * [Overview](/search/docs/monitor-debug/security)
+      * [Prevent user-generated spam](/search/docs/monitor-debug/prevent-abuse)
+      * [Malware and unwanted software](/search/docs/monitor-debug/security/malware)
+      * [Prevent a malware infection](/search/docs/monitor-debug/security/prevent-malware)
+      * [Social engineering (phishing and deceptive sites)](/search/docs/monitor-debug/security/social-engineering)
+      * [Google Safe Browsing Repeat Offenders Policy](/search/docs/monitor-debug/security/safe-browsing-repeat-offenders)
+
+    * [Get started with Google Trends](/search/docs/monitor-debug/trends-start)
+
+  * Site-specific guides
+
+    * Ecommerce
+
+      * [Overview](/search/docs/specialty/ecommerce)
+      * [Where content can appear](/search/docs/specialty/ecommerce/where-ecommerce-data-can-appear-on-google)
+      * [Share product data](/search/docs/specialty/ecommerce/share-your-product-data-with-google)
+      * [Include structured data](/search/docs/specialty/ecommerce/include-structured-data-relevant-to-ecommerce)
+      * [Launch a new website](/search/docs/specialty/ecommerce/how-to-launch-an-ecommerce-website)
+      * [Write high quality reviews](/search/docs/specialty/ecommerce/write-high-quality-reviews)
+      * [Design a URL structure](/search/docs/specialty/ecommerce/designing-a-url-structure-for-ecommerce-sites)
+      * [Ecommerce site structure](/search/docs/specialty/ecommerce/help-google-understand-your-ecommerce-site-structure)
+      * [Pagination, incremental page loading, and Search](/search/docs/specialty/ecommerce/pagination-and-incremental-page-loading)
+
+    * International and multilingual
+
+      * [Overview](/search/docs/specialty/international)
+      * [Managing multi-regional and multilingual sites](/search/docs/specialty/international/managing-multi-regional-sites)
+      * [Tell Google about localized versions of your page](/search/docs/specialty/international/localized-versions)
+      * [How Google crawls locale-adaptive pages](/search/docs/specialty/international/locale-adaptive-pages)
+
+    * Explicit content
+
+      * [Guidelines for sites with explicit content](/search/docs/specialty/explicit/guidelines)
+      * [What to do if your site is incorrectly flagged as explicit](/search/docs/specialty/explicit/troubleshooting)
+
+
+
+  * SEO fundamentals 
+  * [ Introduction  ](/search/docs)
+  * [ Search Essentials  ](/search/docs/essentials)
+  * [ SEO Starter Guide  ](/search/docs/fundamentals/seo-starter-guide)
+  * [ Optimizing for generative AI search  ](/search/docs/fundamentals/ai-optimization-guide)
+  * [ How Google Search Works  ](/search/docs/fundamentals/how-search-works)
+  * [ Do you need an SEO?  ](/search/docs/fundamentals/do-i-need-seo)
+  * Crawling and indexing 
+  * [ Sitemaps  ](/search/docs/crawling-indexing/sitemaps/overview)
+  * [ robots.txt  ](/search/docs/crawling-indexing/robots/intro)
+  * [ Meta tags  ](/search/docs/crawling-indexing/special-tags)
+  * [ Crawler management  ](/search/docs/crawling-indexing/ask-google-to-recrawl)
+  * [ Removals  ](/search/docs/crawling-indexing/control-what-you-share)
+  * [ Canonicalization  ](/search/docs/crawling-indexing/consolidate-duplicate-urls)
+  * [ Redirects  ](/search/docs/crawling-indexing/301-redirects)
+  * [ JavaScript SEO  ](/search/docs/crawling-indexing/javascript/javascript-seo-basics)
+  * Ranking and search appearance 
+  * [ Visual Elements gallery  ](/search/docs/appearance/visual-elements-gallery)
+  * [ Title links  ](/search/docs/appearance/title-link)
+  * [ Snippets  ](/search/docs/appearance/snippet)
+  * [ Images  ](/search/docs/appearance/google-images)
+  * [ Videos  ](/search/docs/appearance/video)
+  * [ Structured data  ](/search/docs/appearance/structured-data/search-gallery)
+  * [ Favicons  ](/search/docs/appearance/favicon-in-search)
+  * Site-specific guides 
+  * [ Ecommerce  ](/search/docs/specialty/ecommerce)
+  * [ International and multilingual sites  ](/search/docs/specialty/international)
+  * Data analysis 
+  * [ Get started with Search Console  ](/search/docs/monitor-debug/search-console-start)
+  * [ Debug traffic drops  ](/search/docs/monitor-debug/debugging-search-traffic-drops)
+  * [ Using Search Console and Google Analytics data for SEO  ](/search/docs/monitor-debug/google-analytics-search-console)
+  * [ Get started with Google Trends  ](/search/docs/monitor-debug/trends-start)
+
+
+  * [ All updates  ](/search/news)
+  * [ Documentation updates  ](/search/updates)
+  * [ Ranking updates  ](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history)
+  * [ New YouTube videos  ](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
+  * [ Recent podcast episodes  ](https://pod.link/1512522198)
+
+
+
+  * [ Home ](https://developers.google.com/)
+  * [ Search Central ](https://developers.google.com/search)
+  * [ Documentation ](https://developers.google.com/search/docs)
+
+
+
+Send feedback 
+
+# Introduction to structured data markup in Google Search
+
+Google Search works hard to understand the content of a page. You can help us by providing explicit clues about the meaning of a page to Google by including structured data on the page. Structured data is a standardized format for providing information about a page and classifying the page content; for example, on a recipe page, what are the ingredients, the cooking time and temperature, the calories, and so on.
+
+## Why add structured data to a page?
+
+Adding structured data can enable search results that are more engaging to users and might encourage them to interact more with your website, which are called _rich results_. Here are some case studies of websites that have implemented structured data for their site:
+
+  * Rotten Tomatoes added structured data to 100,000 unique pages and measured a 25% higher click-through rate for pages enhanced with structured data, compared to pages without structured data.
+  * The Food Network has converted 80% of their pages to enable search features, and has seen a 35% increase in visits.
+  * Rakuten has found that users spend 1.5x more time on pages that implemented structured data than on non-structured data pages, and have a 3.6x higher interaction rate on AMP pages with search features vs non-feature AMP pages.
+  * Nestlé has measured pages that show as rich results in search have an 82% higher click through rate than non-rich result pages.
+
+Read more [case studies from sites that have implemented structured data](/search/case-studies). 
+
+## How structured data works in Google Search
+
+Google uses structured data that it finds on the web to understand the content of the page, as well as to gather information about the web and the world in general, such as information about the people, books, or companies that are included in the markup. For example, when a recipe page has [JSON-LD](https://json-ld.org) structured data (describing the title of the recipe, the author of the recipe, and other details), Google Search can use that information to display a rich result for the recipe: 
+
+Because the structured data labels each individual element of the recipe, users can search for your recipe by ingredient, calorie count, cook time, and so on.
+
+**If you use a CMS, such as Wix, WordPress, or Shopify,** you might not be able to edit your HTML directly. Instead, your CMS may have a search engine settings page, or you may be able to install a plugin that allows you to specify structured data. Search for instructions about adding structured data to your CMS (for example, search for "wix structured data" or "wordpress structured data plugin").
+
+Structured data is coded using in-page markup on the page that the information applies to. The structured data on the page describes the content of that page. Don't create blank or empty pages just to hold structured data, and don't add structured data about information that is not visible to the user, even if the information is accurate. For more technical and quality guidelines, see the [Structured data general guidelines](/search/docs/guides/sd-policies). 
+
+The [Rich Results Test](https://search.google.com/test/rich-results) is an easy and useful tool for validating your structured data, and in some cases, previewing a feature in Google Search. Try it out: 
+
+<html> <head> <title>Non-Alcoholic Piña Colada</title> <script type="application/ld+json"> { "@context": "https://schema.org/", "@type": "Recipe", "name": "Non-Alcoholic Piña Colada", "image": [ "https://example.com/photos/1x1/photo.jpg", "https://example.com/photos/4x3/photo.jpg", "https://example.com/photos/16x9/photo.jpg" ], "author": { "@type": "Person", "name": "Mary Stone" }, "datePublished": "2024-03-10", "description": "This non-alcoholic pina colada is everyone's favorite!", "recipeCuisine": "American", "prepTime": "PT1M", "cookTime": "PT2M", "totalTime": "PT3M", "keywords": "non-alcoholic", "recipeYield": "4 servings", "recipeCategory": "Drink", "nutrition": { "@type": "NutritionInformation", "calories": "120 calories" }, "aggregateRating": { "@type": "AggregateRating", "ratingValue": 5, "ratingCount": 18 }, "recipeIngredient": [ "400ml of pineapple juice", "100ml cream of coconut", "ice" ], "recipeInstructions": [ { "@type": "HowToStep", "name": "Blend", "text": "Blend 400ml of pineapple juice and 100ml cream of coconut until smooth.", "url": "https://example.com/non-alcoholic-pina-colada#step1", "image": "https://example.com/photos/non-alcoholic-pina-colada/step1.jpg" }, { "@type": "HowToStep", "name": "Fill", "text": "Fill a glass with ice.", "url": "https://example.com/non-alcoholic-pina-colada#step2", "image": "https://example.com/photos/non-alcoholic-pina-colada/step2.jpg" }, { "@type": "HowToStep", "name": "Pour", "text": "Pour the pineapple juice and coconut mixture over ice.", "url": "https://example.com/non-alcoholic-pina-colada#step3", "image": "https://example.com/photos/non-alcoholic-pina-colada/step3.jpg" } ], "video": { "@type": "VideoObject", "name": "How to Make a Non-Alcoholic Piña Colada", "description": "This is how you make a non-alcoholic piña colada.", "thumbnailUrl": [ "https://example.com/photos/1x1/photo.jpg", "https://example.com/photos/4x3/photo.jpg", "https://example.com/photos/16x9/photo.jpg" ], "contentUrl": "https://www.example.com/video123.mp4", "embedUrl": "https://www.example.com/videoplayer?video=123", "uploadDate": "2024-02-05T08:00:00+08:00", "duration": "PT1M33S", "interactionStatistic": { "@type": "InteractionCounter", "interactionType": { "@type": "WatchAction" }, "userInteractionCount": 2347 }, "expires": "2024-02-05T08:00:00+08:00" } } </script> </head> <body> </body> </html>
+
+## Structured data vocabulary and format
+
+This documentation describes which properties are required, recommended, or optional for structured data with special meaning to Google Search. Most Search structured data uses [schema.org](https://schema.org/) vocabulary, but you should rely on the Google Search Central documentation as definitive for Google Search behavior, rather than the schema.org documentation. There are more attributes and objects on schema.org that aren't required by Google Search; they may be useful for other search engines, services, tools, and platforms.
+
+Data-vocabulary.org markup is no longer eligible for Google rich result features. Learn more about [sunsetting support for data-vocabulary](/search/blog/2020/01/data-vocabulary).
+
+Be sure to check your structured data using the [Rich Results Test](https://search.google.com/test/rich-results) during development, and the [Rich result status reports](https://support.google.com/webmasters/answer/7552505) after deployment, to monitor the validity of your pages, which might break after deployment due to templating or serving issues.
+
+You must include all the required properties for an object to be eligible for appearance in Google Search with enhanced display. In general, defining more recommended features can make it more likely that your information can appear in Search results with enhanced display. **However** , it is more important to supply fewer but complete and accurate recommended properties rather than trying to provide every possible recommended property with less complete, badly-formed, or inaccurate data.
+
+In addition to the properties and objects documented here, Google can make general use of the [`sameAs`](https://schema.org/sameAs) property and other [schema.org](https://schema.org/) structured data. Some of these elements may be used to enable future Search features, if they are deemed useful.
+
+###  Supported formats 
+
+Google Search supports structured data in the following formats, unless documented otherwise. In general, we recommend using a format that's easiest for you to implement and maintain (in most cases, that's JSON-LD); all 3 formats are equally fine for Google, as long as the markup is valid and properly implemented per the feature's documentation. 
+
+Formats  
+---  
+[JSON-LD](https://json-ld.org/)* **(Recommended)** | A JavaScript notation embedded in a `<script>` tag in the `<head>` and `<body>` elements of an HTML page. The markup is not interleaved with the user-visible text, which makes nested data items easier to express, such as the `Country` of a `PostalAddress` of a `MusicVenue` of an `Event`. Also, Google can read JSON-LD data when it is [dynamically injected into the page's contents](/search/docs/guides/generate-structured-data-with-javascript), such as by JavaScript code or embedded widgets in your content management system.  
+[Microdata](https://html.spec.whatwg.org/multipage/microdata.html#microdata) | An open-community HTML specification used to nest structured data within HTML content. Like RDFa, it uses HTML tag attributes to name the properties you want to expose as structured data. It is typically used in the `<body>` element, but can be used in the `<head>` element.  
+[RDFa](https://rdfa.info/) | An HTML5 extension that supports linked data by introducing [HTML tag attributes](https://www.w3.org/TR/rdfa-lite/#the-attributes) that correspond to the user-visible content that you want to describe for search engines. RDFa is commonly used in both the `<head>` and `<body>` sections of the HTML page.  
+In general, Google recommends using JSON-LD for structured data if your site's setup allows it, as it's the easiest solution for website owners to implement and maintain at scale (in other words, less prone to user errors). 
+
+## Structured data guidelines
+
+Be sure to follow the [general structured data guidelines](/search/docs/appearance/structured-data/sd-policies), as well as any guidelines specific to your structured data type; otherwise your structured data might be ineligible for rich result display in Google Search.
+
+## Get started with structured data
+
+If you're new to structured data, check out [schema.org beginner's guide to structured data](https://schema.org/docs/gs.html). While the guide focuses on Microdata, the basic ideas are relevant for JSON-LD and RDFa.
+
+Once you're comfortable with the basics of structured data, explore the [list of structured data features in Google Search](/search/docs/appearance/structured-data/search-gallery) and pick a feature to implement. Each guide goes into detail on how to implement the structured data in a way that makes your site eligible for a rich result appearance on Google Search.
+
+[Choose a feature](/search/docs/appearance/structured-data/search-gallery)
+
+## Measuring the effect of structured data
+
+You probably want to compare performance of your pages with structured data with those pages that don't have structured data, in order to decide if it's worth your effort. The best way to do that is to run a [before and after test on a few pages on your site](/search/docs/crawling-indexing/website-testing). This can be a little tricky, since page views can vary for a single page for various reasons.
+
+  1. Take some pages on your site that are not using any structured data, and have several months of data in Search Console. Be sure to choose pages that won't be affected by the time of year or timeliness of the page content; use pages that won't change much, but are still popular enough to be read often enough to generate meaningful data.
+  2. Add structured data or other features to your pages. Confirm that your markup is valid, and that Google has found your structured data using the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289) on your page.
+  3. Record the performance for a few months in the [Performance report](https://support.google.com/webmasters/answer/7576553#by_search_appearance), and filter by URL to compare performance of your page.
+
+
+
+Send feedback 
+
+Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
+
+Last updated 2025-12-10 UTC.
+
+Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2025-12-10 UTC."],[],["Structured data enhances Google Search's understanding of web page content. Implementing it using formats like JSON-LD, Microdata, or RDFa can result in rich results. Case studies show increased click-through rates, visits, and user engagement on pages with structured data. CMS users can add it via plugins or settings. Use the Rich Results Test for validation. Adhere to guidelines and prioritize complete, accurate properties. After implementing, compare the performance of pages with and without structured data to assess its impact.\n"]] 
+
+  * [ LinkedIn  ](https://www.linkedin.com/showcase/googlesearchcentral/)
+
+Join us on LinkedIn
+
+  * [ YouTube  ](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
+
+Watch our videos
+
+  * [ Blog  ](https://feeds.feedburner.com/blogspot/amDG)
+
+Subscribe to our RSS feed
+
+  * [ Podcast  ](https://pod.link/1512522198)
+
+Listen to Search Off the Record
+
+  * [ X (Twitter)  ](https://twitter.com/googlesearchc)
+
+Join us on X (Twitter)
+
+
+
+
+  * ### Get support
+
+    * [ Go to the help forum ](https://support.google.com/webmasters/community)
+    * [ Submit a question for office hours ](/search/help/office-hours)
+    * [ Report spam, phishing, or malware ](/search/help/report-quality-issues)
+    * [ More support resources ](/search/help)
+  * ### Resources
+
+    * [ Do you need an SEO? ](/search/docs/fundamentals/get-on-google)
+    * [ SEO Starter Guide ](/search/docs/fundamentals/seo-starter-guide)
+    * [ Status of Search systems ](https://status.search.google.com)
+    * [ Search Console documentation ](https://support.google.com/webmasters)
+    * [ Case Studies ](/search/case-studies)
+  * ### Tools
+
+    * [ Search Console ](https://search.google.com/search-console)
+    * [ Rich Results Test ](https://search.google.com/test/rich-results)
+    * [ PageSpeed Insights ](https://pagespeed.web.dev)
+    * [ AMP Test ](https://search.google.com/test/amp)
+
+
+
+[ ](https://developers.google.com/)
+
+  * [ Android ](//developer.android.com)
+  * [ Chrome ](//developer.chrome.com/home)
+  * [ Firebase ](//firebase.google.com)
+  * [ Google Cloud Platform ](//cloud.google.com)
+  * [ Google AI ](//ai.google.dev/)
+  * [ All products ](/products)
+
+
+
+  * [ Terms ](/terms/site-terms)
+  * [ Privacy ](//policies.google.com/privacy)
+  * Manage cookies 
+
+
+
+  * English
+  * Deutsch
+  * Español
+  * Español – América Latina
+  * Français
+  * Indonesia
+  * Italiano
+  * Polski
+  * Português – Brasil
+  * Tiếng Việt
+  * Türkçe
+  * Русский
+  * العربيّة
+  * हिंदी
+  * ภาษาไทย
+  * 中文 – 简体
+  * 中文 – 繁體
+  * 日本語
+  * 한국어
+
+

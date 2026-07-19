@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/schemaorg/schemaorg/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/schemaorg/schemaorg/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/schemaorg/schemaorg/releases.atom"/>
+  <title>Release notes from schemaorg</title>
+  
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v30.0</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v30.0"/>
+    <title>Release v30.0</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v30.0&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v29.4-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v29.4-release"/>
+    <title>Release v29.4-release</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v29.4-release&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v29.3-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v29.3-release"/>
+    <title>Release v29.3-release</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v29.3-release&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v29.2-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v29.2-release"/>
+    <title>Release v29.2-release</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v29.2-release&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v29.1-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v29.1-release"/>
+    <title>Release v29.1-release</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v29.1-release&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v29.0-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v29.0-release"/>
+    <title>Release v29.0-release</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v29.0-release&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v28.1-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v28.1-release"/>
+    <title>Release v28.1-release</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v28.1-release&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v28.0-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v28.0-release"/>
+    <title>Release v28.0-release</title>
+    <content type="html">&lt;p&gt;Release created automatically from push of refs/tags/v28.0-release&lt;/p&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v27.02-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v27.02-release"/>
+    <title>Release v27.02-release</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/schemaorg/schemaorg/pull/3556&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/schemaorg/schemaorg/pull/3556/hovercard&quot;&gt;PR #3556&lt;/a&gt;: Updates references for webschemas.org to staging.schema.org.&lt;br&gt;
+&lt;a href=&quot;https://github.com/schemaorg/schemaorg/pull/3557&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/schemaorg/schemaorg/pull/3557/hovercard&quot;&gt;PR #3557&lt;/a&gt;: Fix formatting for markdown documentation files.&lt;/p&gt;</content>
+    <author>
+      <name>beets</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6052978?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/16394957/v27.01-release</id>
+    
+    <link rel="alternate" type="text/html" href="https://github.com/schemaorg/schemaorg/releases/tag/v27.01-release"/>
+    <title>Release v27.01-release</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/schemaorg/schemaorg/issues/3544&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/schemaorg/schemaorg/issues/3544/hovercard&quot;&gt;Issue #3544&lt;/a&gt;: Update to Schema.org site design.&lt;br&gt;
+&lt;a href=&quot;https://github.com/schemaorg/schemaorg/issues/3542&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/schemaorg/schemaorg/issues/3542/hovercard&quot;&gt;Issue #3542&lt;/a&gt;: Extend &#39;MerchantReturnPolicySeasonalOverride&#39; to enable overrides of more properties.&lt;br&gt;
+&lt;a href=&quot;https://github.com/schemaorg/schemaorg/pull/3338&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/schemaorg/schemaorg/pull/3338/hovercard&quot;&gt;PR #3338&lt;/a&gt;: Update to &lt;a href=&quot;https://schemaorg-staging.uc.r.appspot.com/DonateAction&quot; rel=&quot;nofollow&quot;&gt;DonateAction&lt;/a&gt; to extend &lt;a href=&quot;https://schemaorg-staging.uc.r.appspot.com/TradeAction&quot; rel=&quot;nofollow&quot;&gt;TradeAction&lt;/a&gt;.&lt;/p&gt;</content>
+    <author>
+      <name>beets</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6052978?s=60&amp;v=4"/>
+  </entry>
+</feed>
