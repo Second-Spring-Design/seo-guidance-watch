@@ -487,8 +487,10 @@ Apps SDKWorkspace AgentsCommerceAdsDocs sectionSelect...
   * [ Overview ](/ads/api-overview)
   * [ API partner setup ](/ads/api-partner-setup)
   * [ Quickstart ](/ads/api-quickstart)
+  * [ Bulk API ](/ads/bulk-api)
   * [ Product feeds ](/ads/product-feeds)
   * [ Campaign Targeting ](/ads/campaign-targeting)
+  * [ Conversion-optimized campaigns ](/ads/conversion-optimized-campaigns)
 
 
 
@@ -697,6 +699,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ CLI customization ](/codex/cli-customization)
   * [ Developer commands ](/codex/developer-commands)
   * [ Developer settings ](/codex/developer-settings)
+  * [ Plugin submission errors ](/codex/plugin-submission-errors)
 
 
 
@@ -860,11 +863,11 @@ ShowcaseBlogCookbookLearnCommunityDocs sectionSelect...
 
 ###  Recent 
 
+  * [ Custom Code Review rules for Codex ](/blog/custom-code-review-rules-for-codex)
   * [ Mastering remote engineering work from your phone ](/blog/mastering-codex-remote-for-engineering)
   * [ Making private MCP servers reachable without making them public ](/blog/connect-private-mcp-servers-to-openai-products)
   * [ How Perplexity Brought Voice Search to Millions Using the Realtime API ](/blog/realtime-perplexity-computer)
   * [ Designing delightful frontends with GPT-5.4 ](/blog/designing-delightful-frontends-with-gpt-5-4)
-  * [ From prompts to products: One year of Responses ](/blog/one-year-of-responses)
 
 
 
