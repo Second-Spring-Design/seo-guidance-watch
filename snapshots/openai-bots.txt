@@ -90,6 +90,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 
   * [ Changelog ](/api/docs/changelog)
   * [ Deprecations ](/api/docs/deprecations)
+  * [ Spend limits ](/api/docs/guides/spend-limits)
   * [ Supported countries ](/api/docs/supported-countries)
   * [ OpenAI Crawlers ](/api/docs/bots)
   * [ Terms and policies  ](https://openai.com/policies)
@@ -1004,6 +1005,7 @@ ShowcaseBlogCookbookLearnCommunityDocs sectionSelect...
 
   * [ Changelog  ](/api/docs/changelog)
   * [ Deprecations  ](/api/docs/deprecations)
+  * [ Spend limits  ](/api/docs/guides/spend-limits)
   * [ Supported countries  ](/api/docs/supported-countries)
   * [ OpenAI Crawlers  ](/api/docs/bots)
   * [ Terms and policies  ](https://openai.com/policies)
