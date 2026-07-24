@@ -582,6 +582,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Browser ](/codex/browser)
   * [ Computer use ](/codex/computer-use)
+  * [ Voice ](/codex/features/voice)
   * [ Plugins ](/codex/plugins)
   * [ Web search ](/codex/web-search)
   * [ Image generation ](/codex/image-generation)
@@ -751,7 +752,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Getting started 
 
   * [ Admin rollout guide ](/codex/enterprise/admin-setup)
-  * [ Work mode admin FAQ ](/codex/enterprise/work-admin-faq)
+  * [ ChatGPT Work admin FAQ ](/codex/enterprise/work-admin-faq)
 
 
 
@@ -1079,6 +1080,8 @@ Full user-agent string: `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); com
   
 Published IP addresses: <https://openai.com/chatgpt-user.json>  
   
+Subscribe to the [RSS feed](/api/docs/bots/rss.xml) for updates to this page. 
+
 Ask AI
 
 ##  Docs agent 
