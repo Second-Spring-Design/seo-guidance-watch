@@ -16,7 +16,7 @@
 
 [ ChatGPT  ](/chatgpt)
 
-[ Apps SDK Build apps to extend ChatGPT  ](/apps-sdk)[ Workspace Agents Trigger published ChatGPT workspace agents  ](/workspace-agents)[ Commerce Build commerce flows in ChatGPT  ](/commerce)[ Ads Publish and measure ads in ChatGPT  ](/ads)
+[ Plugins Extend ChatGPT and Codex  ](/plugins)[ Workspace Agents Trigger published ChatGPT workspace agents  ](/workspace-agents)[ Commerce Build commerce flows in ChatGPT  ](/commerce)[ Ads Publish and measure ads in ChatGPT  ](/ads)
 
 [ Resources  ](/learn)
 
@@ -90,7 +90,6 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 
   * [ Changelog ](/api/docs/changelog)
   * [ Deprecations ](/api/docs/deprecations)
-  * [ Spend limits ](/api/docs/guides/spend-limits)
   * [ Supported countries ](/api/docs/supported-countries)
   * [ OpenAI Crawlers ](/api/docs/bots)
   * [ Terms and policies  ](https://openai.com/policies)
@@ -354,6 +353,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 ###  Operations 
 
   * [ Rate limits ](/api/docs/guides/rate-limits)
+  * [ Spend limits ](/api/docs/guides/spend-limits)
   * [ Admin APIs ](/api/docs/guides/admin-apis)
   * [ Error codes ](/api/docs/guides/error-codes)
 
@@ -363,72 +363,72 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 
 DocsUse casesDocs sectionDocs
 
-Apps SDK  Workspace Agents  Commerce  Ads 
+Plugins  Workspace Agents  Commerce  Ads 
 
-Apps SDKWorkspace AgentsCommerceAdsDocs sectionSelect...
+PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
 
-  * [ Home ](/apps-sdk)
-  * [ Quickstart ](/apps-sdk/quickstart)
+  * [ Home ](/plugins)
+  * [ Quickstart ](/plugins/quickstart)
 
 
 
-###  Core Concepts 
+###  Core concepts 
 
-  * [ MCP Apps in ChatGPT ](/apps-sdk/mcp-apps-in-chatgpt)
-  * [ MCP Server ](/apps-sdk/concepts/mcp-server)
-  * [ UX principles ](/apps-sdk/concepts/ux-principles)
-  * [ UI guidelines ](/apps-sdk/concepts/ui-guidelines)
+  * [ Plugin architecture ](/plugins/concepts/plugins)
+  * [ Skills ](/plugins/concepts/skills)
+  * [ MCP server ](/plugins/concepts/mcp-server)
 
 
 
 ###  Plan 
 
-  * [ Research use cases ](/apps-sdk/plan/use-case)
-  * [ Define tools ](/apps-sdk/plan/tools)
-  * [ Design components ](/apps-sdk/plan/components)
+  * [ Brainstorm use cases ](/plugins/plan/use-case)
+  * [ Define tools ](/plugins/plan/tools)
 
 
 
 ###  Build 
 
-  * [ Set up your server ](/apps-sdk/build/mcp-server)
-  * [ Build your ChatGPT UI ](/apps-sdk/build/chatgpt-ui)
-  * [ Authenticate users ](/apps-sdk/build/auth)
-  * [ Manage state ](/apps-sdk/build/state-management)
-  * [ Monetize your app ](/apps-sdk/build/monetization)
-  * [ Examples ](/apps-sdk/build/examples)
+  * [ Build an MCP server ](/plugins/build/mcp-server)
+  * [ Add UI to your MCP server (optional) ](/plugins/build/chatgpt-ui)
+  * [ Authenticate users ](/plugins/build/auth)
+  * [ Build skills ](/plugins/build/skills)
+  * [ Package your plugin ](/plugins/build/plugins)
+  * [ Examples ](/plugins/build/examples)
 
 
 
-###  Deploy 
+###  Test and publish 
 
-  * [ Deploy your app ](/apps-sdk/deploy)
-  * [ Connect from ChatGPT ](/apps-sdk/deploy/connect-chatgpt)
-  * [ Test your integration ](/apps-sdk/deploy/testing)
-  * [ Prepare your app ](/apps-sdk/deploy/submission)
-
+  * [ Connect and test your plugin ](/plugins/deploy/connect-chatgpt)
+  * [ Submit and publish ](/plugins/deploy/submission)
+  * [ Submission error reference ](/plugins/deploy/submission-errors)
 
 
-###  Conversion apps 
 
-  * [ Restaurant reservation spec ](/apps-sdk/guides/restaurant-reservation-conversion-spec)
-  * [ Product checkout spec ](/apps-sdk/guides/product-checkout-conversion-spec)
+###  Conversion specs 
+
+  * [ Restaurant reservation spec ](/plugins/guides/restaurant-reservation-conversion-spec)
+  * [ Product checkout spec ](/plugins/guides/product-checkout-conversion-spec)
 
 
 
 ###  Guides 
 
-  * [ Optimize Metadata ](/apps-sdk/guides/optimize-metadata)
-  * [ Security & Privacy ](/apps-sdk/guides/security-privacy)
-  * [ Troubleshooting ](/apps-sdk/deploy/troubleshooting)
+  * [ UI guidelines ](/plugins/concepts/ui-guidelines)
+  * [ Optimize Metadata ](/plugins/guides/optimize-metadata)
+  * [ Security & Privacy ](/plugins/guides/security-privacy)
+  * [ Troubleshooting ](/plugins/deploy/troubleshooting)
 
 
 
 ###  Resources 
 
-  * [ Changelog ](/apps-sdk/changelog)
-  * [ App guidelines ](/apps-sdk/app-guidelines)
-  * [ Reference ](/apps-sdk/reference)
+  * [ Changelog ](/plugins/changelog)
+  * [ Plugin guidelines ](/plugins/app-guidelines)
+  * [ MCP server review requirements ](/plugins/deploy/app-review)
+  * [ Plugin UI reference ](/plugins/reference)
+  * [ Checkout API reference ](/plugins/build/monetization)
 
 
 
@@ -663,8 +663,6 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Build skills ](/codex/build-skills)
   * [ Build plugins ](/codex/build-plugins)
-  * [ Build an app ](/codex/build-app)
-  * [ Submit plugins ](/codex/submit-plugins)
   * [ Hooks ](/codex/hooks)
 
 
@@ -701,7 +699,6 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ CLI customization ](/codex/cli-customization)
   * [ Developer commands ](/codex/developer-commands)
   * [ Developer settings ](/codex/developer-settings)
-  * [ Plugin submission errors ](/codex/plugin-submission-errors)
 
 
 
@@ -1006,7 +1003,6 @@ ShowcaseBlogCookbookLearnCommunityDocs sectionSelect...
 
   * [ Changelog  ](/api/docs/changelog)
   * [ Deprecations  ](/api/docs/deprecations)
-  * [ Spend limits  ](/api/docs/guides/spend-limits)
   * [ Supported countries  ](/api/docs/supported-countries)
   * [ OpenAI Crawlers  ](/api/docs/bots)
   * [ Terms and policies  ](https://openai.com/policies)

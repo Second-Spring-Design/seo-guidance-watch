@@ -175,6 +175,15 @@ To get the latest Search Central documentation updates delivered to you, add the
 
 ## July 2026
 
+July 24
+    
+
+### Added a new review snippet guideline
+
+**What** : Added a new guideline to the [review snippet documentation](/search/docs/appearance/structured-data/review-snippet#guidelines) about fake and undisclosed incentivized reviews. 
+
+**Why** : To improve user review transparency. 
+
 July 14
     
 
@@ -2348,9 +2357,9 @@ Send feedback
 
 Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
 
-Last updated 2026-07-14 UTC.
+Last updated 2026-07-24 UTC.
 
-Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-07-14 UTC."],[],["Core updates include enhancements to structured data, with new properties like `priceType` and `validForMemberTier`, alongside support for 3D models and organization-level return policies. Documentation was added for faceted navigation URLs, robots.txt error handling, and cache control headers. New crawlers (`Google-CloudVertexBot`, `GoogleOther-Image`, `GoogleOther-Video`) were introduced, and core update documentation was restructured. Policies were added for expired domain, scaled content, and site reputation abuse. A lot of information was also removed or updated.\n"]] 
+Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-07-24 UTC."],[],["Core updates include enhancements to structured data, with new properties like `priceType` and `validForMemberTier`, alongside support for 3D models and organization-level return policies. Documentation was added for faceted navigation URLs, robots.txt error handling, and cache control headers. New crawlers (`Google-CloudVertexBot`, `GoogleOther-Image`, `GoogleOther-Video`) were introduced, and core update documentation was restructured. Policies were added for expired domain, scaled content, and site reputation abuse. A lot of information was also removed or updated.\n"]] 
 
   * [ LinkedIn  ](https://www.linkedin.com/showcase/googlesearchcentral/)
 
