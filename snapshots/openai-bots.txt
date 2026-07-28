@@ -1,3 +1,5 @@
+For the complete documentation index, see [llms.txt](/llms.txt). Markdown versions of documentation pages are available by appending `.md` to the page URL. 
+
 [ ChatGPT ](/)
 
 [ Home ](/)
@@ -343,6 +345,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
     * [ AWS ](/api/docs/guides/workload-identity-federation/aws)
     * [ Microsoft Azure ](/api/docs/guides/workload-identity-federation/microsoft-azure)
     * [ Google Cloud ](/api/docs/guides/workload-identity-federation/google-cloud)
+    * [ Oracle Cloud Infrastructure ](/api/docs/guides/workload-identity-federation/oracle-cloud)
     * [ GitHub Actions ](/api/docs/guides/workload-identity-federation/github-actions)
     * [ SPIFFE ](/api/docs/guides/workload-identity-federation/spiffe)
   * [ IP egress ranges ](/api/docs/guides/ip-addresses)
