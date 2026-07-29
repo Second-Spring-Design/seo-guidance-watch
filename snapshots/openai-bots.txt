@@ -276,8 +276,9 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 ###  Audio 
 
   * [ Audio and speech ](/api/docs/guides/audio)
+  * [ Transcription ](/api/docs/guides/transcription)
+  * [ File transcription ](/api/docs/guides/speech-to-text)
   * [ Realtime transcription ](/api/docs/guides/realtime-transcription)
-  * [ Speech to text ](/api/docs/guides/speech-to-text)
   * [ Speech generation ](/api/docs/guides/text-to-speech)
 
 
@@ -339,6 +340,13 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 
 ###  Infrastructure and access 
 
+  * [ Terraform provider ](/api/docs/guides/terraform)
+    * [ Overview ](/api/docs/guides/terraform)
+    * [ Projects and access ](/api/docs/guides/terraform/projects-and-access)
+    * [ Service accounts ](/api/docs/guides/terraform/service-accounts)
+    * [ Rate limits and spend ](/api/docs/guides/terraform/rate-limits-and-spend)
+    * [ Model, tool, and data controls ](/api/docs/guides/terraform/project-controls)
+    * [ Import and reconciliation ](/api/docs/guides/terraform/import-and-reconcile)
   * [ Private Link ](/api/docs/guides/private-link)
   * [ Workload identity federation ](/api/docs/guides/workload-identity-federation)
     * [ Kubernetes ](/api/docs/guides/workload-identity-federation/kubernetes)
@@ -412,6 +420,7 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
 ###  Conversion specs 
 
   * [ Restaurant reservation spec ](/plugins/guides/restaurant-reservation-conversion-spec)
+  * [ Get Quote spec ](/plugins/guides/local-services-request-quote-conversion-spec)
   * [ Product checkout spec ](/plugins/guides/product-checkout-conversion-spec)
 
 
@@ -722,7 +731,6 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Codex Security 
 
   * [ Overview ](/codex/security)
-  * [ Cloud FAQ ](/codex/security/faq)
   * Codex Security plugin
     * [ Quickstart ](/codex/security/plugin)
     * [ Run a security scan ](/codex/security/plugin/scans)
@@ -734,8 +742,17 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
     * [ Write vulnerability reports ](/codex/security/plugin/vulnerability-reports)
     * [ Propose security hardening ](/codex/security/plugin/security-hardening)
     * [ Changelog ](/codex/security/plugin/changelog)
-  * [ Codex Security cloud setup ](/codex/security/setup)
-  * [ Improving the threat model ](/codex/security/threat-model)
+  * Codex Security cloud
+    * [ Setup ](/codex/security/setup)
+    * [ Improving the threat model ](/codex/security/threat-model)
+    * [ FAQ ](/codex/security/faq)
+  * CLI and SDK
+    * [ CLI quickstart ](/codex/security/cli)
+    * [ Run bulk scans ](/codex/security/cli/bulk-scans)
+    * [ CLI reference ](/codex/security/cli/reference)
+    * [ Run scans in CI ](/codex/security/cli/ci)
+    * [ CLI FAQ ](/codex/security/cli/faq)
+    * [ TypeScript SDK ](/codex/security/sdk)
 
 
 
