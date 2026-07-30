@@ -47,10 +47,9 @@ Skip to main content
 
 
   * Data analysis
-  * [ Get started with Search Console  ](https://developers.google.com/search/docs/monitor-debug/search-console-start)
   * [ Debug traffic drops  ](https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops)
   * [ Using Search Console and Google Analytics data for SEO  ](https://developers.google.com/search/docs/monitor-debug/google-analytics-search-console)
-  * [ Get started with Google Trends  ](https://developers.google.com/search/docs/monitor-debug/trends-start)
+  * [ Analyze social and video platform content  ](https://developers.google.com/search/docs/monitor-debug/analyze-social-video-content)
 
 
 
@@ -145,10 +144,9 @@ Sign in
   * [ Ecommerce  ](/search/docs/specialty/ecommerce)
   * [ International and multilingual sites  ](/search/docs/specialty/international)
   * Data analysis 
-  * [ Get started with Search Console  ](/search/docs/monitor-debug/search-console-start)
   * [ Debug traffic drops  ](/search/docs/monitor-debug/debugging-search-traffic-drops)
   * [ Using Search Console and Google Analytics data for SEO  ](/search/docs/monitor-debug/google-analytics-search-console)
-  * [ Get started with Google Trends  ](/search/docs/monitor-debug/trends-start)
+  * [ Analyze social and video platform content  ](/search/docs/monitor-debug/analyze-social-video-content)
 
 
   * [ All updates  ](/search/news)
@@ -174,6 +172,15 @@ This page details the latest major updates made to the Google Search Central doc
 To get the latest Search Central documentation updates delivered to you, add the URL of this page to your [feed reader](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators), or add the feed URL directly: `https://developers.google.com/search/updates/search_docs_updates.rss`. 
 
 ## July 2026
+
+July 29
+    
+
+### Added guide on analyzing social and video platform content
+
+**What** : Added a new guide on how to [analyze your social and video platform content performance in Search Console](/search/docs/monitor-debug/analyze-social-video-content). 
+
+**Why** : To help content creators, social media managers, and SEO professionals understand how their social and video platform content performs on Google Search. 
 
 July 24
     
@@ -2357,9 +2364,9 @@ Send feedback
 
 Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
 
-Last updated 2026-07-24 UTC.
+Last updated 2026-07-29 UTC.
 
-Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-07-24 UTC."],[],["Core updates include enhancements to structured data, with new properties like `priceType` and `validForMemberTier`, alongside support for 3D models and organization-level return policies. Documentation was added for faceted navigation URLs, robots.txt error handling, and cache control headers. New crawlers (`Google-CloudVertexBot`, `GoogleOther-Image`, `GoogleOther-Video`) were introduced, and core update documentation was restructured. Policies were added for expired domain, scaled content, and site reputation abuse. A lot of information was also removed or updated.\n"]] 
+Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-07-29 UTC."],[],["Core updates include enhancements to structured data, with new properties like `priceType` and `validForMemberTier`, alongside support for 3D models and organization-level return policies. Documentation was added for faceted navigation URLs, robots.txt error handling, and cache control headers. New crawlers (`Google-CloudVertexBot`, `GoogleOther-Image`, `GoogleOther-Video`) were introduced, and core update documentation was restructured. Policies were added for expired domain, scaled content, and site reputation abuse. A lot of information was also removed or updated.\n"]] 
 
   * [ LinkedIn  ](https://www.linkedin.com/showcase/googlesearchcentral/)
 
