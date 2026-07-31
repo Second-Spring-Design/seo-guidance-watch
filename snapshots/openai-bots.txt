@@ -312,7 +312,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 
   * [ Latency optimization ](/api/docs/guides/latency-optimization)
   * [ Predicted Outputs ](/api/docs/guides/predicted-outputs)
-  * [ Priority processing ](/api/docs/guides/priority-processing)
+  * [ Fast mode ](/api/docs/guides/fast-mode)
   * [ Accuracy optimization ](/api/docs/guides/optimizing-llm-accuracy)
 
 
@@ -733,6 +733,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Overview ](/codex/security)
   * Codex Security plugin
     * [ Quickstart ](/codex/security/plugin)
+    * [ Use the Security workbench ](/codex/security/plugin/workbench)
     * [ Run a security scan ](/codex/security/plugin/scans)
     * [ Run a deep scan ](/codex/security/plugin/deep-scans)
     * [ Review code changes ](/codex/security/plugin/code-changes)
