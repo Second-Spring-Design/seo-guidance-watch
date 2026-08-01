@@ -333,6 +333,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
   * [ Safety checks ](/api/docs/guides/safety-checks)
     * [ Cybersecurity checks ](/api/docs/guides/safety-checks/cybersecurity)
     * [ Under 18 API Guidance ](/api/docs/guides/safety-checks/under-18-api-guidance)
+  * [ Content provenance ](/api/docs/guides/content-provenance)
   * [ Your data ](/api/docs/guides/your-data)
   * [ Permissions ](/api/docs/guides/rbac)
 
