@@ -490,6 +490,7 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
 ###  Measurement 
 
   * [ JavaScript Pixel ](/ads/measurement-pixel)
+  * [ Multiple pixels (advanced) ](/ads/multiple-pixels)
   * [ Image tag ](/ads/image-tag)
   * [ Conversions API ](/ads/conversions-api)
   * [ Supported events ](/ads/supported-events)
