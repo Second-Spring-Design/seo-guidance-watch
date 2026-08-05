@@ -811,6 +811,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
 ###  Deployment and model providers 
 
+  * [ Manage app updates ](/codex/enterprise/manage-app-updates)
   * [ Windows app deployment ](/codex/enterprise/windows-deployment)
   * [ Remote connections ](/codex/remote-connections)
   * [ Amazon Bedrock ](/codex/amazon-bedrock)
