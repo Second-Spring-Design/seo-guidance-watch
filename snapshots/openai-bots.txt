@@ -490,35 +490,35 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
 ###  Measurement 
 
   * [ JavaScript Pixel ](/ads/measurement-pixel)
-  * [ Multiple pixels (advanced) ](/ads/multiple-pixels)
-  * [ Image tag ](/ads/image-tag)
+  * [ Multiple Pixels (Advanced) ](/ads/multiple-pixels)
+  * [ Image Tag ](/ads/image-tag)
   * [ Conversions API ](/ads/conversions-api)
-  * [ Supported events ](/ads/supported-events)
+  * [ Supported Events ](/ads/supported-events)
 
 
 
 ###  Advertiser API 
 
   * [ Overview ](/ads/api-overview)
-  * [ API partner setup ](/ads/api-partner-setup)
+  * [ API Partner Setup ](/ads/api-partner-setup)
   * [ Quickstart ](/ads/api-quickstart)
   * [ Bulk API ](/ads/bulk-api)
-  * [ Product feeds ](/ads/product-feeds)
+  * [ Product Feeds ](/ads/product-feeds)
   * [ Campaign Targeting ](/ads/campaign-targeting)
-  * [ Conversion-optimized campaigns ](/ads/conversion-optimized-campaigns)
+  * [ Conversion-Optimized Campaigns ](/ads/conversion-optimized-campaigns)
 
 
 
 ###  API Reference 
 
   * [ Authentication ](/ads/api-reference/authentication)
-  * [ Conversion setup ](/ads/api-reference/conversion-setup)
+  * [ Ad Account ](/ads/api-reference/ad-account)
   * [ Campaigns ](/ads/api-reference/campaigns)
   * [ Ad Groups ](/ads/api-reference/ad-groups)
   * [ Ads ](/ads/api-reference/ads)
-  * [ Ad Account ](/ads/api-reference/ad-account)
   * [ Insights ](/ads/api-reference/insights)
   * [ Files ](/ads/api-reference/files)
+  * [ Conversion Setup ](/ads/api-reference/conversion-setup)
 
 
 
