@@ -350,6 +350,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
     * [ Import and reconciliation ](/api/docs/guides/terraform/import-and-reconcile)
   * [ Private Link ](/api/docs/guides/private-link)
   * [ Workload identity federation ](/api/docs/guides/workload-identity-federation)
+    * [ X.509 certificates (beta) ](/api/docs/guides/workload-identity-federation/x509)
     * [ Kubernetes ](/api/docs/guides/workload-identity-federation/kubernetes)
     * [ AWS ](/api/docs/guides/workload-identity-federation/aws)
     * [ Microsoft Azure ](/api/docs/guides/workload-identity-federation/microsoft-azure)
@@ -489,7 +490,7 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
 
 ###  Measurement 
 
-  * [ JavaScript Pixel ](/ads/measurement-pixel)
+  * [ Measurement Pixel ](/ads/measurement-pixel)
   * [ Multiple Pixels (Advanced) ](/ads/multiple-pixels)
   * [ Image Tag ](/ads/image-tag)
   * [ Conversions API ](/ads/conversions-api)
@@ -560,6 +561,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Available on 
 
   * [ ChatGPT desktop app ](/codex/app)
+  * [ Remote ](/codex/remote)
   * [ ChatGPT on the web ](/codex/web)
   * [ Codex CLI ](/codex/cli)
   * [ Codex IDE extension ](/codex/ide)
@@ -735,27 +737,28 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Overview ](/codex/security)
   * Codex Security plugin
     * [ Quickstart ](/codex/security/plugin)
-    * [ Use the Security workbench ](/codex/security/plugin/workbench)
     * [ Run a security scan ](/codex/security/plugin/scans)
     * [ Run a deep scan ](/codex/security/plugin/deep-scans)
     * [ Review code changes ](/codex/security/plugin/code-changes)
+    * [ Use the Security workbench ](/codex/security/plugin/workbench)
     * [ Triage a backlog ](/codex/security/plugin/triage-backlog)
     * [ Fix findings ](/codex/security/plugin/fix-findings)
-    * [ Export and track findings ](/codex/security/plugin/export-findings)
-    * [ Write vulnerability reports ](/codex/security/plugin/vulnerability-reports)
     * [ Propose security hardening ](/codex/security/plugin/security-hardening)
+    * [ Write vulnerability reports ](/codex/security/plugin/vulnerability-reports)
+    * [ Export and track findings ](/codex/security/plugin/export-findings)
     * [ Changelog ](/codex/security/plugin/changelog)
+  * Codex Security CLI
+    * [ Quickstart ](/codex/security/cli)
+    * [ Run bulk scans ](/codex/security/cli/bulk-scans)
+    * [ Run scans in CI ](/codex/security/cli/ci)
+    * [ Reference ](/codex/security/cli/reference)
+    * [ FAQ ](/codex/security/cli/faq)
+  * [ TypeScript SDK ](/codex/security/sdk)
   * Codex Security cloud
     * [ Setup ](/codex/security/setup)
+    * [ Security Review ](/codex/security/security-review)
     * [ Improving the threat model ](/codex/security/threat-model)
     * [ FAQ ](/codex/security/faq)
-  * CLI and SDK
-    * [ CLI quickstart ](/codex/security/cli)
-    * [ Run bulk scans ](/codex/security/cli/bulk-scans)
-    * [ CLI reference ](/codex/security/cli/reference)
-    * [ Run scans in CI ](/codex/security/cli/ci)
-    * [ CLI FAQ ](/codex/security/cli/faq)
-    * [ TypeScript SDK ](/codex/security/sdk)
 
 
 
