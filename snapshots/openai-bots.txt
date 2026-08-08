@@ -505,6 +505,7 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
   * [ Quickstart ](/ads/api-quickstart)
   * [ Bulk API ](/ads/bulk-api)
   * [ Product Feeds ](/ads/product-feeds)
+  * [ Delta Feeds API ](/ads/delta-feeds)
   * [ Campaign Targeting ](/ads/campaign-targeting)
   * [ Conversion-Optimized Campaigns ](/ads/conversion-optimized-campaigns)
 
@@ -791,6 +792,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Groups and provisioning ](/codex/enterprise/groups-and-provisioning)
   * [ Roles and workspace permissions ](/codex/enterprise/roles-and-workspace-permissions)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
+  * [ Prisma AIRS ](/codex/enterprise/prisma-airs)
   * [ HIPAA configuration ](/codex/hipaa-configuration)
   * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
 
