@@ -349,6 +349,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
     * [ Model, tool, and data controls ](/api/docs/guides/terraform/project-controls)
     * [ Import and reconciliation ](/api/docs/guides/terraform/import-and-reconcile)
   * [ Private Link ](/api/docs/guides/private-link)
+  * [ IP allowlist ](/api/docs/guides/ip-allowlist)
   * [ Workload identity federation ](/api/docs/guides/workload-identity-federation)
     * [ X.509 certificates (beta) ](/api/docs/guides/workload-identity-federation/x509)
     * [ Kubernetes ](/api/docs/guides/workload-identity-federation/kubernetes)
