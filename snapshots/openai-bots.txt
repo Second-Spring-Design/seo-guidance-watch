@@ -764,9 +764,10 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
 
 
-###  Safety 
+###  Cyber safety 
 
-  * [ Cyber Safety ](/codex/cyber-safety)
+  * [ Models & Trusted Access ](/codex/cyber-safety)
+  * [ Recommended configuration ](/codex/cyber-safety/recommended-configuration)
 
 
 
