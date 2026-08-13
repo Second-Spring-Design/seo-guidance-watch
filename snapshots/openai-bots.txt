@@ -432,6 +432,7 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
 
   * [ UI guidelines ](/plugins/concepts/ui-guidelines)
   * [ Optimize Metadata ](/plugins/guides/optimize-metadata)
+  * [ Submit a Claude Code plugin ](/plugins/guides/submit-claude-plugin)
   * [ Security & Privacy ](/plugins/guides/security-privacy)
   * [ Troubleshooting ](/plugins/deploy/troubleshooting)
 
@@ -655,6 +656,12 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Record & Replay ](/codex/extend/record-and-replay)
   * [ MCP ](/codex/extend/mcp)
+
+
+
+###  Linux 
+
+  * [ Desktop app ](/codex/linux/linux-app)
 
 
 
