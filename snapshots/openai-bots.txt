@@ -629,7 +629,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Overview ](/codex/customization/overview)
   * [ Memories ](/codex/customization/memories)
-  * [ Chronicle ](/codex/customization/chronicle)
+  * [ Computer History ](/codex/customization/computer-history)
 
 
 
@@ -792,7 +792,8 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Identity and authentication 
 
   * [ Authentication overview ](/codex/auth)
-  * [ Access tokens ](/codex/enterprise/access-tokens)
+  * [ Personal Access Tokens ](/codex/enterprise/access-tokens)
+  * [ Service accounts ](/codex/enterprise/service-accounts)
 
 
 
