@@ -785,6 +785,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Getting started 
 
   * [ Admin rollout guide ](/codex/enterprise/admin-setup)
+  * [ ChatGPT Work Overview ](/codex/enterprise/chatgpt-work-overview)
   * [ ChatGPT Work admin FAQ ](/codex/enterprise/work-admin-faq)
 
 
@@ -801,6 +802,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Groups and provisioning ](/codex/enterprise/groups-and-provisioning)
   * [ Roles and workspace permissions ](/codex/enterprise/roles-and-workspace-permissions)
+  * [ GPTs and Sharing ](/codex/enterprise/gpts-and-sharing)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
   * [ Prisma AIRS ](/codex/enterprise/prisma-airs)
   * [ HIPAA configuration ](/codex/hipaa-configuration)
