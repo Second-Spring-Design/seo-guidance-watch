@@ -352,6 +352,9 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
   * [ Private Link ](/api/docs/guides/private-link)
   * [ IP allowlist ](/api/docs/guides/ip-allowlist)
   * [ Workload identity federation ](/api/docs/guides/workload-identity-federation)
+    * [ Codex setup ](/codex/enterprise/workload-identity)
+    * [ Federation rules ](/api/docs/guides/workload-identity-federation/federation-rules)
+    * [ Admin API ](/api/docs/guides/workload-identity-federation/admin-api)
     * [ X.509 certificates (beta) ](/api/docs/guides/workload-identity-federation/x509)
     * [ Kubernetes ](/api/docs/guides/workload-identity-federation/kubernetes)
     * [ AWS ](/api/docs/guides/workload-identity-federation/aws)
@@ -715,6 +718,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Third-party integrations 
 
   * [ GitHub ](/codex/third-party/github)
+  * [ GitLab (Beta) ](/codex/third-party/gitlab)
   * [ Slack ](/codex/third-party/slack)
   * [ Linear ](/codex/third-party/linear)
 
@@ -794,6 +798,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Identity and authentication 
 
   * [ Authentication overview ](/codex/auth)
+  * [ Workload identity ](/codex/enterprise/workload-identity)
   * [ Personal Access Tokens ](/codex/enterprise/access-tokens)
   * [ Service accounts ](/codex/enterprise/service-accounts)
 
