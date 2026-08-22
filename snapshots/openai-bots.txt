@@ -514,6 +514,7 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
   * [ Delta Feeds API ](/ads/delta-feeds)
   * [ Campaign Targeting ](/ads/campaign-targeting)
   * [ Conversion-Optimized Campaigns ](/ads/conversion-optimized-campaigns)
+  * [ Custom Audiences ](/ads/custom-audiences)
 
 
 
@@ -909,11 +910,11 @@ ShowcaseBlogCookbookLearnCommunityDocs sectionSelect...
 
 ###  Recent 
 
+  * [ Scaling cyber defenders with Daybreak ](/blog/scaling-cyber-defenders-with-daybreak)
   * [ Codex as a platform: build on the open agent harness ](/blog/codex-as-a-platform)
   * [ Custom Code Review rules for Codex ](/blog/custom-code-review-rules-for-codex)
   * [ Mastering remote engineering work from your phone ](/blog/mastering-codex-remote-for-engineering)
   * [ Making private MCP servers reachable without making them public ](/blog/connect-private-mcp-servers-to-openai-products)
-  * [ How Perplexity Brought Voice Search to Millions Using the Realtime API ](/blog/realtime-perplexity-computer)
 
 
 
