@@ -351,11 +351,12 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
     * [ Import and reconciliation ](/api/docs/guides/terraform/import-and-reconcile)
   * [ Private Link ](/api/docs/guides/private-link)
   * [ IP allowlist ](/api/docs/guides/ip-allowlist)
+  * [ Mutual TLS ](/api/docs/guides/mutual-tls)
   * [ Workload identity federation ](/api/docs/guides/workload-identity-federation)
     * [ Codex setup ](/codex/enterprise/workload-identity)
     * [ Federation rules ](/api/docs/guides/workload-identity-federation/federation-rules)
     * [ Admin API ](/api/docs/guides/workload-identity-federation/admin-api)
-    * [ X.509 certificates (beta) ](/api/docs/guides/workload-identity-federation/x509)
+    * [ X.509 certificates ](/api/docs/guides/workload-identity-federation/x509)
     * [ Kubernetes ](/api/docs/guides/workload-identity-federation/kubernetes)
     * [ AWS ](/api/docs/guides/workload-identity-federation/aws)
     * [ Microsoft Azure ](/api/docs/guides/workload-identity-federation/microsoft-azure)
@@ -792,6 +793,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Admin rollout guide ](/codex/enterprise/admin-setup)
   * [ ChatGPT Work Overview ](/codex/enterprise/chatgpt-work-overview)
+  * [ ChatGPT Work cloud security ](/codex/enterprise/chatgpt-work-cloud-security)
   * [ ChatGPT Work admin FAQ ](/codex/enterprise/work-admin-faq)
 
 
