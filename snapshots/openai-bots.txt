@@ -613,7 +613,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Image generation ](/codex/image-generation)
   * [ Image inputs ](/codex/image-inputs)
   * [ Appshots ](/codex/appshots)
-  * [ Chrome extension ](/codex/chrome-extension)
+  * [ Browser extension ](/codex/chrome-extension)
   * [ Work with files ](/codex/artifacts-viewer)
 
 
@@ -694,6 +694,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Build skills ](/codex/build-skills)
   * [ Build plugins ](/codex/build-plugins)
+  * [ Site tools (WebMCP) ](/codex/webmcp)
   * [ Hooks ](/codex/hooks)
 
 
@@ -912,11 +913,11 @@ ShowcaseBlogCookbookLearnCommunityDocs sectionSelect...
 
 ###  Recent 
 
+  * [ Automating repetitive work at OpenAI with Codex ](/blog/automating-repetitive-work-at-openai-with-codex)
+  * [ Meet the winners of OpenAI Build Week ](/blog/build-week-winners)
   * [ Scaling cyber defenders with Daybreak ](/blog/scaling-cyber-defenders-with-daybreak)
   * [ Codex as a platform: build on the open agent harness ](/blog/codex-as-a-platform)
   * [ Custom Code Review rules for Codex ](/blog/custom-code-review-rules-for-codex)
-  * [ Mastering remote engineering work from your phone ](/blog/mastering-codex-remote-for-engineering)
-  * [ Making private MCP servers reachable without making them public ](/blog/connect-private-mcp-servers-to-openai-products)
 
 
 
