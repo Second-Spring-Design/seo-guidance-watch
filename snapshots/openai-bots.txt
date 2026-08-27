@@ -167,6 +167,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 ###  Images and video 
 
   * [ Images and vision ](/api/docs/guides/images-vision)
+    * [ Image input cost calculator ](/api/docs/guides/image-cost-calculator)
   * [ Image generation ](/api/docs/guides/image-generation)
   * [ Video generation ](/api/docs/guides/video-generation)
 
@@ -768,6 +769,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
     * [ Quickstart ](/codex/security/cli)
     * [ Run bulk scans ](/codex/security/cli/bulk-scans)
     * [ Run scans in CI ](/codex/security/cli/ci)
+    * [ GitLab CI/CD ](/codex/security/cli/ci/gitlab)
     * [ Reference ](/codex/security/cli/reference)
     * [ FAQ ](/codex/security/cli/faq)
   * [ TypeScript SDK ](/codex/security/sdk)
