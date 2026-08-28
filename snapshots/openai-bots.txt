@@ -122,8 +122,6 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
     * [ Best practices ](/api/docs/guides/fine-tuning-best-practices)
   * Assistants API
     * [ Migration guide ](/api/docs/assistants/migration)
-    * [ Deep dive ](/api/docs/assistants/deep-dive)
-    * [ Tools ](/api/docs/assistants/tools)
 
 
 
@@ -1086,8 +1084,6 @@ ShowcaseBlogCookbookLearnCommunityDocs sectionSelect...
     * [ Best practices  ](/api/docs/guides/fine-tuning-best-practices)
   * Assistants API
     * [ Migration guide  ](/api/docs/assistants/migration)
-    * [ Deep dive  ](/api/docs/assistants/deep-dive)
-    * [ Tools  ](/api/docs/assistants/tools)
 
 
 
