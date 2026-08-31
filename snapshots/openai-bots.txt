@@ -42,7 +42,7 @@ Search docs
 
 responses createreasoning_effortrealtimeprompt caching
 
-Primary navigation
+Primary navigation 
 
 API  Codex  ChatGPT  Docs  Use cases  Training  Resources  Resources 
 
@@ -54,7 +54,7 @@ responses createreasoning_effortrealtimeprompt caching
 
 Overview  Models  Agents  Tools  Voice & Audio  Production  API reference 
 
-OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOverview
+OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
 
   * [ Home ](/api/docs)
 
@@ -381,11 +381,11 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocs sectionOvervie
 
 [ Docs ](https://learn.chatgpt.com/docs)[ Use cases ](https://learn.chatgpt.com/use-cases)
 
-DocsUse casesDocs sectionDocs
+DocsUse casesDocsDocs
 
 Plugins  Workspace Agents  Commerce  Ads 
 
-PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
+PluginsWorkspace AgentsCommerceAdsDocsSelect...
 
   * [ Home ](/plugins)
   * [ Quickstart ](/plugins/quickstart)
@@ -535,7 +535,7 @@ PluginsWorkspace AgentsCommerceAdsDocs sectionSelect...
 
 Overview  Features  Configuration  Developers  Security  Administration  Use Cases  Resources 
 
-OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesDocs sectionOverview
+OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesDocsOverview
 
   * [ Home ](/codex)
 
@@ -911,7 +911,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
 [ Showcase ](/showcase) Blog  Cookbook  Learn  Community 
 
-ShowcaseBlogCookbookLearnCommunityDocs sectionSelect...
+ShowcaseBlogCookbookLearnCommunityDocsSelect...
 
   * [ All posts ](/blog)
 
