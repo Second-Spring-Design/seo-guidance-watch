@@ -815,6 +815,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Workspace access, policy, and models 
 
   * [ Groups and provisioning ](/codex/enterprise/groups-and-provisioning)
+  * [ User lifecycle management ](/codex/enterprise/user-lifecycle)
   * [ Roles and workspace permissions ](/codex/enterprise/roles-and-workspace-permissions)
   * [ GPTs and Sharing ](/codex/enterprise/gpts-and-sharing)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
