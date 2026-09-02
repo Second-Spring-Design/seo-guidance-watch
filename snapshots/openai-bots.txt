@@ -795,6 +795,11 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Getting started 
 
   * [ Admin rollout guide ](/codex/enterprise/admin-setup)
+
+
+
+###  ChatGPT Work 
+
   * [ ChatGPT Work Overview ](/codex/enterprise/chatgpt-work-overview)
   * [ ChatGPT Work cloud security ](/codex/enterprise/chatgpt-work-cloud-security)
   * [ ChatGPT Work local security ](/codex/enterprise/chatgpt-work-local-security)
