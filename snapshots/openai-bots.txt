@@ -63,7 +63,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
 ###  Get started 
 
   * [ Quickstart ](/api/docs/quickstart)
-  * [ Using GPT-5.6 ](/api/docs/guides/latest-model)
+  * [ Using GPT-6 Astra ](/api/docs/guides/latest-model)
   * [ Key concepts ](/api/docs/concepts)
 
 
@@ -75,6 +75,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
   * [ Background mode ](/api/docs/guides/background)
   * [ Streaming ](/api/docs/guides/streaming-responses)
   * [ WebSocket mode ](/api/docs/guides/websocket-mode)
+  * [ Mid-turn steering ](/api/docs/guides/steering)
   * [ Multi-agent ](/api/docs/guides/responses-multi-agent)
   * [ Webhooks ](/api/docs/guides/webhooks)
   * [ File inputs ](/api/docs/guides/file-inputs)
@@ -243,6 +244,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
   * [ Skills ](/api/docs/guides/tools-skills)
   * [ Tool search ](/api/docs/guides/tools-tool-search)
   * [ Programmatic tool calling ](/api/docs/guides/tools-programmatic-tool-calling)
+  * [ Async tool calling ](/api/docs/guides/async-tool-calling)
 
 
 
@@ -331,9 +333,11 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
 
   * [ Safety best practices ](/api/docs/guides/safety-best-practices)
   * [ Red teaming ](/api/docs/guides/red-teaming)
-  * [ Safety checks ](/api/docs/guides/safety-checks)
+  * Safety checks
+    * [ Safety classifiers ](/api/docs/guides/safety-checks)
     * [ Cybersecurity checks ](/api/docs/guides/safety-checks/cybersecurity)
-    * [ Under 18 API Guidance ](/api/docs/guides/safety-checks/under-18-api-guidance)
+    * [ Misalignment monitoring ](/api/docs/guides/safety-checks/misalignment-monitoring)
+  * [ Under-18 guidance ](/api/docs/guides/safety-checks/under-18-api-guidance)
   * [ CSAM guidance ](/api/docs/guides/csam-guidance)
   * [ Content provenance ](/api/docs/guides/content-provenance)
   * [ Your data ](/api/docs/guides/your-data)
@@ -1036,7 +1040,7 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 ### Get started
 
   * [ Quickstart  ](/api/docs/quickstart)
-  * [ Using GPT-5.6  ](/api/docs/guides/latest-model)
+  * [ Using GPT-6 Astra  ](/api/docs/guides/latest-model)
   * [ Key concepts  ](/api/docs/concepts)
 
 
@@ -1048,6 +1052,7 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
   * [ Background mode  ](/api/docs/guides/background)
   * [ Streaming  ](/api/docs/guides/streaming-responses)
   * [ WebSocket mode  ](/api/docs/guides/websocket-mode)
+  * [ Mid-turn steering  ](/api/docs/guides/steering)
   * [ Multi-agent  ](/api/docs/guides/responses-multi-agent)
   * [ Webhooks  ](/api/docs/guides/webhooks)
   * [ File inputs  ](/api/docs/guides/file-inputs)
