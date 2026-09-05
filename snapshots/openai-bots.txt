@@ -929,11 +929,11 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 
 ###  Recent 
 
+  * [ Architectural visualization with Astra ](/blog/architectural-visualization-with-astra)
+  * [ Building games with Astra ](/blog/how-to-build-games-with-astra)
   * [ Meet Rosalind Workbench: Empowering every scientist to be their own research team ](/blog/rosalind-workbench)
   * [ Automating repetitive work at OpenAI with Codex ](/blog/automating-repetitive-work-at-openai-with-codex)
   * [ Meet the winners of OpenAI Build Week ](/blog/build-week-winners)
-  * [ Scaling cyber defenders with Daybreak ](/blog/scaling-cyber-defenders-with-daybreak)
-  * [ Codex as a platform: build on the open agent harness ](/blog/codex-as-a-platform)
 
 
 
