@@ -254,6 +254,17 @@ Sign in
 
     * [Site names](/search/docs/appearance/site-names)
     * [Sitelinks](/search/docs/appearance/sitelinks)
+    * Regional differences in Search experience
+
+      * [Overview](/search/docs/appearance/aggregator-features)
+      * [Aggregator unit](/search/docs/appearance/aggregator-unit)
+      * [Supplier unit](/search/docs/appearance/supplier-unit)
+      * [Ecosystem carousel](/search/docs/appearance/ecosystem-carousel)
+      * [Job sites features](/search/docs/appearance/job-sites)
+      * [Places sites features](/search/docs/appearance/places-sites)
+      * [South Africa features](/search/docs/appearance/south-africa-features)
+      * [Structured data carousels (beta)](/search/docs/appearance/structured-data/carousels-beta)
+
     * [Snippets](/search/docs/appearance/snippet)
     * Structured data
 
@@ -318,7 +329,6 @@ Sign in
     * Early Adopters Program
 
       * [Package tracking](/search/docs/appearance/package-tracking)
-      * [Structured data carousels (beta)](/search/docs/appearance/structured-data/carousels-beta)
 
   * Monitoring and debugging
 

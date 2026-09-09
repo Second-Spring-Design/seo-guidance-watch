@@ -171,6 +171,17 @@ This page details the latest major updates made to the Google Search Central doc
 
 To get the latest Search Central documentation updates delivered to you, add the URL of this page to your [feed reader](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators), or add the feed URL directly: `https://developers.google.com/search/updates/search_docs_updates.rss`. 
 
+## September 2026
+
+September 8
+    
+
+### Added documentation about regional differences in Search experience
+
+**What** : Added documentation about [regional differences in Search experience](/search/docs/appearance/aggregator-features), which includes information about search experiences available in certain countries, such as aggregator units, supplier units, and carousels. 
+
+**Why** : To help publishers, businesses, and aggregators learn about the different regional search features available and understand the eligibility criteria and how to participate. 
+
 ## August 2026
 
 August 31
@@ -2399,9 +2410,9 @@ Send feedback
 
 Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
 
-Last updated 2026-08-31 UTC.
+Last updated 2026-09-08 UTC.
 
-Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-08-31 UTC."],[],["Core updates include enhancements to structured data, with new properties like `priceType` and `validForMemberTier`, alongside support for 3D models and organization-level return policies. Documentation was added for faceted navigation URLs, robots.txt error handling, and cache control headers. New crawlers (`Google-CloudVertexBot`, `GoogleOther-Image`, `GoogleOther-Video`) were introduced, and core update documentation was restructured. Policies were added for expired domain, scaled content, and site reputation abuse. A lot of information was also removed or updated.\n"]] 
+Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-09-08 UTC."],[],["Core updates include enhancements to structured data, with new properties like `priceType` and `validForMemberTier`, alongside support for 3D models and organization-level return policies. Documentation was added for faceted navigation URLs, robots.txt error handling, and cache control headers. New crawlers (`Google-CloudVertexBot`, `GoogleOther-Image`, `GoogleOther-Video`) were introduced, and core update documentation was restructured. Policies were added for expired domain, scaled content, and site reputation abuse. A lot of information was also removed or updated.\n"]] 
 
   * [ LinkedIn  ](https://www.linkedin.com/showcase/googlesearchcentral/)
 

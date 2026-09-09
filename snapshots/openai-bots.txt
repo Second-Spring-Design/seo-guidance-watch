@@ -170,6 +170,8 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
   * [ Images and vision ](/api/docs/guides/images-vision)
     * [ Image input cost calculator ](/api/docs/guides/image-cost-calculator)
   * [ Image generation ](/api/docs/guides/image-generation)
+    * [ Overview ](/api/docs/guides/image-generation)
+    * [ Image prompting ](/api/docs/guides/image-prompting)
   * [ Video generation ](/api/docs/guides/video-generation)
 
 
@@ -324,6 +326,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
 
   * [ Cost optimization ](/api/docs/guides/cost-optimization)
   * [ Prompt caching ](/api/docs/guides/prompt-caching)
+    * [ Prompt cache diagnostics ](/api/docs/guides/prompt-caching/diagnostics)
   * [ Batch ](/api/docs/guides/batch)
   * [ Flex processing ](/api/docs/guides/flex-processing)
 

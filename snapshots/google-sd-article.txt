@@ -254,6 +254,17 @@ Sign in
 
     * [Site names](/search/docs/appearance/site-names)
     * [Sitelinks](/search/docs/appearance/sitelinks)
+    * Regional differences in Search experience
+
+      * [Overview](/search/docs/appearance/aggregator-features)
+      * [Aggregator unit](/search/docs/appearance/aggregator-unit)
+      * [Supplier unit](/search/docs/appearance/supplier-unit)
+      * [Ecosystem carousel](/search/docs/appearance/ecosystem-carousel)
+      * [Job sites features](/search/docs/appearance/job-sites)
+      * [Places sites features](/search/docs/appearance/places-sites)
+      * [South Africa features](/search/docs/appearance/south-africa-features)
+      * [Structured data carousels (beta)](/search/docs/appearance/structured-data/carousels-beta)
+
     * [Snippets](/search/docs/appearance/snippet)
     * Structured data
 
@@ -318,7 +329,6 @@ Sign in
     * Early Adopters Program
 
       * [Package tracking](/search/docs/appearance/package-tracking)
-      * [Structured data carousels (beta)](/search/docs/appearance/structured-data/carousels-beta)
 
   * Monitoring and debugging
 
@@ -704,7 +714,7 @@ If you're having trouble implementing or debugging structured data, here are som
   * You might have an error in your structured data. Check the [list of structured data errors](https://support.google.com/webmasters/answer/13300873) and the [Unparsable structured data report](https://support.google.com/webmasters/answer/9166415).
   * If you received a structured data manual action against your page, the structured data on the page will be ignored (although the page can still appear in Google Search results). To fix [structured data issues](https://support.google.com/webmasters/answer/9044175#zippy=%2Cstructured-data-issue), use the [Manual Actions report](https://support.google.com/webmasters/answer/9044175). 
   * Review the guidelines again to identify if your content isn't compliant with the guidelines. The problem can be caused by either spammy content or spammy markup usage. However, the issue may not be a syntax issue, and so the Rich Results Test won't be able to identify these issues. 
-  * [Troubleshoot missing rich results / drop in total rich results](https://support.google.com/webmasters/answer/13300208).
+  * Structured data issues can affect how your site's content appears in search results. Use this [Troubleshoot missing rich results / drop in total rich results](https://support.google.com/webmasters/answer/13300208) guide to review a step-by-step approach to identify, fix, and validate these issues in Search Console.
   * Allow time for re-crawling and re-indexing. Remember that it may take several days after publishing a page for Google to find and crawl it. For general questions about crawling and indexing, check the [Google Search crawling and indexing FAQ](/search/help/crawling-index-faq). 
   * Post a question in the [Google Search Central forum](https://support.google.com/webmasters/community).
 
@@ -714,9 +724,9 @@ Send feedback
 
 Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see the [Google Developers Site Policies](https://developers.google.com/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
 
-Last updated 2025-12-10 UTC.
+Last updated 2026-09-08 UTC.
 
-Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2025-12-10 UTC."],[],["Adding `Article` structured data to news, blog, or sports articles helps Google understand the content better. Implement `Article`, `NewsArticle`, or `BlogPosting` schema types using recommended properties like `author`, `datePublished`, `dateModified`, `headline`, and `image`. Validate your code with the Rich Results Test, deploy a few pages, and use the URL Inspection tool. Follow all guidelines and best practices to improve your content's visibility on Google Search and associated platforms, and ensure accurate author information.\n"]] 
+Need to tell us more?  [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-09-08 UTC."],[],["Adding `Article` structured data to news, blog, or sports articles helps Google understand the content better. Implement `Article`, `NewsArticle`, or `BlogPosting` schema types using recommended properties like `author`, `datePublished`, `dateModified`, `headline`, and `image`. Validate your code with the Rich Results Test, deploy a few pages, and use the URL Inspection tool. Follow all guidelines and best practices to improve your content's visibility on Google Search and associated platforms, and ensure accurate author information.\n"]] 
 
   * [ LinkedIn  ](https://www.linkedin.com/showcase/googlesearchcentral/)
 
