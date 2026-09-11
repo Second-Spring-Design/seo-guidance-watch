@@ -32,7 +32,7 @@ Start searching
 
 [Try ChatGPT](https://chatgpt.com/)
 
-[ Overview ](/api/docs)[ Models ](/api/docs/models)[ Agents ](/api/docs/guides/agents)[ Tools ](/api/docs/guides/tools)[ Voice & Audio ](/api/docs/guides/realtime)[ Production ](/api/docs/guides/production-best-practices)[ API reference ](/api/reference/overview)
+[ Overview ](/api/docs)[ Models ](/api/docs/models)[ Agents ](/api/docs/guides/agents)[ Tools ](/api/docs/guides/tools)[ Audio & voice ](/api/docs/guides/audio)[ Production ](/api/docs/guides/production-best-practices)[ API reference ](/api/reference/overview)
 
 ##  Search the API docs 
 
@@ -52,9 +52,9 @@ Search docs
 
 responses createreasoning_effortrealtimeprompt caching
 
-Overview  Models  Agents  Tools  Voice & Audio  Production  API reference 
+Overview  Models  Agents  Tools  Audio & voice  Production  API reference 
 
-OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
+OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
   * [ Home ](/api/docs)
 
@@ -179,7 +179,7 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
 ###  Realtime and audio 
 
   * [ Audio and speech ](/api/docs/guides/audio)
-  * [ Overview ](/api/docs/guides/realtime)
+  * [ Getting started ](/api/docs/guides/realtime)
   * [ Voice agents ](/api/docs/guides/voice-agents)
 
 
@@ -196,8 +196,38 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
 
 
 
+###  Agents API 
+
+  * [ Overview ](/api/docs/guides/agents-api/overview)
+  * [ Quickstart ](/api/docs/guides/agents-api/quickstart)
+  * [ Architecture ](/api/docs/guides/agents-api/architecture)
+  * [ Configuring Agents ](/api/docs/guides/agents-api/configuration)
+  * Sessions
+    * [ Run and continue sessions ](/api/docs/guides/agents-api/sessions)
+    * [ Events and items ](/api/docs/guides/agents-api/sessions/events)
+    * [ Manage sessions ](/api/docs/guides/agents-api/sessions/manage)
+    * [ Webhooks ](/api/docs/guides/agents-api/sessions/webhooks)
+  * Environments and sandboxes
+    * [ OpenAI-hosted sandboxes ](/api/docs/guides/agents-api/environments/openai-hosted)
+    * [ Self-hosted sandboxes ](/api/docs/guides/agents-api/environments/self-hosted)
+    * [ Sandbox lifecycle ](/api/docs/guides/agents-api/environments/lifecycle)
+    * [ Sandbox security ](/api/docs/guides/agents-api/environments/security)
+    * [ Files and artifacts ](/api/docs/guides/agents-api/environments/files)
+  * Tools and integrations
+    * [ Web search ](/api/docs/guides/agents-api/tools/web-search)
+    * [ Functions ](/api/docs/guides/agents-api/tools/functions)
+    * [ MCP connections ](/api/docs/guides/agents-api/tools/mcp)
+    * [ Plugins ](/api/docs/guides/agents-api/tools/plugins)
+    * [ Vaults ](/api/docs/guides/agents-api/tools/vaults)
+  * [ Multi-agent ](/api/docs/guides/agents-api/multi-agent)
+  * [ Observability and usage ](/api/docs/guides/agents-api/observability)
+  * [ Tracing ](/api/docs/guides/agents-api/tracing)
+
+
+
 ###  Agents SDK 
 
+  * [ Overview ](/api/docs/guides/agents/sdk)
   * [ Quickstart ](/api/docs/guides/agents/quickstart)
   * [ Agent definitions ](/api/docs/guides/agents/define-agents)
   * [ Models and providers ](/api/docs/guides/agents/models)
@@ -266,43 +296,55 @@ OverviewModelsAgentsToolsVoice & AudioProductionAPI referenceDocsOverview
 
 
 
-  * [ Overview ](/api/docs/guides/realtime)
+  * [ Overview ](/api/docs/guides/audio)
 
 
 
-###  Get started 
+###  GPT-Live 
 
-  * [ Voice agents ](/api/docs/guides/voice-agents)
-  * [ Live translation ](/api/docs/guides/realtime-translation)
-  * [ Realtime prompting guide ](/api/docs/guides/realtime-models-prompting)
-
-
-
-###  Audio 
-
-  * [ Audio and speech ](/api/docs/guides/audio)
-  * [ Transcription ](/api/docs/guides/transcription)
-  * [ File transcription ](/api/docs/guides/speech-to-text)
-  * [ Realtime transcription ](/api/docs/guides/realtime-transcription)
-  * [ Speech generation ](/api/docs/guides/text-to-speech)
+  * [ Getting started ](/api/docs/guides/live)
+  * [ Prompting ](/api/docs/guides/live-prompting)
+  * [ Managing sessions ](/api/docs/guides/live-conversations)
+  * [ Delegation and tools ](/api/docs/guides/live-delegation)
+  * [ Migrate to GPT-Live ](/api/docs/guides/live-migration)
+  * [ Partner integrations ](/api/docs/guides/live-partner-integrations)
 
 
 
-###  Connection methods 
+###  Realtime API 
 
-  * [ WebRTC ](/api/docs/guides/realtime-webrtc)
-  * [ WebSocket ](/api/docs/guides/realtime-websocket)
-  * [ SIP ](/api/docs/guides/realtime-sip)
-
-
-
-###  Sessions and operations 
-
+  * [ Getting started ](/api/docs/guides/realtime)
+  * [ Prompting ](/api/docs/guides/voice-prompting)
   * [ Managing conversations ](/api/docs/guides/realtime-conversations)
   * [ Voice activity detection ](/api/docs/guides/realtime-vad)
-  * [ Realtime with tools ](/api/docs/guides/realtime-mcp)
-  * [ Webhooks and server-side controls ](/api/docs/guides/realtime-server-controls)
-  * [ Managing costs ](/api/docs/guides/realtime-costs)
+  * [ Tools and MCP ](/api/docs/guides/realtime-mcp)
+
+
+
+###  Build with voice 
+
+  * [ Voice agents ](/api/docs/guides/voice-agents)
+  * [ Custom voices ](/api/docs/guides/custom-voices)
+  * [ Cost optimization ](/api/docs/guides/voice-latency-cost)
+
+
+
+###  Connections 
+
+  * [ WebRTC ](/api/docs/guides/voice-webrtc)
+  * [ WebSockets ](/api/docs/guides/voice-websockets)
+  * [ Telephony and SIP ](/api/docs/guides/voice-sip)
+  * [ Server-side controls ](/api/docs/guides/voice-server-controls)
+
+
+
+###  Audio processing 
+
+  * [ File transcription ](/api/docs/guides/speech-to-text)
+  * [ Live transcription ](/api/docs/guides/realtime-transcription)
+  * [ Live translation ](/api/docs/guides/realtime-translation)
+  * [ Text to speech ](/api/docs/guides/text-to-speech)
+  * [ Audio in Chat Completions ](/api/docs/guides/audio-chat-completions)
 
 
 
@@ -522,8 +564,10 @@ PluginsWorkspace AgentsCommerceAdsDocsSelect...
   * [ Product Feeds ](/ads/product-feeds)
   * [ Delta Feeds API ](/ads/delta-feeds)
   * [ Campaign Targeting ](/ads/campaign-targeting)
-  * [ Conversion-Optimized Campaigns ](/ads/conversion-optimized-campaigns)
+  * [ Location Targeting ](/ads/location-targeting)
+  * [ Platform Targeting ](/ads/platform-targeting)
   * [ Custom Audiences ](/ads/custom-audiences)
+  * [ Conversion-Optimized Campaigns ](/ads/conversion-optimized-campaigns)
 
 
 
