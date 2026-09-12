@@ -558,16 +558,14 @@ PluginsWorkspace AgentsCommerceAdsDocsSelect...
 ###  Advertiser API 
 
   * [ Overview ](/ads/api-overview)
-  * [ API Partner Setup ](/ads/api-partner-setup)
-  * [ Quickstart ](/ads/api-quickstart)
-  * [ Bulk API ](/ads/bulk-api)
+  * [ Campaign Management ](/ads/campaign-management)
+  * [ Bidding & Budgets ](/ads/bidding-and-budgets)
+  * [ Targeting ](/ads/campaign-targeting)
   * [ Product Feeds ](/ads/product-feeds)
-  * [ Delta Feeds API ](/ads/delta-feeds)
-  * [ Campaign Targeting ](/ads/campaign-targeting)
-  * [ Location Targeting ](/ads/location-targeting)
-  * [ Platform Targeting ](/ads/platform-targeting)
-  * [ Custom Audiences ](/ads/custom-audiences)
-  * [ Conversion-Optimized Campaigns ](/ads/conversion-optimized-campaigns)
+  * [ Conversion Tracking ](/ads/conversion-tracking)
+  * [ Reporting ](/ads/reporting)
+  * [ Troubleshooting ](/ads/troubleshooting)
+  * [ Account Management ](/ads/account-management)
 
 
 
@@ -764,7 +762,6 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Codex SDK ](/codex/codex-sdk)
   * [ App Server ](/codex/app-server)
-  * [ MCP Server ](/codex/mcp-server)
   * [ GitHub Action ](/codex/github-action)
   * [ Non-interactive mode ](/codex/non-interactive-mode)
 
@@ -976,11 +973,11 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 
 ###  Recent 
 
+  * [ Rethinking skills and prompts for GPT-6 Astra ](/blog/rethinking-skills-and-prompts-for-gpt-6-astra)
   * [ Architectural visualization with Astra ](/blog/architectural-visualization-with-astra)
   * [ Building games with Astra ](/blog/how-to-build-games-with-astra)
   * [ Meet Rosalind Workbench: Empowering every scientist to be their own research team ](/blog/rosalind-workbench)
   * [ Automating repetitive work at OpenAI with Codex ](/blog/automating-repetitive-work-at-openai-with-codex)
-  * [ Meet the winners of OpenAI Build Week ](/blog/build-week-winners)
 
 
 
