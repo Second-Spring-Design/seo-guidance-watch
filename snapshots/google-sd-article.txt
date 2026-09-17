@@ -252,8 +252,6 @@ Sign in
       * [Core updates](/search/docs/appearance/core-updates)
       * [Spam updates](/search/docs/appearance/spam-updates)
 
-    * [Site names](/search/docs/appearance/site-names)
-    * [Sitelinks](/search/docs/appearance/sitelinks)
     * Regional differences in Search experience
 
       * [Overview](/search/docs/appearance/aggregator-features)
@@ -265,6 +263,9 @@ Sign in
       * [South Africa features](/search/docs/appearance/south-africa-features)
       * [Structured data carousels (beta)](/search/docs/appearance/structured-data/carousels-beta)
 
+    * [Search profiles](/search/docs/appearance/search-profiles)
+    * [Site names](/search/docs/appearance/site-names)
+    * [Sitelinks](/search/docs/appearance/sitelinks)
     * [Snippets](/search/docs/appearance/snippet)
     * Structured data
 

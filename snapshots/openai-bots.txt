@@ -891,6 +891,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Governance ](/codex/enterprise/governance)
   * [ Admin plugin ](/codex/enterprise/admin-plugin)
   * [ Workspace analytics ](/codex/enterprise/workspace-analytics)
+  * [ Usage Insights ](/codex/enterprise/usage-insights)
   * [ Analytics API ](/codex/enterprise/analytics-api)
   * [ Compliance API and audit events ](/codex/enterprise/compliance-api)
 
