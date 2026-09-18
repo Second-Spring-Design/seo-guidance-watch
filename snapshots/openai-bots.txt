@@ -266,7 +266,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
 ###  Connect tools and data 
 
-  * [ MCP and Connectors ](/api/docs/guides/tools-connectors-mcp)
+  * [ MCP servers ](/api/docs/guides/tools-connectors-mcp)
   * [ Secure MCP Tunnel ](/api/docs/guides/secure-mcp-tunnels)
 
 
