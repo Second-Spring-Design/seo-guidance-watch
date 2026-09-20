@@ -921,7 +921,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Codex Ambassadors  ](https://developers.openai.com/community/codex-ambassadors)
   * [ Codex for Students  ](https://developers.openai.com/community/students)
   * [ Codex for Open Source  ](https://developers.openai.com/community/codex-for-oss)
-  * [ Meetups  ](https://developers.openai.com/community/meetups)
+  * [ Events  ](https://luma.com/codex-community?utm_source=oaidevs)
 
 
 
@@ -950,7 +950,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Codex Ambassadors  ](https://developers.openai.com/community/codex-ambassadors)
   * [ Codex for Students  ](https://developers.openai.com/community/students)
   * [ Codex for Open Source  ](https://developers.openai.com/community/codex-for-oss)
-  * [ Meetups  ](https://developers.openai.com/community/meetups)
+  * [ Events  ](https://luma.com/codex-community?utm_source=oaidevs)
 
 
 
@@ -1056,14 +1056,9 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 
 
 
-###  Events 
-
-  * [ Meetups ](/community/meetups)
-
-
-
 ###  Spaces 
 
+  * [ Events  ](https://luma.com/codex-community?utm_source=oaidevs)
   * [ Developer Forum  ](https://community.openai.com/)
   * [ Discord  ](https://discord.com/invite/openai)
   * [ Reddit  ](https://www.reddit.com/r/OpenAI/)
