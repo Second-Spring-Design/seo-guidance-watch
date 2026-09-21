@@ -1,30 +1,6 @@
 For the complete documentation index, see [llms.txt](/llms.txt). Markdown versions of documentation pages are available by appending `.md` to the page URL. 
 
-[ ChatGPT ](/)
-
-[ Home ](/)
-
-[ API ](/api/docs)
-
-[ Codex  ](https://learn.chatgpt.com/docs)
-
-[ Docs Guides, concepts, and product docs for Codex  ](https://learn.chatgpt.com/docs)[ Use cases Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases)
-
-[ Docs ](/codex)
-
-[ Use cases ](/codex/use-cases)
-
-[ Training ](/training)
-
-[ Resources ](/codex/resources)
-
-[ ChatGPT  ](/chatgpt)
-
-[ Plugins Extend ChatGPT and Codex  ](/plugins)[ Workspace Agents Trigger published ChatGPT workspace agents  ](/workspace-agents)[ Commerce Build commerce flows in ChatGPT  ](/commerce)[ Ads Publish and measure ads in ChatGPT  ](/ads)
-
-[ Resources  ](/learn)
-
-[ Showcase Demo apps to get inspired  ](/showcase)[ Blog Learnings and experiences from developers  ](/blog)[ Cookbook Notebook examples for building with OpenAI models  ](/cookbook)[ Learn Docs, videos, and demo apps for building with OpenAI  ](/learn)[ Community Programs, meetups, and support for builders  ](/community)
+[ ChatGPT ](/?site_locale=en)
 
 Start searching
 
@@ -32,7 +8,31 @@ Start searching
 
 [Try ChatGPT](https://chatgpt.com/)
 
-[ Overview ](/api/docs)[ Models ](/api/docs/models)[ Agents ](/api/docs/guides/agents)[ Tools ](/api/docs/guides/tools)[ Audio & voice ](/api/docs/guides/audio)[ Production ](/api/docs/guides/production-best-practices)[ API reference ](/api/reference/overview)
+[ Home ](/?site_locale=en)
+
+[ API ](/api/docs?site_locale=en)
+
+[ Codex  ](https://learn.chatgpt.com/docs?site_locale=en)
+
+[ Docs Guides, concepts, and product docs for Codex  ](https://learn.chatgpt.com/docs?site_locale=en)[ Use cases Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases?site_locale=en)
+
+[ Docs ](/codex?site_locale=en)
+
+[ Use cases ](/codex/use-cases?site_locale=en)
+
+[ Training ](/training?site_locale=en)
+
+[ Resources ](/codex/resources?site_locale=en)
+
+[ ChatGPT  ](/chatgpt?site_locale=en)
+
+[ Plugins Extend ChatGPT and Codex  ](/plugins?site_locale=en)[ Workspace Agents Trigger published ChatGPT workspace agents  ](/workspace-agents)[ Commerce Build commerce flows in ChatGPT  ](/commerce)[ Ads Publish and measure ads in ChatGPT  ](/ads)
+
+[ Resources  ](/learn?site_locale=en)
+
+[ Showcase Demo apps to get inspired  ](/showcase?site_locale=en)[ Blog Learnings and experiences from developers  ](/blog?site_locale=en)[ Cookbook Notebook examples for building with OpenAI models  ](/cookbook?site_locale=en)[ Learn Docs, videos, and demo apps for building with OpenAI  ](/learn?site_locale=en)[ Community Programs, meetups, and support for builders  ](/community?site_locale=en)
+
+[ Overview ](/api/docs?site_locale=en)[ Models ](/api/docs/models?site_locale=en)[ Agents ](/api/docs/guides/agents?site_locale=en)[ Tools ](/api/docs/guides/tools?site_locale=en)[ Audio & voice ](/api/docs/guides/audio?site_locale=en)[ Production ](/api/docs/guides/production-best-practices?site_locale=en)[ API reference ](/api/reference/overview?site_locale=en)
 
 ##  Search the API docs 
 
