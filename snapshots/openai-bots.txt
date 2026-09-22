@@ -332,6 +332,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 ###  Connections 
 
   * [ WebRTC ](/api/docs/guides/voice-webrtc)
+  * [ WebRTC with WARP ](/api/docs/guides/realtime-webrtc-warp)
   * [ WebSockets ](/api/docs/guides/voice-websockets)
   * [ Telephony and SIP ](/api/docs/guides/voice-sip)
   * [ Server-side controls ](/api/docs/guides/voice-server-controls)
