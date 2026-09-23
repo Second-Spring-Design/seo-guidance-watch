@@ -63,7 +63,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 ###  Get started 
 
   * [ Quickstart ](/api/docs/quickstart)
-  * [ Using GPT-6 Astra ](/api/docs/guides/latest-model)
+  * [ Using GPT-6 ](/api/docs/guides/latest-model)
   * [ Key concepts ](/api/docs/concepts)
 
 
@@ -379,6 +379,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
   * [ Safety best practices ](/api/docs/guides/safety-best-practices)
   * [ Red teaming ](/api/docs/guides/red-teaming)
+  * [ Daybreak ](/api/docs/guides/daybreak)
   * Safety checks
     * [ Safety classifiers ](/api/docs/guides/safety-checks)
     * [ Cybersecurity checks ](/api/docs/guides/safety-checks/cybersecurity)
@@ -387,6 +388,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
   * [ CSAM guidance ](/api/docs/guides/csam-guidance)
   * [ Content provenance ](/api/docs/guides/content-provenance)
   * [ Your data ](/api/docs/guides/your-data)
+  * [ Private Safety Processing ](/api/docs/guides/private-safety-processing)
   * [ Permissions ](/api/docs/guides/rbac)
 
 
@@ -557,6 +559,7 @@ PluginsWorkspace AgentsCommerceAdsDocsSelect...
 ###  Advertiser API 
 
   * [ Overview ](/ads/api-overview)
+  * [ API Partner Setup ](/ads/api-partner-setup)
   * [ Campaign Management ](/ads/campaign-management)
   * [ Bidding & Budgets ](/ads/bidding-and-budgets)
   * [ Targeting ](/ads/campaign-targeting)
@@ -601,6 +604,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Foundations 
 
   * [ Prompting ](/codex/prompting)
+  * [ Model selection ](/codex/model-selection)
   * [ Personalize ChatGPT ](/codex/personalize)
   * [ Skills & Plugins ](/codex/skills-and-plugins)
   * [ Permissions ](/codex/permission-modes)
@@ -1078,7 +1082,7 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 ### Get started
 
   * [ Quickstart  ](/api/docs/quickstart)
-  * [ Using GPT-6 Astra  ](/api/docs/guides/latest-model)
+  * [ Using GPT-6  ](/api/docs/guides/latest-model)
   * [ Key concepts  ](/api/docs/concepts)
 
 
