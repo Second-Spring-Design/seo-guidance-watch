@@ -165,14 +165,13 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
 
 
-###  Images and video 
+###  Images 
 
   * [ Images and vision ](/api/docs/guides/images-vision)
     * [ Image input cost calculator ](/api/docs/guides/image-cost-calculator)
   * [ Image generation ](/api/docs/guides/image-generation)
     * [ Overview ](/api/docs/guides/image-generation)
     * [ Image prompting ](/api/docs/guides/image-prompting)
-  * [ Video generation ](/api/docs/guides/video-generation)
 
 
 
@@ -404,6 +403,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
     * [ Import and reconciliation ](/api/docs/guides/terraform/import-and-reconcile)
   * [ Private Link ](/api/docs/guides/private-link)
   * [ IP allowlist ](/api/docs/guides/ip-allowlist)
+  * [ Organization blocking ](/api/docs/guides/organization-blocking)
   * [ Mutual TLS ](/api/docs/guides/mutual-tls)
   * [ Workload identity federation ](/api/docs/guides/workload-identity-federation)
     * [ Federation rules ](/api/docs/guides/workload-identity-federation/federation-rules)
@@ -873,6 +873,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ User lifecycle management ](/codex/enterprise/user-lifecycle)
   * [ Roles and workspace permissions ](/codex/enterprise/roles-and-workspace-permissions)
   * [ GPTs and Sharing ](/codex/enterprise/gpts-and-sharing)
+  * [ Migrate custom GPTs to plugins ](/codex/migrate-custom-gpts)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
   * [ Prisma AIRS ](/codex/enterprise/prisma-airs)
   * [ HIPAA configuration ](/codex/hipaa-configuration)
