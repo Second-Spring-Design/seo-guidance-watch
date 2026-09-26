@@ -647,6 +647,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Projects and chats ](/codex/projects)
   * [ Sites ](/codex/sites)
+  * [ Build plugins ](/codex/build-plugins)
   * [ Visualizations ](/codex/visualizations)
   * [ Scheduled tasks ](/codex/automations)
   * [ Long-running work ](/codex/long-running-work)
@@ -746,7 +747,6 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Extend and automate 
 
   * [ Build skills ](/codex/build-skills)
-  * [ Build plugins ](/codex/build-plugins)
   * [ Site tools (WebMCP) ](/codex/webmcp)
   * [ Hooks ](/codex/hooks)
 
