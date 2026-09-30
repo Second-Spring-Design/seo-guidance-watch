@@ -10,11 +10,13 @@ Start searching
 
 [ Home ](/?site_locale=en)
 
-[ API ](/api/docs?site_locale=en)
+[ API  ](/api/docs?site_locale=en)
 
-[ Codex  ](https://learn.chatgpt.com/docs?site_locale=en)
+[ Overview  Get started with the OpenAI API  ](/api/docs?site_locale=en)[ Models  Explore models and compare capabilities  ](/api/docs/models?site_locale=en)[ Agents  Build persistent agents on hosted infrastructure  ](/api/docs/guides/agents?site_locale=en)[ Tools  Connect models to tools and data  ](/api/docs/guides/tools?site_locale=en)[ Audio & voice  Build speech and realtime voice experiences  ](/api/docs/guides/audio?site_locale=en)[ Production  Deploy and scale your API integrations  ](/api/docs/guides/production-best-practices?site_locale=en)[ API reference  Explore endpoints, parameters, and responses  ](/api/reference/overview?site_locale=en)
 
-[ Docs Guides, concepts, and product docs for Codex  ](https://learn.chatgpt.com/docs?site_locale=en)[ Use cases Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases?site_locale=en)
+[ ChatGPT  ](/chatgpt?site_locale=en)
+
+[ Sign in with ChatGPT  Apps powered by your user's ChatGPT plan  ](/siwc)[ Plugins  Extend ChatGPT and Codex  ](/plugins?site_locale=en)[ Workspace Agents  Trigger published ChatGPT workspace agents  ](/workspace-agents)[ Commerce  Build commerce flows in ChatGPT  ](/commerce)[ Ads  Publish and measure ads in ChatGPT  ](/ads)[ ChatGPT + Codex user docs  Guides and product docs for ChatGPT and Codex  ](https://learn.chatgpt.com/docs?site_locale=en)[ Use cases  Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases?site_locale=en)
 
 [ Docs ](/codex?site_locale=en)
 
@@ -24,15 +26,11 @@ Start searching
 
 [ Resources ](/codex/resources?site_locale=en)
 
-[ ChatGPT  ](/chatgpt?site_locale=en)
-
-[ Plugins Extend ChatGPT and Codex  ](/plugins?site_locale=en)[ Workspace Agents Trigger published ChatGPT workspace agents  ](/workspace-agents)[ Commerce Build commerce flows in ChatGPT  ](/commerce)[ Ads Publish and measure ads in ChatGPT  ](/ads)
-
 [ Resources  ](/learn?site_locale=en)
 
-[ Showcase Demo apps to get inspired  ](/showcase?site_locale=en)[ Blog Learnings and experiences from developers  ](/blog?site_locale=en)[ Cookbook Notebook examples for building with OpenAI models  ](/cookbook?site_locale=en)[ Learn Docs, videos, and demo apps for building with OpenAI  ](/learn?site_locale=en)[ Community Programs, meetups, and support for builders  ](/community?site_locale=en)
+[ Showcase  Demo apps to get inspired  ](/showcase?site_locale=en)[ Blog  Learnings and experiences from developers  ](/blog?site_locale=en)[ Cookbook  Notebook examples for building with OpenAI models  ](/cookbook?site_locale=en)[ Learn  Docs, videos, and demo apps for building with OpenAI  ](/learn?site_locale=en)[ Community  Programs, meetups, and support for builders  ](/community?site_locale=en)
 
-[ Overview ](/api/docs?site_locale=en)[ Models ](/api/docs/models?site_locale=en)[ Agents ](/api/docs/guides/agents?site_locale=en)[ Tools ](/api/docs/guides/tools?site_locale=en)[ Audio & voice ](/api/docs/guides/audio?site_locale=en)[ Production ](/api/docs/guides/production-best-practices?site_locale=en)[ API reference ](/api/reference/overview?site_locale=en)
+[ Overview  ](/api/docs?site_locale=en)[ Models  ](/api/docs/models?site_locale=en)[ Agents  ](/api/docs/guides/agents?site_locale=en)[ Tools  ](/api/docs/guides/tools?site_locale=en)[ Audio & voice  ](/api/docs/guides/audio?site_locale=en)[ Production  ](/api/docs/guides/production-best-practices?site_locale=en)[ API reference  ](/api/reference/overview?site_locale=en)
 
 ##  Search the API docs 
 
@@ -44,7 +42,7 @@ responses createreasoning_effortrealtimeprompt caching
 
 Primary navigation 
 
-API  Codex  ChatGPT  Docs  Use cases  Training  Resources  Resources 
+API  ChatGPT  Docs  Use cases  Training  Resources  Resources 
 
 Search docs
 
@@ -199,6 +197,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
   * [ Overview ](/api/docs/guides/agents-api/overview)
   * [ Quickstart ](/api/docs/guides/agents-api/quickstart)
+  * [ API reference ](/api/reference/resources/beta/subresources/agents)
   * [ Architecture ](/api/docs/guides/agents-api/architecture)
   * [ Configuring Agents ](/api/docs/guides/agents-api/configuration)
   * Sessions
@@ -214,6 +213,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
     * [ Files and artifacts ](/api/docs/guides/agents-api/environments/files)
   * Tools and integrations
     * [ Web search ](/api/docs/guides/agents-api/tools/web-search)
+    * [ Computer use ](/api/docs/guides/agents-api/tools/computer-use)
     * [ Functions ](/api/docs/guides/agents-api/tools/functions)
     * [ MCP connections ](/api/docs/guides/agents-api/tools/mcp)
     * [ Plugins ](/api/docs/guides/agents-api/tools/plugins)
@@ -221,6 +221,8 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
   * [ Multi-agent ](/api/docs/guides/agents-api/multi-agent)
   * [ Observability and usage ](/api/docs/guides/agents-api/observability)
   * [ Tracing ](/api/docs/guides/agents-api/tracing)
+  * [ Errors and recovery ](/api/docs/guides/agents-api/errors)
+  * [ Bedrock Managed Agents ](/api/docs/guides/agents-api/bedrock-managed-agents)
 
 
 
@@ -357,9 +359,10 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
 ###  Performance and quality 
 
+  * [ Fast mode ](/api/docs/guides/fast-mode)
+  * [ Ultrafast mode ](/api/docs/guides/ultrafast-mode)
   * [ Latency optimization ](/api/docs/guides/latency-optimization)
   * [ Predicted Outputs ](/api/docs/guides/predicted-outputs)
-  * [ Fast mode ](/api/docs/guides/fast-mode)
   * [ Accuracy optimization ](/api/docs/guides/optimizing-llm-accuracy)
 
 
@@ -429,13 +432,37 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
 
 
-[ Docs ](https://learn.chatgpt.com/docs)[ Use cases ](https://learn.chatgpt.com/use-cases)
+[ Overview ](/chatgpt) Sign in with ChatGPT  Plugins  Workspace Agents  Commerce  Ads [ ChatGPT + Codex user docs  ](https://learn.chatgpt.com/docs)[ Use cases  ](https://learn.chatgpt.com/use-cases)
 
-DocsUse casesDocsDocs
+OverviewSign in with ChatGPTPluginsWorkspace AgentsCommerceAdsChatGPT + Codex user docsUse casesDocsOverview
 
-Plugins  Workspace Agents  Commerce  Ads 
+  * [ Home ](/siwc)
+  * [ Quickstart ](/siwc/quickstart)
+  * [ Request a client ID ](/siwc/request-client-id)
 
-PluginsWorkspace AgentsCommerceAdsDocsSelect...
+
+
+###  Identity 
+
+  * [ On your website ](/siwc/website)
+  * [ In your ChatGPT plugin ](/siwc/chatgpt-plugin)
+
+
+
+###  ChatGPT plan usage 
+
+  * [ Overview ](/siwc/token-sharing-open-source)
+  * [ UI/UX guidelines ](/siwc/ui-ux-guidelines)
+  * [ Registration and sign-in ](/siwc/token-sharing-open-source/sign-in)
+  * [ Accounts and sessions ](/siwc/token-sharing-open-source/profiles-and-sessions)
+  * [ Models and inference ](/siwc/token-sharing-open-source/models-and-inference)
+  * [ Codex app-server ](/siwc/token-sharing-open-source/codex-app-server)
+  * [ Self-hosted VMs ](/siwc/token-sharing-open-source/self-hosted-vms)
+  * [ Token reference ](/siwc/token-sharing-open-source/token-reference)
+  * [ Errors and recovery ](/siwc/token-sharing-open-source/errors-and-recovery)
+  * [ Preview limitations ](/siwc/token-sharing-open-source/preview-limitations)
+
+
 
   * [ Home ](/plugins)
   * [ Quickstart ](/plugins/quickstart)
@@ -461,6 +488,8 @@ PluginsWorkspace AgentsCommerceAdsDocsSelect...
 
   * [ Build an MCP server ](/plugins/build/mcp-server)
   * [ Add UI to your MCP server (optional) ](/plugins/build/chatgpt-ui)
+  * [ Add events to your MCP server (optional) ](/plugins/build/mcp-events)
+  * [ Extensions ](/plugins/build/extensions)
   * [ Authenticate users ](/plugins/build/auth)
   * [ Build skills ](/plugins/build/skills)
   * [ Package your plugin ](/plugins/build/plugins)
@@ -497,7 +526,7 @@ PluginsWorkspace AgentsCommerceAdsDocsSelect...
 ###  Resources 
 
   * [ Changelog ](/plugins/changelog)
-  * [ Plugin guidelines ](/plugins/app-guidelines)
+  * [ Plugin guidelines ](/plugins/plugin-guidelines)
   * [ MCP server review requirements ](/plugins/deploy/app-review)
   * [ Plugin UI reference ](/plugins/reference)
   * [ Checkout API reference ](/plugins/build/monetization)
@@ -597,6 +626,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Quickstart ](/codex/quickstart)
   * [ Use ChatGPT ](/codex/use-chatgpt)
   * [ Get started with Work ](/codex/get-started-with-work)
+  * [ Meet dots ](/codex/dots)
   * [ Import from another agent ](/codex/import)
 
 
@@ -627,7 +657,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ ChatGPT on the web ](/codex/web)
   * [ Codex CLI ](/codex/cli)
   * [ Codex IDE extension ](/codex/ide)
-  * [ Codex cloud ](/codex/cloud)
+  * [ Codex Cloud ](/codex/cloud)
 
 
 
@@ -663,12 +693,34 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Computer use ](/codex/computer-use)
   * [ Voice ](/codex/features/voice)
   * [ Plugins ](/codex/plugins)
+  * [ Sign in with ChatGPT ](/codex/sign-in-with-chatgpt)
   * [ Web search ](/codex/web-search)
   * [ Image generation ](/codex/image-generation)
   * [ Image inputs ](/codex/image-inputs)
   * [ Appshots ](/codex/appshots)
   * [ Browser extension ](/codex/chrome-extension)
   * [ Work with files ](/codex/artifacts-viewer)
+
+
+
+###  dots 
+
+  * [ Meet dots ](/codex/dots)
+  * [ Getting started ](/codex/dots/getting-started)
+  * [ Messaging ](/codex/dots/channels)
+  * [ Tasks and memory ](/codex/dots/tasks-and-memory)
+  * [ Computers and apps ](/codex/dots/computers-and-apps)
+  * [ Controls ](/codex/dots/controls)
+
+
+
+###  ChatGPT Space 
+
+  * [ Overview ](/codex/space)
+  * [ Getting started ](/codex/space/getting-started)
+  * [ Pages ](/codex/space/pages)
+  * [ Work with agents ](/codex/space/agents)
+  * [ Collaboration ](/codex/space/collaboration)
 
 
 
@@ -748,6 +800,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Build skills ](/codex/build-skills)
   * [ Site tools (WebMCP) ](/codex/webmcp)
+  * [ Annotations Extensibility ](/codex/annotations-extensibility)
   * [ Hooks ](/codex/hooks)
 
 
@@ -756,8 +809,13 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Modes ](/codex/environments/modes)
   * [ Local environments ](/codex/environments/local-environment)
-  * [ Cloud environment ](/codex/environments/cloud-environment)
   * [ Git worktrees ](/codex/environments/git-worktrees)
+
+
+
+###  Codex Cloud 
+
+  * [ Cloud environments ](/codex/environments/cloud-environments)
 
 
 
@@ -797,7 +855,6 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Sandboxing ](/codex/sandboxing)
   * [ Auto-review ](/codex/sandboxing/auto-review)
   * [ Agent approvals & security ](/codex/agent-approvals-security)
-  * [ Internet access ](/codex/cloud/internet-access)
 
 
 
@@ -824,7 +881,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
     * [ Reference ](/codex/security/cli/reference)
     * [ FAQ ](/codex/security/cli/faq)
   * [ TypeScript SDK ](/codex/security/sdk)
-  * Codex Security cloud
+  * Codex Security Cloud
     * [ Setup ](/codex/security/setup)
     * [ Security Review ](/codex/security/security-review)
     * [ Improving the threat model ](/codex/security/threat-model)
@@ -846,66 +903,83 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Getting started 
 
   * [ Admin rollout guide ](/codex/enterprise/admin-setup)
+  * [ Admin plugin ](/codex/enterprise/admin-plugin)
+
+
+
+  * Feature setup
+    * [ Dots ](/codex/dots/controls#for-workspace-admins)
+    * [ Space ](/codex/space/collaboration#for-workspace-admins)
+    * [ Teams and Team Tasks ](/codex/enterprise/teams#for-workspace-admins)
+    * [ ChatGPT in Slack and Teams ](/codex/enterprise/chatgpt-slack-and-teams)
+    * [ Workspace connections ](/codex/enterprise/shared-connections)
+    * [ Local computer access for Work Cloud and dots ](/codex/enterprise/cloud-local-access)
+    * [ Sites ](/codex/enterprise/sites)
+
+
+
+###  Identity and access 
+
+  * [ Authentication overview ](/codex/auth)
+  * [ Groups and provisioning ](/codex/enterprise/groups-and-provisioning)
+  * [ User lifecycle management ](/codex/enterprise/user-lifecycle)
+  * [ Roles and workspace permissions ](/codex/enterprise/roles-and-workspace-permissions)
+  * [ Personal access tokens ](/codex/enterprise/access-tokens)
+  * [ Service accounts ](/codex/enterprise/service-accounts)
+
+
+
+###  Deployment and configuration 
+
+  * [ Windows app deployment ](/codex/enterprise/windows-deployment)
+  * [ Manage app updates ](/codex/enterprise/manage-app-updates)
+  * [ Managed configuration ](/codex/enterprise/managed-configuration)
+  * [ Remote connections ](/codex/remote-connections)
+  * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
+  * [ Amazon Bedrock ](/codex/amazon-bedrock)
 
 
 
 ###  ChatGPT Work 
 
-  * [ ChatGPT Work Overview ](/codex/enterprise/chatgpt-work-overview)
-  * [ ChatGPT Work cloud security ](/codex/enterprise/chatgpt-work-cloud-security)
-  * [ ChatGPT Work local security ](/codex/enterprise/chatgpt-work-local-security)
-  * [ ChatGPT Work admin FAQ ](/codex/enterprise/work-admin-faq)
-  * [ ChatGPT Work: usage and cost ](/codex/enterprise/chatgpt-work-usage-and-cost)
+  * [ Overview ](/codex/enterprise/chatgpt-work-overview)
+  * [ Cloud security ](/codex/enterprise/chatgpt-work-cloud-security)
+  * [ Local security ](/codex/enterprise/chatgpt-work-local-security)
+  * [ Usage and cost ](/codex/enterprise/chatgpt-work-usage-and-cost)
+  * [ Admin FAQ ](/codex/enterprise/work-admin-faq)
 
 
 
-###  Identity and authentication 
+###  Collaboration and sharing 
 
-  * [ Authentication overview ](/codex/auth)
-  * [ Personal Access Tokens ](/codex/enterprise/access-tokens)
-  * [ Service accounts ](/codex/enterprise/service-accounts)
+  * [ GPTs and sharing ](/codex/enterprise/gpts-and-sharing)
 
 
 
-###  Workspace access, policy, and models 
-
-  * [ Groups and provisioning ](/codex/enterprise/groups-and-provisioning)
-  * [ User lifecycle management ](/codex/enterprise/user-lifecycle)
-  * [ Roles and workspace permissions ](/codex/enterprise/roles-and-workspace-permissions)
-  * [ GPTs and Sharing ](/codex/enterprise/gpts-and-sharing)
-  * [ Migrate custom GPTs to plugins ](/codex/migrate-custom-gpts)
-  * [ Managed configuration ](/codex/enterprise/managed-configuration)
-  * [ Prisma AIRS ](/codex/enterprise/prisma-airs)
-  * [ HIPAA configuration ](/codex/hipaa-configuration)
-  * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
-
-
-
-###  Plugin and connector controls 
+###  Plugins and connections 
 
   * [ Plugin controls ](/codex/enterprise/apps-and-connectors)
   * [ Plugin management ](/codex/enterprise/plugin-management)
   * [ Skill controls ](/codex/enterprise/skills)
+  * [ Migrate custom GPTs to plugins ](/codex/migrate-custom-gpts)
 
 
 
-###  Usage, governance, and compliance 
+###  Usage and analytics 
 
-  * [ Governance ](/codex/enterprise/governance)
-  * [ Admin plugin ](/codex/enterprise/admin-plugin)
   * [ Workspace analytics ](/codex/enterprise/workspace-analytics)
   * [ Usage Insights ](/codex/enterprise/usage-insights)
   * [ Analytics API ](/codex/enterprise/analytics-api)
+
+
+
+###  Security and compliance 
+
+  * [ Governance ](/codex/enterprise/governance)
+  * [ Agent security ](/codex/enterprise/agent-security)
+  * [ Prisma AIRS ](/codex/enterprise/prisma-airs)
+  * [ HIPAA configuration ](/codex/hipaa-configuration)
   * [ Compliance API and audit events ](/codex/enterprise/compliance-api)
-
-
-
-###  Deployment and model providers 
-
-  * [ Manage app updates ](/codex/enterprise/manage-app-updates)
-  * [ Windows app deployment ](/codex/enterprise/windows-deployment)
-  * [ Remote connections ](/codex/remote-connections)
-  * [ Amazon Bedrock ](/codex/amazon-bedrock)
 
 
 
@@ -1002,6 +1076,7 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 
 ###  Topics 
 
+  * [ Sign-in with ChatGPT ](/cookbook/topic/sign-in-with-chatgpt)
   * [ Agents ](/cookbook/topic/agents)
   * [ Evals ](/cookbook/topic/evals)
   * [ Multimodal ](/cookbook/topic/multimodal)
