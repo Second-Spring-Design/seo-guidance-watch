@@ -197,7 +197,6 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
   * [ Overview ](/api/docs/guides/agents-api/overview)
   * [ Quickstart ](/api/docs/guides/agents-api/quickstart)
-  * [ API reference ](/api/reference/resources/beta/subresources/agents)
   * [ Architecture ](/api/docs/guides/agents-api/architecture)
   * [ Configuring Agents ](/api/docs/guides/agents-api/configuration)
   * Sessions
@@ -222,6 +221,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
   * [ Observability and usage ](/api/docs/guides/agents-api/observability)
   * [ Tracing ](/api/docs/guides/agents-api/tracing)
   * [ Errors and recovery ](/api/docs/guides/agents-api/errors)
+  * [ API reference ](/api/reference/resources/beta/subresources/agents)
   * [ Bedrock Managed Agents ](/api/docs/guides/agents-api/bedrock-managed-agents)
 
 
@@ -604,6 +604,7 @@ OverviewSign in with ChatGPTPluginsWorkspace AgentsCommerceAdsChatGPT + Codex us
 
   * [ Authentication ](/ads/api-reference/authentication)
   * [ Ad Account ](/ads/api-reference/ad-account)
+  * [ Audit Logs ](/ads/api-reference/audit-logs)
   * [ Campaigns ](/ads/api-reference/campaigns)
   * [ Ad Groups ](/ads/api-reference/ad-groups)
   * [ Ads ](/ads/api-reference/ads)
@@ -937,6 +938,10 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Remote connections ](/codex/remote-connections)
   * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
   * [ Amazon Bedrock ](/codex/amazon-bedrock)
+  * [ Connect to a gateway ](/codex/enterprise/connect-to-a-gateway)
+  * [ Deploy Codex through a gateway ](/codex/enterprise/roll-out-a-gateway)
+  * [ Gateway compatibility ](/codex/enterprise/gateway-compatibility)
+  * [ Bedrock through LiteLLM ](/codex/enterprise/bedrock-through-litellm)
 
 
 
