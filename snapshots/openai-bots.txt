@@ -940,6 +940,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Remote connections ](/codex/remote-connections)
   * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
   * [ Amazon Bedrock ](/codex/amazon-bedrock)
+  * [ Bedrock GovCloud configuration ](/codex/enterprise/govcloud-configuration)
   * [ Connect to a gateway ](/codex/enterprise/connect-to-a-gateway)
   * [ Deploy Codex through a gateway ](/codex/enterprise/roll-out-a-gateway)
   * [ Gateway compatibility ](/codex/enterprise/gateway-compatibility)
