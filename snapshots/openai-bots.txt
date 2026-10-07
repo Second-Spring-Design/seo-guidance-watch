@@ -69,6 +69,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 ###  Core concepts 
 
   * [ Responses API ](/api/docs/guides/migrate-to-responses)
+  * [ Decisions API ](/api/docs/guides/decisions)
   * [ Conversation state ](/api/docs/guides/conversation-state)
   * [ Background mode ](/api/docs/guides/background)
   * [ Streaming ](/api/docs/guides/streaming-responses)
@@ -325,6 +326,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 ###  Build with voice 
 
   * [ Voice agents ](/api/docs/guides/voice-agents)
+  * [ Connect voice to Decisions ](/api/docs/guides/decisions-voice)
   * [ Custom voices ](/api/docs/guides/custom-voices)
   * [ Cost optimization ](/api/docs/guides/voice-latency-cost)
 
@@ -656,7 +658,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 ###  Available on 
 
   * [ ChatGPT desktop app ](/codex/app)
-  * [ Remote ](/codex/remote)
+  * [ ChatGPT mobile app ](/codex/mobile)
   * [ ChatGPT on the web ](/codex/web)
   * [ Codex CLI ](/codex/cli)
   * [ Codex IDE extension ](/codex/ide)
@@ -1174,6 +1176,7 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 ### Core concepts
 
   * [ Responses API  ](/api/docs/guides/migrate-to-responses)
+  * [ Decisions API  ](/api/docs/guides/decisions)
   * [ Conversation state  ](/api/docs/guides/conversation-state)
   * [ Background mode  ](/api/docs/guides/background)
   * [ Streaming  ](/api/docs/guides/streaming-responses)
