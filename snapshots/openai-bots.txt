@@ -943,8 +943,10 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
   * [ Amazon Bedrock ](/codex/amazon-bedrock)
   * [ Bedrock GovCloud configuration ](/codex/enterprise/govcloud-configuration)
-  * [ Connect to a gateway ](/codex/enterprise/connect-to-a-gateway)
-  * [ Deploy Codex through a gateway ](/codex/enterprise/roll-out-a-gateway)
+  * Connect to a gateway
+    * [ Sign in with ChatGPT ](/codex/enterprise/sign-in-with-chatgpt-through-a-gateway)
+    * [ Use API/provider credentials ](/codex/enterprise/connect-to-a-gateway)
+  * [ Roll out a gateway ](/codex/enterprise/roll-out-a-gateway)
   * [ Gateway compatibility ](/codex/enterprise/gateway-compatibility)
   * [ Bedrock through LiteLLM ](/codex/enterprise/bedrock-through-litellm)
 
@@ -1141,6 +1143,7 @@ ShowcaseBlogCookbookLearnCommunityDocsSelect...
 ###  Programs 
 
   * [ Codex Ambassadors ](/community/codex-ambassadors)
+    * [ Meet the ambassadors ](/community/codex-ambassadors/directory)
   * [ Codex for Students ](/community/students)
   * [ Codex for Open Source ](/community/codex-for-oss)
   * [ OpenAI for Startups  ](https://openai.com/business/why-openai/startups/)
