@@ -330,6 +330,7 @@ Sign in
     * Early Adopters Program
 
       * [Package tracking](/search/docs/appearance/package-tracking)
+      * [UGC Fresh Data](/search/docs/appearance/ugc-fresh-data-program)
 
   * Monitoring and debugging
 
