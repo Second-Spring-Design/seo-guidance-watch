@@ -52,7 +52,7 @@ responses createreasoning_effortrealtimeprompt caching
 
 Overview  Models  Agents  Tools  Audio & voice  Production  API reference 
 
-OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
+DocsOverview
 
   * [ Home ](/api/docs)
 
@@ -209,6 +209,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
     * [ OpenAI-hosted sandboxes ](/api/docs/guides/agents-api/environments/openai-hosted)
     * [ Self-hosted sandboxes ](/api/docs/guides/agents-api/environments/self-hosted)
     * [ Sandbox lifecycle ](/api/docs/guides/agents-api/environments/lifecycle)
+    * [ Pre-warm sandboxes ](/api/docs/guides/agents-api/environments/prewarmed)
     * [ Sandbox security ](/api/docs/guides/agents-api/environments/security)
     * [ Files and artifacts ](/api/docs/guides/agents-api/environments/files)
   * Tools and integrations
@@ -437,7 +438,7 @@ OverviewModelsAgentsToolsAudio & voiceProductionAPI referenceDocsOverview
 
 [ Overview ](/chatgpt) Sign in with ChatGPT  Plugins  Workspace Agents  Commerce  Ads [ ChatGPT + Codex user docs  ](https://learn.chatgpt.com/docs)[ Use cases  ](https://learn.chatgpt.com/use-cases)
 
-OverviewSign in with ChatGPTPluginsWorkspace AgentsCommerceAdsChatGPT + Codex user docsUse casesDocsOverview
+DocsOverview
 
   * [ Home ](/siwc)
   * [ Quickstart ](/siwc/quickstart)
@@ -620,7 +621,7 @@ OverviewSign in with ChatGPTPluginsWorkspace AgentsCommerceAdsChatGPT + Codex us
 
 Overview  Features  Configuration  Developers  Security  Administration  Use Cases  Resources 
 
-OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesDocsOverview
+DocsOverview
 
   * [ Home ](/codex)
 
@@ -631,7 +632,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
   * [ Quickstart ](/codex/quickstart)
   * [ Use ChatGPT ](/codex/use-chatgpt)
   * [ Get started with Work ](/codex/get-started-with-work)
-  * [ Meet dots ](/codex/dots)
+  * [ Meet dots ](/codex/dots?nav=overview)
   * [ Import from another agent ](/codex/import)
 
 
@@ -710,7 +711,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
 ###  dots 
 
-  * [ Meet dots ](/codex/dots)
+  * [ Meet dots ](/codex/dots?nav=features)
   * [ Getting started ](/codex/dots/getting-started)
   * [ Messaging ](/codex/dots/channels)
   * [ Tasks and memory ](/codex/dots/tasks-and-memory)
@@ -927,6 +928,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
   * [ Authentication overview ](/codex/auth)
   * [ Groups and provisioning ](/codex/enterprise/groups-and-provisioning)
+  * [ Dynamic groups ](/codex/enterprise/dynamic-groups)
   * [ User lifecycle management ](/codex/enterprise/user-lifecycle)
   * [ Roles and workspace permissions ](/codex/enterprise/roles-and-workspace-permissions)
   * [ Personal access tokens ](/codex/enterprise/access-tokens)
@@ -1055,7 +1057,7 @@ OverviewFeaturesConfigurationDevelopersSecurityAdministrationUse CasesResourcesD
 
 [ Showcase ](/showcase) Blog  Cookbook  Learn  Community 
 
-ShowcaseBlogCookbookLearnCommunityDocsSelect...
+DocsSelect...
 
   * [ All posts ](/blog)
 
