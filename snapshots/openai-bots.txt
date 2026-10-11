@@ -16,7 +16,7 @@ Start searching
 
 [ ChatGPT  ](/chatgpt?site_locale=en)
 
-[ Sign in with ChatGPT  Apps powered by your user's ChatGPT plan  ](/siwc)[ Plugins  Extend ChatGPT and Codex  ](/plugins?site_locale=en)[ Workspace Agents  Trigger published ChatGPT workspace agents  ](/workspace-agents)[ Commerce  Build commerce flows in ChatGPT  ](/commerce)[ Ads  Publish and measure ads in ChatGPT  ](/ads)[ ChatGPT + Codex user docs  Guides and product docs for ChatGPT and Codex  ](https://learn.chatgpt.com/docs?site_locale=en)[ Use cases  Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases?site_locale=en)
+[ Plugins  Extend ChatGPT and Codex  ](/plugins?site_locale=en)[ Sign in with ChatGPT  Apps powered by your user's ChatGPT plan  ](/siwc)[ Commerce  Build commerce flows in ChatGPT  ](/commerce)[ Ads  Publish and measure ads in ChatGPT  ](/ads)[ Workspace Agents  Trigger published ChatGPT workspace agents  ](/workspace-agents)[ ChatGPT + Codex user docs  Guides and product docs for ChatGPT and Codex  ](https://learn.chatgpt.com/docs?site_locale=en)[ Use cases  Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases?site_locale=en)
 
 [ Docs ](/codex?site_locale=en)
 
@@ -436,37 +436,9 @@ DocsOverview
 
 
 
-[ Overview ](/chatgpt) Sign in with ChatGPT  Plugins  Workspace Agents  Commerce  Ads [ ChatGPT + Codex user docs  ](https://learn.chatgpt.com/docs)[ Use cases  ](https://learn.chatgpt.com/use-cases)
+[ Overview ](/chatgpt) Plugins  Sign in with ChatGPT  Commerce  Ads  Workspace Agents [ ChatGPT + Codex user docs  ](https://learn.chatgpt.com/docs)[ Use cases  ](https://learn.chatgpt.com/use-cases)
 
 DocsOverview
-
-  * [ Home ](/siwc)
-  * [ Quickstart ](/siwc/quickstart)
-  * [ Request a client ID ](/siwc/request-client-id)
-
-
-
-###  Identity 
-
-  * [ On your website ](/siwc/website)
-  * [ In your ChatGPT plugin ](/siwc/chatgpt-plugin)
-
-
-
-###  ChatGPT plan usage 
-
-  * [ Overview ](/siwc/token-sharing-open-source)
-  * [ UI/UX guidelines ](/siwc/ui-ux-guidelines)
-  * [ Registration and sign-in ](/siwc/token-sharing-open-source/sign-in)
-  * [ Accounts and sessions ](/siwc/token-sharing-open-source/profiles-and-sessions)
-  * [ Models and inference ](/siwc/token-sharing-open-source/models-and-inference)
-  * [ Codex app-server ](/siwc/token-sharing-open-source/codex-app-server)
-  * [ Self-hosted VMs ](/siwc/token-sharing-open-source/self-hosted-vms)
-  * [ Token reference ](/siwc/token-sharing-open-source/token-reference)
-  * [ Errors and recovery ](/siwc/token-sharing-open-source/errors-and-recovery)
-  * [ Preview limitations ](/siwc/token-sharing-open-source/preview-limitations)
-
-
 
   * [ Home ](/plugins)
   * [ Quickstart ](/plugins/quickstart)
@@ -537,14 +509,31 @@ DocsOverview
 
 
 
-  * [ Home ](/workspace-agents)
+  * [ Home ](/siwc)
+  * [ Quickstart ](/siwc/quickstart)
+  * [ Request a client ID ](/siwc/request-client-id)
 
 
 
-###  Get started 
+###  Identity 
 
-  * [ Trigger workspace agent runs ](/workspace-agents/trigger-runs)
-  * [ Authenticate with Workspace Agent access tokens ](/workspace-agents/authentication)
+  * [ On your website ](/siwc/website)
+  * [ In your ChatGPT plugin ](/siwc/chatgpt-plugin)
+
+
+
+###  ChatGPT plan usage 
+
+  * [ Overview ](/siwc/token-sharing-open-source)
+  * [ UI/UX guidelines ](/siwc/ui-ux-guidelines)
+  * [ Registration and sign-in ](/siwc/token-sharing-open-source/sign-in)
+  * [ Accounts and sessions ](/siwc/token-sharing-open-source/profiles-and-sessions)
+  * [ Models and inference ](/siwc/token-sharing-open-source/models-and-inference)
+  * [ Codex app-server ](/siwc/token-sharing-open-source/codex-app-server)
+  * [ Self-hosted VMs ](/siwc/token-sharing-open-source/self-hosted-vms)
+  * [ Token reference ](/siwc/token-sharing-open-source/token-reference)
+  * [ Errors and recovery ](/siwc/token-sharing-open-source/errors-and-recovery)
+  * [ Preview limitations ](/siwc/token-sharing-open-source/preview-limitations)
 
 
 
@@ -616,6 +605,17 @@ DocsOverview
   * [ Insights ](/ads/api-reference/insights)
   * [ Files ](/ads/api-reference/files)
   * [ Conversion Setup ](/ads/api-reference/conversion-setup)
+
+
+
+  * [ Home ](/workspace-agents)
+
+
+
+###  Get started 
+
+  * [ Trigger workspace agent runs ](/workspace-agents/trigger-runs)
+  * [ Authenticate with Workspace Agent access tokens ](/workspace-agents/authentication)
 
 
 
