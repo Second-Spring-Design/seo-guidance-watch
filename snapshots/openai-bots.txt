@@ -112,7 +112,6 @@ DocsOverview
     * [ Working with evals ](/api/docs/guides/evals)
     * [ Prompt optimizer ](/api/docs/guides/prompt-optimizer)
     * [ External models ](/api/docs/guides/external-models)
-    * [ Best practices ](/api/docs/guides/evaluation-best-practices)
     * [ Graders ](/api/docs/guides/graders)
   * Fine-tuning
     * [ Optimization cycle ](/api/docs/guides/model-optimization)
@@ -370,6 +369,13 @@ DocsOverview
 
 
 
+###  Evaluation 
+
+  * [ Evaluation best practices ](/api/docs/guides/evaluation-best-practices)
+  * [ Promptfoo ](/api/docs/guides/promptfoo-codex)
+
+
+
 ###  Cost and throughput 
 
   * [ Cost optimization ](/api/docs/guides/cost-optimization)
@@ -477,6 +483,7 @@ DocsOverview
 
   * [ Connect and test your plugin ](/plugins/deploy/connect-chatgpt)
   * [ Submit and publish ](/plugins/deploy/submission)
+  * [ Submit desktop-only plugins ](/plugins/deploy/desktop-only)
   * [ Submission error reference ](/plugins/deploy/submission-errors)
 
 
@@ -1224,7 +1231,6 @@ DocsSelect...
     * [ Working with evals  ](/api/docs/guides/evals)
     * [ Prompt optimizer  ](/api/docs/guides/prompt-optimizer)
     * [ External models  ](/api/docs/guides/external-models)
-    * [ Best practices  ](/api/docs/guides/evaluation-best-practices)
     * [ Graders  ](/api/docs/guides/graders)
   * Fine-tuning
     * [ Optimization cycle  ](/api/docs/guides/model-optimization)

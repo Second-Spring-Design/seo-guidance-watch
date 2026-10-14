@@ -6,6 +6,98 @@
     <description>This is a place devoted to giving you deeper insight into the news, trends, people and technology behind Bing.</description>
     <language>en-US</language>
     <item>
+      <guid isPermaLink="false">https://bingblog-afddbkf9dsbrbub3.westus2-01.azurewebsites.net/?p=3475</guid>
+      <link>https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/</link>
+      <author>Bing Team</author>
+      <category>Webmaster</category>
+      <title>Introducing Topics Portfolio (Beta) in AI Performance</title>
+      <description>&lt;p class=&quot;l-p&quot; style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;Bing Webmaster Tools introduces Topics Portfolio, a beta view of sites’ presence across thematic AI Search clusters. It combines portfolio-level context with query-level opportunities for planning growth.&lt;/span&gt;&lt;/p&gt;&lt;ul class=&quot;l-ul&quot;&gt;&lt;li value=&quot;1&quot; class=&quot;l-li&quot; style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;Each topic shows Topic Size, Sites Cited, and Queries, indicating demand, competition, and activity.&lt;/span&gt;&lt;/li&gt;&lt;li value=&quot;2&quot; class=&quot;l-li&quot; style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;Topic detail pages separate existing grounding queries from Opportunity Queries where other sites appear.&lt;/span&gt;&lt;/li&gt;&lt;li value=&quot;3&quot; class=&quot;l-li&quot; style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;AI-generated classifications and ecosystem metrics are approximate, so users should treat results as directional and provide feedback through built-in controls.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      
+      <content><![CDATA[<h3 class="l-h3" style="text-align: left;"><span style="white-space: pre-wrap;">New beta feature in Bing Webmaster Tools that shows the thematic shape of your site&#8217;s presence in AI Search&nbsp;</span></h3>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Today we are announcing a new beta feature inside the AI Performance report in Bing Webmaster Tools. It is called </span><b><strong class="l-bold" style="white-space: pre-wrap;">Topics Portfolio</strong></b><span style="white-space: pre-wrap;">, and it groups the grounding queries where your site appears into broader thematic clusters – for example, football, taxes or AI Chatbots – so you can see the shape of your presence across those clusters rather than one query at a time.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">AI Performance gives you a direct view into how your site contributes to AI-generated answers – from the grounding queries where it appears to the pages cited for each query. Topics Portfolio adds the broader view – how that presence is distributed across themes, how much demand each theme represents, how competitive each theme is and where your site has room to grow.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Everything in this view is personalized to your site. The topics and the opportunity queries are surfaced from your own presence and activity in AI Search, not from a generic ecosystem list.</span></p>
+<h3 class="l-h3" style="text-align: left;"><span style="white-space: pre-wrap;">Topics Portfolio&nbsp;</span></h3>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Login to </span><a href="https://www.bing.com/webmasters" rel="noreferrer" class="l-link"><span style="white-space: pre-wrap;">Bing Webmaster Tools</span></a><span style="white-space: pre-wrap;"> and navigate to AI Performance. </span><i><em class="l-italic" style="white-space: pre-wrap;">If there is sufficient data for your site,</em></i><span style="white-space: pre-wrap;"> you will see a new Topics Portfolio tab next to Citations &amp; Pages. The landing page opens to your topic portfolio: a personalized list of the topics where your site has a meaningful presence, with three ecosystem measures beside each one.</span></p>
+<p class="l-p" style="text-align: left;"><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/10/2411b010-58cf-4025-85c2-01929ffd9af4-Ex1_L1_View_revised.png" alt="" style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Here is what each column means.&nbsp;</span></p>
+<table>
+<colgroup>
+<col>
+<col></colgroup>
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 146px; background-color: rgb(0, 120, 212); border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">Column&nbsp;</strong></b></p>
+</td>
+<td style="width: 553px; background-color: rgb(0, 120, 212); border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">What it tells you&nbsp;</strong></b></p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 146px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Topic&nbsp;</span></p>
+</td>
+<td style="width: 553px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">A broad thematic cluster of related grounding queries where your site appears.&nbsp;</span></p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 146px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Topic Size&nbsp;</span></p>
+</td>
+<td style="width: 553px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">The approximate total citations across all sites for this topic over the selected period – a measure of how much AI Search demand the topic represents.&nbsp;</span></p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 146px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Sites Cited&nbsp;</span></p>
+</td>
+<td style="width: 553px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">The approximate number of sites appearing for queries in this topic, which indicates how crowded the topic is.&nbsp;</span></p>
+</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 146px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Queries&nbsp;</span></p>
+</td>
+<td style="width: 553px; background-color: transparent; border: 1px solid black; vertical-align: top; text-align: start;">
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">The approximate number of distinct grounding queries in this topic.&nbsp;</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Below the topic table you will find Top Opportunity Queries: the strongest queries across your whole portfolio where other sites appear and yours does not. It is a fast, cross-topic read on where you could grow. Citation volumes there are shown as ranges rather than exact numbers.</span></p>
+<p class="l-p" style="text-align: left;"><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/10/50b7fb8e-d7fc-462e-a58b-00d32b35962d-Ex1_L1_View2.png" alt="" style="height:auto;max-width:100%;border-radius:8px"></p>
+<h3 class="l-h3" style="text-align: left;"><span style="white-space: pre-wrap;">Inside a topic&nbsp;</span></h3>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Click any topic and you drop into a detail page for it. Three KPI cards sit at the top – the Topic Size, your own citations within the topic, and the number of queries in it – and beneath them the queries themselves are split into two tables.</span></p>
+<p class="l-p" style="text-align: left;"><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/10/21caf4e6-6069-4e0e-a3ed-857102de79c4-Ex1_L2_View.png" alt="" style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Your Grounding Queries lists the top queries in this topic where your site already appears, aligned with the data you already know from Citations &amp; Pages. Opportunity Queries lists the top queries in the same topic where other sites appear and yours does not, with citation volumes shown as ranges. Together they give you the two halves of a topic: what you already own, and what is still open.</span></p>
+<h3 class="l-h3" style="text-align: left;"><span style="white-space: pre-wrap;">How Topics Portfolio helps&nbsp;</span></h3>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Topics Portfolio is aimed at anyone who wants to understand and grow their site&#8217;s presence in AI-generated answers, and it should be most useful to publishers doing content strategy, editorial planning and competitive positioning. It gives you three things the report could not show before:&nbsp;</span></p>
+<ul class="l-ul">
+<li value="1" class="l-li" style="text-align: left;"><span style="white-space: pre-wrap;">A portfolio view – the thematic shape of your AI Search footprint at a glance.&nbsp;</span></li>
+<li value="2" class="l-li" style="text-align: left;"><span style="white-space: pre-wrap;">Ecosystem context – how big each topic is, and how crowded it is with other sites.&nbsp;</span></li>
+<li value="3" class="l-li" style="text-align: left;"><span style="white-space: pre-wrap;">Actionable opportunity – specific queries within specific topics where you can grow, drawn from real grounding activity happening on Bing.&nbsp;</span></li>
+</ul>
+<h3 class="l-h3" style="text-align: left;"><span style="white-space: pre-wrap;">This is a beta feature – here is what that means&nbsp;</span></h3>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">We are shipping Topics Portfolio with a beta label. The view is built on AI-generated classification and on ecosystem aggregates, and we would rather put it in front of you early and improve it with your input than hold it back. Treat the numbers as directional signals for planning, not as a precise ledger. A few limitations are worth knowing before you start:&nbsp;</span></p>
+<ul class="l-ul">
+<li value="1" class="l-li" style="text-align: left;"><span style="white-space: pre-wrap;">Topic classification is AI-generated and can occasionally be imperfect, so a query may land in a topic you would have labelled differently.&nbsp;</span></li>
+<li value="2" class="l-li" style="text-align: left;"><span style="white-space: pre-wrap;">Topics with insufficient site presence or insufficient ecosystem activity are not shown, so smaller sites may see a shorter list or may not even see this feature.&nbsp;</span></li>
+<li value="3" class="l-li" style="text-align: left;"><span style="white-space: pre-wrap;">Branded queries can appear as opportunity queries. In a Running Shoes topic, for instance, contososhoes.com may see Air Shoes listed as an opportunity even though it is a Compete-branded query.&nbsp;</span></li>
+<li value="4" class="l-li" style="text-align: left;"><span style="white-space: pre-wrap;">Topic Size, Sites Cited and Queries are approximate, and opportunity citation volumes are deliberately shown as ranges.</span></li>
+</ul>
+<h3 class="l-h3" style="text-align: left;"><span style="white-space: pre-wrap;">Tell us what you think&nbsp;</span></h3>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Feedback is built directly into the view, and it is the fastest way to make this better. Every topic row and every opportunity query carries a thumbs up and a thumbs down control – you can see them in both screenshots above. If a topic does not describe your content, or an opportunity query is off the mark for your site, mark it down. If a cluster nails the way you actually plan your coverage, mark it up. Those signals go straight to the team working on the classification and the opportunity selection, and they shape what we fix first.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">You can also reach us through the usual Bing Webmaster Tools feedback channels to tell us about an issue in more detail than a thumbs up or thumbs down allows.&nbsp;</span></p>
+<h3 class="l-h3" style="text-align: left;"><span style="white-space: pre-wrap;">Getting started&nbsp;</span></h3>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Sign in to </span><a href="https://www.bing.com/webmasters" rel="noreferrer" class="l-link"><span style="white-space: pre-wrap;">Bing Webmaster Tools</span></a><span style="white-space: pre-wrap;">, open the AI Performance report for your site, and select the Topics tab. Choose a one-, two- or three-month window, start with the topics where your citations are already concentrated, then work down the opportunity queries. And when something looks wrong, tell us with a thumb – that is what the beta label is for.</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">Authors:</strong></b><span style="white-space: pre-wrap;"> Krishna Madhavan, Saral Nigam, Vivek Jain &#8211; Microsoft Bing</span></p>
+]]></content>
+    </item>
+    <item>
       <guid isPermaLink="false">34882631-f47b-4486-be92-7b62bbd4c5d7</guid>
       <link>https://blogs.bing.com/search/2026/6/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare/</link>
       <author>Bing Team</author>
@@ -651,77 +743,6 @@ NO PURCHASE NECESSARY. Ends 5/21/26 at 11:59:59 PM PT. Must be age of majority. 
 <p paraeid="{0323be8d-39b4-4b3e-91f5-0966b7e1a2a9}{10}" paraid="1219116243">There is much more coming in the months ahead. Stay tuned.&nbsp;</p>
 <p>Jordi Ribas<br />
 Corporate Vice President, Search &amp; AI</p>
-]]></content>
-    </item>
-    <item>
-      <guid isPermaLink="false">7f6e0ecf-f638-43ff-a954-7160f3eea3e6</guid>
-      <link>https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/</link>
-      <author>Bing Team</author>
-      <category>Webmaster</category>
-      <title>Introducing AI Performance in Bing Webmaster Tools Public Preview</title>
-      <description>Now in public preview, AI Performance in Bing Webmaster Tools shows when your site is cited in AI‑generated answers across Microsoft Copilot, AI‑generated summaries in Bing, and select partner integrations. See which URLs are referenced and how citation activity changes over time.</description>
-      
-      <content><![CDATA[<p>We are happy to introduce AI Performance in <a href="https://aka.ms/BWTAIpref">Bing Webmaster Tools</a>, a new set of insights that shows how publisher content appears across Microsoft Copilot, AI-generated summaries in Bing, and select partner integrations. For the first time, you can understand how often your content is cited in generative answers, with clear visibility into which URLs are referenced and how citation activity changes over time.</p>
-<p>&nbsp;</p>
-<h3><strong>Extending Search Insights to AI Answers</strong></h3>
-<p>Bing Webmaster Tools has long helped website owners understand indexing, crawl health, and search performance. AI Performance extends those insights to AI-generated answers by showing where and how content from your site is referenced as a source across AI experiences.</p>
-<p>As AI becomes a more common way people discover information, visibility is not only about blue links. It is also about whether your content is cited and referenced when AI systems generate answers. This release is an early step toward Generative Engine Optimization (GEO) tooling in Bing Webmaster Tools, helping publishers understand how their content participates in AI-driven experiences.</p>
-<p><img decoding="async" alt="AI-performance-dashboard.png" height="572px" src="https://blogs.bing.com/getattachment/292283cf-c4d3-45fd-9eb9-1d24ad5d67eb/AI-performance-dashboard.png" title="AI-performance-dashboard.png" width="799px" /><br />
-&nbsp;</p>
-<h3><strong>AI Performance Dashboard: Visibility Across AI Experiences </strong></h3>
-<p>The AI Performance dashboard provides a consolidated view of when your site is cited in AI answers.</p>
-<p><strong>What the dashboard measures</strong></p>
-<p><strong>Total Citations</strong></p>
-<p>Shows the total number of citations that are displayed as sources in AI-generated answers during the selected time frame. This highlights how often your content is referenced by AI systems, without indicating placement or presentation within a specific answer.</p>
-<p><strong>Average Cited Pages</strong></p>
-<p>Shows the average number of unique pages from your site that are displayed as sources in AI-generated answers per day over the selected time range. Because the data is aggregated across supported AI surfaces, average cited pages reflect overall citation patterns and does not indicate ranking, authority, or the role of any page within an individual answer.</p>
-<p><strong>Grounding queries</strong></p>
-<p>Shows the key phrases the AI used when retrieving content that was referenced in AI-generated answers. The data shown represents a sample of overall citation activity. We will continue to refine this metric as additional data is processed.</p>
-<p><strong>Page-level citation activity</strong></p>
-<p>Shows citation counts for specific URLs from your site, making it easy to see which individual pages are most often referenced across AI-generated answers during the selected date range. This reflects how often pages are cited, not page importance, ranking, or placement.</p>
-<p><strong>Visibility trends over time</strong></p>
-<p>The timeline shows how citation activity for your site changes over time across supported AI experiences, making it easier to spot trends at a glance.</p>
-<p><strong>Important Note</strong>: Bing respects all content owner preferences expressed through robots.txt and other supported control mechanisms.</p>
-<h3><strong>Using AI Performance Insights in Bing Webmaster Tools</strong></h3>
-<p>By reviewing cited pages and grounding query phrases, AI Performance insights help clarify your content visibility in AI-generated answers.</p>
-<p>These insights can help you:</p>
-<ul>
-<li>Validate which pages are already being used as references in AI answers.<br />
-	&nbsp;</li>
-<li>Identify content that appears frequently across AI answers.<br />
-	&nbsp;</li>
-<li>Spot opportunities to improve clarity, structure, or completeness on pages that are indexed but less frequently cited.</li>
-</ul>
-<h3><strong>Using These Insights to Improve Content</strong></h3>
-<p>Once you understand which pages and topics are being cited, you can use those signals to guide content improvements.</p>
-<ul>
-<li><strong>Strengthen depth and expertise</strong><br />
-	Pages cited for specific grounding query phrases often reflect clear subject focus and domain expertise. Deepening coverage in related areas can reinforce authority.<br />
-	&nbsp;</li>
-<li><strong>Improve structure and clarity</strong><br />
-	Clear headings, tables, and FAQ sections help surface key information and make content easier for AI systems to reference accurately.<br />
-	&nbsp;</li>
-<li><strong>Support claims with evidence</strong><br />
-	Examples, data, and cited sources help build trust when content is reused in AI-generated answers.<br />
-	&nbsp;</li>
-<li><strong>Keep content fresh and accurate</strong><br />
-	Regular updates help ensure AI systems reference the most current version of your content.<br />
-	&nbsp;</li>
-<li><strong>Reduce ambiguity across formats</strong><br />
-	Align text, images, and video so they consistently represent the same entities, products, or concepts.</li>
-</ul>
-<p>For deeper guidance on structuring content to improve inclusion in AI-generated answers, see <a href="https://about.ads.microsoft.com/en/blog/post/october-2025/optimizing-your-content-for-inclusion-in-ai-search-answers"><strong>Optimizing Your Content for Inclusion in AI Search Answers</strong></a>.</p>
-<h3><strong>Keeping Content Fresh with IndexNow</strong></h3>
-<p>Accurate and up to date content is important for inclusion and citation in AI-generated answers. <a href="https://aka.ms/indexnowAIpref">IndexNow</a> helps keep information fresh across search and AI experiences by notifying participating search engines whenever content is added, updated, or removed.</p>
-<p>By enabling faster discovery of content changes, IndexNow helps ensure that AI systems reference the most current version of a page when generating answers. If you&rsquo;re not already using IndexNow, go to<strong> </strong><a href="https://www.indexnow.org/"><strong>https://www.indexnow.org</strong></a> to get started.</p>
-<h3><strong>Local Business Information and AI Visibility</strong></h3>
-<p>For local businesses, accurate business information is especially important when AI experiences surface answers to location-based queries.</p>
-<p>In addition to using <a href="https://aka.ms/BWTAIpref">Bing Webmaster Tools</a>, businesses can register with <a href="https://aka.ms/bingplacesAIpref">Bing Places for Business</a> to help ensure that key details such as address, hours, and contact information remain current and eligible for inclusion in AI-generated responses.</p>
-<h3><strong>Evolving AI Performance with the Webmaster Community</strong></h3>
-<p>AI Performance in Bing Webmaster Tools marks an important step toward greater transparency between AI systems and the open web. As we expand these insights, we&rsquo;ll continue working with publishers and the webmaster community to improve inclusion, attribution, and visibility across both search results and AI experiences.</p>
-<p>We look forward to partnering with you as we evolve these capabilities and continue building tools that support discovery in the next generation of search and AI experiences.</p>
-<p>Krishna Madhavan, Meenaz Merchant, Fabrice Canel, Saral Nigam<br />
-Product Managers, Microsoft AI <img loading="lazy" decoding="async" height="1" src="https://aka.ms/blogAIPerformanceBWT" width="1" /></p>
 ]]></content>
     </item>
   </channel>
