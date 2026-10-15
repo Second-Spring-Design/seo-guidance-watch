@@ -705,6 +705,7 @@ DocsOverview
   * [ Browser ](/codex/browser)
   * [ Computer use ](/codex/computer-use)
   * [ Voice ](/codex/features/voice)
+  * [ Composer Predictions ](/codex/features/composer-predictions)
   * [ Plugins ](/codex/plugins)
   * [ Sign in with ChatGPT ](/codex/sign-in-with-chatgpt)
   * [ Web search ](/codex/web-search)
@@ -1072,11 +1073,11 @@ DocsSelect...
 
 ###  Recent 
 
+  * [ Maintaining software with the GPT-6 family ](/blog/maintaining-software-with-the-gpt-6-family)
   * [ Bringing my LED display to life with GPT-Live-1 and Codex ](/blog/bringing-my-led-display-to-life)
   * [ Rethinking skills and prompts for GPT-6 Astra ](/blog/rethinking-skills-and-prompts-for-gpt-6-astra)
   * [ Architectural visualization with Astra ](/blog/architectural-visualization-with-astra)
   * [ Building games with Astra ](/blog/how-to-build-games-with-astra)
-  * [ Meet Rosalind Workbench: Empowering every scientist to be their own research team ](/blog/rosalind-workbench)
 
 
 
