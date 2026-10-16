@@ -428,6 +428,7 @@ DocsOverview
     * [ Oracle Cloud Infrastructure ](/api/docs/guides/workload-identity-federation/oracle-cloud)
     * [ GitHub Actions ](/api/docs/guides/workload-identity-federation/github-actions)
     * [ SPIFFE ](/api/docs/guides/workload-identity-federation/spiffe)
+    * [ Idira ](/api/docs/guides/workload-identity-federation/idira)
   * [ IP egress ranges ](/api/docs/guides/ip-addresses)
   * [ Amazon Bedrock ](/api/docs/guides/amazon-bedrock)
 
@@ -689,7 +690,6 @@ DocsOverview
 ###  Workflows 
 
   * [ Projects and chats ](/codex/projects)
-  * [ Sites ](/codex/sites)
   * [ Build plugins ](/codex/build-plugins)
   * [ Visualizations ](/codex/visualizations)
   * [ Scheduled tasks ](/codex/automations)
@@ -714,6 +714,16 @@ DocsOverview
   * [ Appshots ](/codex/appshots)
   * [ Browser extension ](/codex/chrome-extension)
   * [ Work with files ](/codex/artifacts-viewer)
+
+
+
+###  Sites 
+
+  * [ Overview ](/codex/sites)
+  * [ Create a site ](/codex/sites/creating-a-site)
+  * [ Data and connections ](/codex/sites/data-and-connections)
+  * [ Publish and share ](/codex/sites/publishing-and-sharing)
+  * [ Manage a site ](/codex/sites/managing-a-site)
 
 
 
@@ -875,6 +885,11 @@ DocsOverview
 ###  Codex Security 
 
   * [ Overview ](/codex/security)
+  * Codex Security Cloud
+    * [ Setup ](/codex/security/setup)
+    * [ Security Review ](/codex/security/security-review)
+    * [ Improving the threat model ](/codex/security/threat-model)
+    * [ FAQ ](/codex/security/faq)
   * Codex Security plugin
     * [ Quickstart ](/codex/security/plugin)
     * [ Run a security scan ](/codex/security/plugin/scans)
@@ -894,12 +909,7 @@ DocsOverview
     * [ GitLab CI/CD ](/codex/security/cli/ci/gitlab)
     * [ Reference ](/codex/security/cli/reference)
     * [ FAQ ](/codex/security/cli/faq)
-  * [ TypeScript SDK ](/codex/security/sdk)
-  * Codex Security Cloud
-    * [ Setup ](/codex/security/setup)
-    * [ Security Review ](/codex/security/security-review)
-    * [ Improving the threat model ](/codex/security/threat-model)
-    * [ FAQ ](/codex/security/faq)
+  * [ Codex Security SDK ](/codex/security/sdk)
 
 
 
@@ -921,14 +931,15 @@ DocsOverview
 
 
 
-  * Feature setup
-    * [ Dots ](/codex/dots/controls#for-workspace-admins)
-    * [ Space ](/codex/space/collaboration#for-workspace-admins)
-    * [ Teams and Team Tasks ](/codex/enterprise/teams#for-workspace-admins)
-    * [ ChatGPT in Slack and Teams ](/codex/enterprise/chatgpt-slack-and-teams)
-    * [ Workspace connections ](/codex/enterprise/shared-connections)
-    * [ Local computer access for Work Cloud and dots ](/codex/enterprise/cloud-local-access)
-    * [ Sites ](/codex/enterprise/sites)
+###  Feature Configuration 
+
+  * [ Dots ](/codex/dots/controls#for-workspace-admins)
+  * [ Space ](/codex/space/collaboration#for-workspace-admins)
+  * [ Sites ](/codex/enterprise/sites)
+  * [ Teams and Team Tasks ](/codex/enterprise/teams#for-workspace-admins)
+  * [ ChatGPT in Slack and Teams ](/codex/enterprise/chatgpt-slack-and-teams)
+  * [ Workspace connections ](/codex/enterprise/shared-connections)
+  * [ Local computer access for Work Cloud and dots ](/codex/enterprise/cloud-local-access)
 
 
 
@@ -1065,7 +1076,7 @@ DocsOverview
 
 [ Showcase ](/showcase) Blog  Cookbook  Learn  Community 
 
-DocsSelect...
+DocsShowcase
 
   * [ All posts ](/blog)
 
