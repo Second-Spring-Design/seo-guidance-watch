@@ -6,6 +6,57 @@
     <description>This is a place devoted to giving you deeper insight into the news, trends, people and technology behind Bing.</description>
     <language>en-US</language>
     <item>
+      <guid isPermaLink="false">https://bingblog-afddbkf9dsbrbub3.westus2-01.azurewebsites.net/?p=3489</guid>
+      <link>https://blogs.bing.com/rewards/2026/10/real-people-real-winners-your-chance-could-be-next/</link>
+      <author>Bing Team</author>
+      <category>Microsoft Rewards</category>
+      <title>Real people. Real winners. Your chance could be next.</title>
+      <description>&lt;p class=&quot;l-p&quot;&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;From $1 million USD prizes to a customized Mercedes-Benz, Microsoft Rewards members are having unforgettable winning moments. Your story could be next.&lt;/span&gt;&lt;/p&gt;</description>
+      
+      <content><![CDATA[<p class="l-p" style="text-align: left;"><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/10/4279eeb5-deef-473e-80e7-a013e7e790af-bb-camille.png" alt="" style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">What does a million-dollar surprise look like? For Camille in France, it looked like pure disbelief.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&#8220;Winning this $1,000,000 prize is an absolute shock and brings me an overwhelming sense of joy,&#8221; she says.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">She&#8217;s one of the many </span><a href="https://rewards.bing.com/about?msockid=17a5f2b0bbc9654d0f43e542ba456464" rel="noreferrer" class="l-link"><span style="white-space: pre-wrap;">Microsoft Rewards</span></a><span style="white-space: pre-wrap;"> members who entered the $2,000,000 USD Total Prize Drop and walked away with an unforgettable prize. And her story isn&#8217;t unique.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Nate from Aberdeen never expected his entry to turn into a $1,000,000 win either. &#8220;Who thinks they will win $1,000,000? I didn&#8217;t, but here I am,&#8221; he says. &#8220;And it could happen to you.&#8221;&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">For Patricia in Texas, the experience still feels surreal. &#8220;Microsoft Rewards is real,&#8221; she says. &#8220;I like using Bing for my searches, which led me to sign up for Microsoft Rewards. I entered the drawing and won. I still can&#8217;t believe it, but it&#8217;s true.&#8221; Her prize? A customized Mercedes-Benz.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/10/36bebe65-fdb6-43b0-a41e-412f49af9bf8-patricia.png" alt="" style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Bruce from Utah also drove away a winner. &#8220;Something as simple as using Bing as my search engine led to such a life-changing prize,&#8221; he says.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">That&#8217;s what all of these stories have in common. They&#8217;re not professional sweepstakes players or prize-hunting experts. They&#8217;re everyday Microsoft Rewards members who entered for a chance to win. And they did.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">The opportunity starts with everyday habits&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">One thing we hear from members is how easy it is to participate. With Microsoft Rewards, you can earn points through activities you&#8217;re already doing, like searching, browsing, and engaging with Microsoft products and experiences. Those points can be redeemed for rewards, used to enter promotions, and unlock even more opportunities along the way.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">That&#8217;s why every winner story is so exciting. A life-changing moment can start with something as simple as a search.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">Someone always wins&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Every promotion ends with real winners. Real people get the call. Real people see their names announced. Real people collect prizes. The only question is who will be next&#8230;could it be you?&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">Next chance to win coming soon&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">The next big opportunity is just around the corner.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Start earning points, and keep an eye out for what&#8217;s coming next by joining today. The next winner story we share could be yours.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><a href="https://rewards.bing.com/about" rel="noreferrer" class="l-link"><span style="white-space: pre-wrap;">Join Microsoft Rewards</span></a></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">FAQs&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">Are Microsoft Rewards winners real?&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Yes. Microsoft Rewards promotions award prizes to real members who enter eligible promotions. Winners like Camille, Nate, Patricia, and Bruce have received prizes ranging from $1,000,000 to customized luxury vehicles.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">How do I enter Microsoft Rewards sweeps or giveaways or promotions?&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Join Microsoft Rewards and look for eligible promotions and sweepstakes.&nbsp;&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">How do I earn Microsoft Rewards points?&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Microsoft Rewards members can earn points through eligible activities, including searching with Bing and engaging with Microsoft products and experiences.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">What can I do with my Microsoft Rewards points?&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Points can be redeemed for rewards and may also be used to enter eligible promotions, like the upcoming Total Prize Drop.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">What kinds of prizes can I win?&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Prizes vary. Past winners have received prizes including $1,000,000 and customized luxury vehicles.&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">&nbsp;</span></p>
+<p class="l-p" style="text-align: left;"><b><strong class="l-bold" style="white-space: pre-wrap;">Do I have to be a Microsoft Rewards member to participate?&nbsp;</strong></b></p>
+<p class="l-p" style="text-align: left;"><span style="white-space: pre-wrap;">Eligibility requirements can vary by promotion. Joining Microsoft Rewards gives you access to ways to earn points and discover eligible promotions.&nbsp;</span></p>
+]]></content>
+    </item>
+    <item>
       <guid isPermaLink="false">https://bingblog-afddbkf9dsbrbub3.westus2-01.azurewebsites.net/?p=3475</guid>
       <link>https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/</link>
       <author>Bing Team</author>
@@ -718,31 +769,6 @@ With Microsoft Rewards, it&rsquo;s easy to earn points for doing things you alre
 NO PURCHASE NECESSARY. Instant Win and Sweepstakes: Ends 5/21/26 at 11:59:59 PM PT. Must be age of majority to enter. For Official Rules, including odds, and prize descriptions, see Instant Win rules: <u>https://aka.ms/win-IW-Rules</u> and Sweepstakes rules: <u>https://aka.ms/win-Sweeps-Rule</u><u>s</u>. Sweepstakes open only to legal residents of the 50 United States, D.C. &amp; P.R., Canada, the United Kingdom, France, Germany, Ireland, Austria, Greece, Finland, Luxembourg, Spain, Switzerland, Norway, Mexico, Peru, Ecuador, Costa Rica, Guatemala, New Zealand, Japan, the Czech Republic, Romania and South Africa. Sweepstakes Grand Prize: one (1) prize of $1,000,000 USD in cash (equivalent to approximately $1,380,000 CAD / &pound;740,000 GBP / &euro;860,000 EUR / Fr. 800,000 CHF / kr 10,100,000 NOK / $18,000,000 MXN / S/ 3,400,000 PEN / ₡498 000 000 CRC / Q7,000,000 GTQ / $1,730,000 NZD / &yen;157,000,000 JPY / Kč 20,800,000 CZK / lei 4,350,000 RON / R 16,500,000 ZAR). Grand Prize will be awarded in USD dollars. Free Entries into the Grand Prize Draw with Microsoft Rewards Account: print full name, address, phone number (with area code), date of birth, and email address on a 3 x 5-inch card and mail it to &ldquo;Microsoft Rewards Prize Drop Sweepstakes, Free to Enter&rdquo; at the address corresponding to your country of residence in the <u>Sweepstakes Official Rules</u>. Requests must be postmarked by 5/21/26 and received by 5/29/26. Additional Sweepstakes entry opportunities will be available, see <u>terms here</u>. These additional entry methods are subject to the <u>Sweepstakes Official Rules</u> for the Sweepstakes including (but not limited to) any and all&nbsp;eligibility and registration requirements, as well as any limitation on the total number of entries which may be earned across all entry methods. Connect time charges may apply. Canadian and Mexican residents: Skill-testing question applies. Void where prohibited.</p>
 <p><strong>Instant Win only</strong>: Netherlands, China, Hong Kong, Singapore, South Korea<br />
 NO PURCHASE NECESSARY. Ends 5/21/26 at 11:59:59 PM PT. Must be age of majority. Open to U.S. + D.C./P.R., CA, UK, FR, DE, NL, IE, AT, GR, FI, LU, ES, CH, NO, MX, PE, EC, CR, GT, NZ, JP, SG, KR, CN, HK, CZ, RO, and ZA. To enter and for Official Rules, including odds, and prize descriptions, see Rules: <u>https://aka.ms/win-IW-Rules</u>. Connect time charges may apply. Canadian and Mexican residents: Skill-testing question applies. Void where prohibited.</small></sub></p>
-]]></content>
-    </item>
-    <item>
-      <guid isPermaLink="false">a05192aa-12f7-4ee2-9d1e-75f5fe7eb4f4</guid>
-      <link>https://blogs.bing.com/search/2026/2/Elevating-the-Role-of-Grounding-on-the-AI-Web/</link>
-      <author>Bing Team</author>
-      <category>Search</category>
-      <title>Elevating the Role of Grounding on the AI Web</title>
-      <description>&lt;p paraeid=&quot;{2880e427-dd00-401c-b789-0d7cbae95434}{103}&quot; paraid=&quot;1956296376&quot;&gt;At Microsoft,&amp;nbsp;we&amp;rsquo;ve&amp;nbsp;been steadily advancing grounding technology for a while, building&amp;nbsp;on&amp;nbsp;decades of operating large‑scale search and information systems through Bing and focusing on scale, reliability, and trust. And today, Microsoft grounding&amp;nbsp;powers&amp;nbsp;nearly every&amp;nbsp;major AI assistant in the market.&amp;nbsp;While much of&amp;nbsp;our&amp;nbsp;work happens behind the scenes, it plays an essential&amp;nbsp;and profound&amp;nbsp;role in today&amp;rsquo;s AI ecosystem, providing users&amp;nbsp;with&amp;nbsp;answers that are fluent, factually correct,&amp;nbsp;and&amp;nbsp;genuinely helpful.&amp;nbsp;&lt;/p&gt;
-</description>
-      
-      <content><![CDATA[<p paraeid="{2880e427-dd00-401c-b789-0d7cbae95434}{69}" paraid="1809623836">Grounding is the system that connects AI to&nbsp;current,&nbsp;authoritative information &mdash; helping ensure answers are informed by the world beyond the model&rsquo;s&nbsp;training. As AI assistants increasingly become how people interact with information, grounding is moving onto&nbsp;the critical path between human questions and digital knowledge.&nbsp;It&rsquo;s a layer that&rsquo;s often invisible, but&nbsp;absolutely&nbsp;essential&nbsp;in today&rsquo;s state-of-the-art AI.&nbsp;</p>
-<p paraeid="{2880e427-dd00-401c-b789-0d7cbae95434}{103}" paraid="1956296376">At Microsoft,&nbsp;we&rsquo;ve&nbsp;been steadily advancing grounding technology for a while,&nbsp;building&nbsp;on&nbsp;decades of operating large‑scale search and information systems through Bing and focusing on scale, reliability, and trust.&nbsp;</p>
-<p paraeid="{25cdd368-706b-4c6b-aeaa-ce3a3aaff9b1}{122}" paraid="1158285367"><em><strong>And&nbsp;today,&nbsp;Microsoft grounding&nbsp;powers nearly every&nbsp;major AI assistant in the market.&nbsp;</strong></em></p>
-<p paraeid="{2880e427-dd00-401c-b789-0d7cbae95434}{185}" paraid="987243569">While much of&nbsp;our&nbsp;work happens behind the scenes, it plays an essential&nbsp;and profound&nbsp;role in today&rsquo;s AI ecosystem, providing users&nbsp;with&nbsp;answers that are fluent, factually correct,&nbsp;and&nbsp;genuinely helpful.&nbsp;</p>
-<div aria-level="2" paraeid="{2880e427-dd00-401c-b789-0d7cbae95434}{191}" paraid="1266660383" role="heading"><strong>The&nbsp;Web&nbsp;Enters a New&nbsp;Era&nbsp;</strong></div>
-<p aria-level="2" paraeid="{2880e427-dd00-401c-b789-0d7cbae95434}{191}" paraid="1266660383" role="heading">Since&nbsp;the early days of the Internet, users have been browsing with typical patterns:&nbsp;typing queries, clicking on results, and selecting&nbsp;content&nbsp;that best shapes their needs. However, as AI assistants do more of the work, it&rsquo;s the agents doing the browsing &ndash; and with&nbsp;far more&nbsp;precision&nbsp;&ndash; acting more&nbsp;as retrievers, drawn to structured, verifiable, and applicable content.&nbsp;This changes the needs of the web&rsquo;s infrastructure, and therefore the infrastructure it&rsquo;s&nbsp;built on. Enter grounding.</p>
-<p paraeid="{2880e427-dd00-401c-b789-0d7cbae95434}{225}" paraid="931749279">This is driving the emergence of Generative Engine Optimization (GEO):&nbsp;the practice of understanding how content participates&nbsp;in AI-driven experiences.&nbsp;In an AI‑first world, visibility is no longer defined only by rankings or clicks. It&rsquo;s about how content contributes to answers, citations, reasoning, and&nbsp;ultimately,&nbsp;outcomes.&nbsp;</p>
-<p paraeid="{2880e427-dd00-401c-b789-0d7cbae95434}{231}" paraid="741224529">To help content owners navigate this shift, we are&nbsp;<a href="https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview" target="_blank">introducing new visibility through updates to Bing Webmaster Tools</a>.&nbsp;These capabilities&nbsp;provide&nbsp;early insight into how content contributes to AI-generated experiences, including citation and grounding signals.&nbsp;Think of this as a first window into a broader GEO toolset, one that will continue to evolve as AI becomes a more central interface to information. &nbsp;</p>
-<div aria-level="2" paraeid="{7b3dad12-2a43-4138-b5c4-5a24f8056bda}{219}" paraid="1504533305" role="heading"><strong>Why&nbsp;This&nbsp;Matters Now&nbsp;</strong></div>
-<p aria-level="2" paraeid="{7b3dad12-2a43-4138-b5c4-5a24f8056bda}{219}" paraid="1504533305" role="heading">This moment matters because it sets the context. Grounding is becoming a foundational layer of the AI ecosystem&nbsp;&ndash; the connective tissue between generative models and the world&rsquo;s information.  As that layer becomes more important, transparency and collaboration with the web community matter more, not less. </p>
-<p>Our goal is to keep strengthening this infrastructure while giving publishers clearer insight into how their content participates in AI-driven experiences, and how they can benefit from it.&nbsp;&nbsp;</p>
-<p paraeid="{0323be8d-39b4-4b3e-91f5-0966b7e1a2a9}{10}" paraid="1219116243">There is much more coming in the months ahead. Stay tuned.&nbsp;</p>
-<p>Jordi Ribas<br />
-Corporate Vice President, Search &amp; AI</p>
 ]]></content>
     </item>
   </channel>

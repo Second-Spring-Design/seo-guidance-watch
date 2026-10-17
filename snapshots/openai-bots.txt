@@ -286,6 +286,8 @@ DocsOverview
 
   * [ Shell ](/api/docs/guides/tools-shell)
   * [ Computer use ](/api/docs/guides/tools-computer-use)
+    * [ Integration recipes ](/api/docs/guides/tools-computer-use-integration)
+    * [ Driver reference ](/api/docs/guides/tools-computer-use-sdk-drivers)
   * [ Apply Patch ](/api/docs/guides/tools-apply-patch)
   * [ Local shell ](/api/docs/guides/tools-local-shell)
   * [ Code interpreter ](/api/docs/guides/tools-code-interpreter)
@@ -957,9 +959,10 @@ DocsOverview
 
 ###  Deployment and configuration 
 
-  * [ Windows app deployment ](/codex/enterprise/windows-deployment)
+  * [ Windows app and CLI deployment ](/codex/enterprise/windows-deployment)
   * [ Manage app updates ](/codex/enterprise/manage-app-updates)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
+  * [ Codex security cookbook ](/codex/enterprise/security-cookbook)
   * [ Remote connections ](/codex/remote-connections)
   * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
   * [ Amazon Bedrock ](/codex/amazon-bedrock)
@@ -1084,11 +1087,11 @@ DocsShowcase
 
 ###  Recent 
 
+  * [ Designing failover across OpenAI model providers ](/blog/designing-failover-across-openai-model-providers)
   * [ Maintaining software with the GPT-6 family ](/blog/maintaining-software-with-the-gpt-6-family)
   * [ Bringing my LED display to life with GPT-Live-1 and Codex ](/blog/bringing-my-led-display-to-life)
   * [ Rethinking skills and prompts for GPT-6 Astra ](/blog/rethinking-skills-and-prompts-for-gpt-6-astra)
   * [ Architectural visualization with Astra ](/blog/architectural-visualization-with-astra)
-  * [ Building games with Astra ](/blog/how-to-build-games-with-astra)
 
 
 
