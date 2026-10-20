@@ -907,8 +907,10 @@ DocsOverview
   * Codex Security CLI
     * [ Quickstart ](/codex/security/cli)
     * [ Run bulk scans ](/codex/security/cli/bulk-scans)
-    * [ Run scans in CI ](/codex/security/cli/ci)
-    * [ GitLab CI/CD ](/codex/security/cli/ci/gitlab)
+    * CI/CD
+      * [ Overview ](/codex/security/cli/ci)
+      * [ GitHub Actions ](/codex/security/cli/ci/github)
+      * [ GitLab CI/CD ](/codex/security/cli/ci/gitlab)
     * [ Reference ](/codex/security/cli/reference)
     * [ FAQ ](/codex/security/cli/faq)
   * [ Codex Security SDK ](/codex/security/sdk)
