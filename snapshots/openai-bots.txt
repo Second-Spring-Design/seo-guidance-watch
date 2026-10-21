@@ -937,7 +937,7 @@ DocsOverview
 
 ###  Feature Configuration 
 
-  * [ Dots ](/codex/dots/controls#for-workspace-admins)
+  * [ Dots ](/codex/enterprise/dots-admin-guide)
   * [ Space ](/codex/space/collaboration#for-workspace-admins)
   * [ Sites ](/codex/enterprise/sites)
   * [ Teams and Team Tasks ](/codex/enterprise/teams#for-workspace-admins)
