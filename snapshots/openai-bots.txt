@@ -978,6 +978,13 @@ DocsOverview
 
 
 
+###  ChatGPT EDU 
+
+  * [ Education plans ](/codex/enterprise/education-plans)
+  * [ Higher education setup ](/codex/enterprise/higher-education-roles-and-permissions)
+
+
+
 ###  ChatGPT Work 
 
   * [ Overview ](/codex/enterprise/chatgpt-work-overview)
