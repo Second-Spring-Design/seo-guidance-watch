@@ -203,6 +203,7 @@ DocsOverview
     * [ Run and continue sessions ](/api/docs/guides/agents-api/sessions)
     * [ Events and items ](/api/docs/guides/agents-api/sessions/events)
     * [ Manage sessions ](/api/docs/guides/agents-api/sessions/manage)
+    * [ Scheduled automations ](/api/docs/guides/agents-api/sessions/automations)
     * [ Webhooks ](/api/docs/guides/agents-api/sessions/webhooks)
   * Environments and sandboxes
     * [ OpenAI-hosted sandboxes ](/api/docs/guides/agents-api/environments/openai-hosted)
@@ -849,6 +850,7 @@ DocsOverview
 
   * [ Codex SDK ](/codex/codex-sdk)
   * [ App Server ](/codex/app-server)
+  * [ Model catalogs ](/codex/model-catalogs)
   * [ GitHub Action ](/codex/github-action)
   * [ Non-interactive mode ](/codex/non-interactive-mode)
 
@@ -1274,7 +1276,7 @@ DocsShowcase
 
 Copy Page
 
-# Overview of OpenAI Crawlers
+#  Overview of OpenAI Crawlers 
 
 Copy Page
 
