@@ -63,6 +63,7 @@ DocsOverview
   * [ Quickstart ](/api/docs/quickstart)
   * [ Using GPT-6 ](/api/docs/guides/latest-model)
   * [ Key concepts ](/api/docs/concepts)
+  * [ API credits for ChatGPT subscribers ](/api/docs/guides/chatgpt-api-credits)
 
 
 
@@ -1207,6 +1208,7 @@ DocsShowcase
   * [ Quickstart  ](/api/docs/quickstart)
   * [ Using GPT-6  ](/api/docs/guides/latest-model)
   * [ Key concepts  ](/api/docs/concepts)
+  * [ API credits for ChatGPT subscribers  ](/api/docs/guides/chatgpt-api-credits)
 
 
 
