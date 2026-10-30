@@ -1006,7 +1006,7 @@ DocsOverview
 ###  Plugins and connections 
 
   * [ Plugin controls ](/codex/enterprise/apps-and-connectors)
-  * [ Plugin management ](/codex/enterprise/plugin-management)
+  * [ Import and sync plugins from GitHub ](/codex/enterprise/plugin-management)
   * [ Skill controls ](/codex/enterprise/skills)
   * [ Migrate custom GPTs to plugins ](/codex/migrate-custom-gpts)
 
