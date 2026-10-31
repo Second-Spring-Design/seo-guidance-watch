@@ -968,6 +968,7 @@ DocsOverview
   * [ Windows app and CLI deployment ](/codex/enterprise/windows-deployment)
   * [ Manage app updates ](/codex/enterprise/manage-app-updates)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
+    * [ Self-host configuration ](/codex/enterprise/configuration-server)
   * [ Codex security cookbook ](/codex/enterprise/security-cookbook)
   * [ Remote connections ](/codex/remote-connections)
   * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
