@@ -205,6 +205,7 @@ DocsOverview
     * [ Events and items ](/api/docs/guides/agents-api/sessions/events)
     * [ Manage sessions ](/api/docs/guides/agents-api/sessions/manage)
     * [ Scheduled automations ](/api/docs/guides/agents-api/sessions/automations)
+    * [ Automatic review ](/api/docs/guides/agents-api/sessions/approvals)
     * [ Webhooks ](/api/docs/guides/agents-api/sessions/webhooks)
   * Environments and sandboxes
     * [ OpenAI-hosted sandboxes ](/api/docs/guides/agents-api/environments/openai-hosted)
@@ -966,6 +967,7 @@ DocsOverview
 ###  Deployment and configuration 
 
   * [ Windows app and CLI deployment ](/codex/enterprise/windows-deployment)
+  * [ NFS home directories ](/codex/environments/network-file-systems)
   * [ Manage app updates ](/codex/enterprise/manage-app-updates)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
     * [ Self-host configuration ](/codex/enterprise/configuration-server)
