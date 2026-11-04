@@ -8,6 +8,8 @@ Start searching
 
 [Try ChatGPT](https://chatgpt.com/)
 
+Theme Light  Dark  System 
+
 [ Home ](/)
 
 [ API  ](/api/docs)
@@ -43,6 +45,8 @@ responses createreasoning_effortrealtimeprompt caching
 Primary navigation 
 
 API  ChatGPT  Docs  Use cases  Training  Resources  Resources 
+
+Theme Light  Dark  System 
 
 Search docs
 
@@ -292,7 +296,6 @@ DocsOverview
     * [ Integration recipes ](/api/docs/guides/tools-computer-use-integration)
     * [ Driver reference ](/api/docs/guides/tools-computer-use-sdk-drivers)
   * [ Apply Patch ](/api/docs/guides/tools-apply-patch)
-  * [ Local shell ](/api/docs/guides/tools-local-shell)
   * [ Code interpreter ](/api/docs/guides/tools-code-interpreter)
 
 
@@ -360,6 +363,7 @@ DocsOverview
 ###  Go live 
 
   * [ Production best practices ](/api/docs/guides/production-best-practices)
+  * [ API keys and service accounts ](/api/docs/guides/api-keys)
   * [ Deployment checklist ](/api/docs/guides/deployment-checklist)
 
 
