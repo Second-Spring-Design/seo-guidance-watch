@@ -188,7 +188,6 @@ DocsOverview
 
 ###  Specialized models 
 
-  * [ Deep research ](/api/docs/guides/deep-research)
   * [ Embeddings ](/api/docs/guides/embeddings)
   * [ Moderation ](/api/docs/guides/moderation)
 
@@ -658,6 +657,7 @@ DocsOverview
 ###  Foundations 
 
   * [ Prompting ](/codex/prompting)
+  * [ Working with agents ](/codex/working-with-agents)
   * [ Model selection ](/codex/model-selection)
   * [ Personalize ChatGPT ](/codex/personalize)
   * [ Skills & Plugins ](/codex/skills-and-plugins)
@@ -1031,6 +1031,7 @@ DocsOverview
 
   * [ Governance ](/codex/enterprise/governance)
   * [ Agent security ](/codex/enterprise/agent-security)
+  * [ Safety and security in dots ](/codex/enterprise/dots-security)
   * [ Prisma AIRS ](/codex/enterprise/prisma-airs)
   * [ HIPAA configuration ](/codex/hipaa-configuration)
   * [ Compliance API and audit events ](/codex/enterprise/compliance-api)
