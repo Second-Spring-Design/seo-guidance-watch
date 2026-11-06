@@ -857,7 +857,6 @@ DocsOverview
 
   * [ Codex SDK ](/codex/codex-sdk)
   * [ App Server ](/codex/app-server)
-  * [ Model catalogs ](/codex/model-catalogs)
   * [ GitHub Action ](/codex/github-action)
   * [ Non-interactive mode ](/codex/non-interactive-mode)
 
@@ -968,7 +967,7 @@ DocsOverview
 
 
 
-###  Deployment and configuration 
+###  Configuration 
 
   * [ Windows app and CLI deployment ](/codex/enterprise/windows-deployment)
   * [ NFS home directories ](/codex/environments/network-file-systems)
@@ -978,12 +977,15 @@ DocsOverview
   * [ Codex security cookbook ](/codex/enterprise/security-cookbook)
   * [ Remote connections ](/codex/remote-connections)
   * [ Workspace model availability ](/codex/enterprise/workspace-model-availability)
+
+
+
+###  Advanced deployment 
+
   * [ Amazon Bedrock ](/codex/amazon-bedrock)
-  * [ Bedrock GovCloud configuration ](/codex/enterprise/govcloud-configuration)
+  * [ GovCloud deployment ](/codex/enterprise/govcloud-configuration)
   * [ Connect to a gateway ](/codex/enterprise/connect-to-a-gateway)
   * [ Roll out a gateway ](/codex/enterprise/roll-out-a-gateway)
-  * [ Gateway compatibility ](/codex/enterprise/gateway-compatibility)
-  * [ Bedrock through LiteLLM ](/codex/enterprise/bedrock-through-litellm)
 
 
 
