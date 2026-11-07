@@ -95,6 +95,13 @@ DocsOverview
 
 
 
+###  Cloud providers 
+
+  * [ Amazon Bedrock ](/api/docs/guides/amazon-bedrock)
+  * [ Google Cloud ](/api/docs/guides/google-cloud)
+
+
+
 ###  Resources 
 
   * [ Changelog ](/api/docs/changelog)
@@ -123,8 +130,6 @@ DocsOverview
     * [ Supervised fine-tuning ](/api/docs/guides/supervised-fine-tuning)
     * [ Vision fine-tuning ](/api/docs/guides/vision-fine-tuning)
     * [ Direct preference optimization ](/api/docs/guides/direct-preference-optimization)
-    * [ Reinforcement fine-tuning ](/api/docs/guides/reinforcement-fine-tuning)
-    * [ RFT use cases ](/api/docs/guides/rft-use-cases)
     * [ Best practices ](/api/docs/guides/fine-tuning-best-practices)
   * Assistants API
     * [ Migration guide ](/api/docs/assistants/migration)
@@ -438,7 +443,6 @@ DocsOverview
     * [ SPIFFE ](/api/docs/guides/workload-identity-federation/spiffe)
     * [ Idira ](/api/docs/guides/workload-identity-federation/idira)
   * [ IP egress ranges ](/api/docs/guides/ip-addresses)
-  * [ Amazon Bedrock ](/api/docs/guides/amazon-bedrock)
 
 
 
@@ -1246,6 +1250,13 @@ DocsShowcase
 
 
 
+### Cloud providers
+
+  * [ Amazon Bedrock  ](/api/docs/guides/amazon-bedrock)
+  * [ Google Cloud  ](/api/docs/guides/google-cloud)
+
+
+
 ### Resources
 
   * [ Changelog  ](/api/docs/changelog)
@@ -1274,8 +1285,6 @@ DocsShowcase
     * [ Supervised fine-tuning  ](/api/docs/guides/supervised-fine-tuning)
     * [ Vision fine-tuning  ](/api/docs/guides/vision-fine-tuning)
     * [ Direct preference optimization  ](/api/docs/guides/direct-preference-optimization)
-    * [ Reinforcement fine-tuning  ](/api/docs/guides/reinforcement-fine-tuning)
-    * [ RFT use cases  ](/api/docs/guides/rft-use-cases)
     * [ Best practices  ](/api/docs/guides/fine-tuning-best-practices)
   * Assistants API
     * [ Migration guide  ](/api/docs/assistants/migration)
