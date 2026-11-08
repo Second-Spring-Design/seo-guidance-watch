@@ -169,6 +169,7 @@ DocsOverview
 ###  Reasoning 
 
   * [ Reasoning models ](/api/docs/guides/reasoning)
+  * [ Preserved reasoning ](/api/docs/guides/preserved-reasoning)
   * [ Reasoning best practices ](/api/docs/guides/reasoning-best-practices)
 
 
