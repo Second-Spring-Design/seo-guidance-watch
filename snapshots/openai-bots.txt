@@ -169,7 +169,6 @@ DocsOverview
 ###  Reasoning 
 
   * [ Reasoning models ](/api/docs/guides/reasoning)
-  * [ Preserved reasoning ](/api/docs/guides/preserved-reasoning)
   * [ Reasoning best practices ](/api/docs/guides/reasoning-best-practices)
 
 
@@ -375,6 +374,7 @@ DocsOverview
 
 ###  Performance and quality 
 
+  * [ Keep the prefix unchanged ](/api/docs/guides/preserved-reasoning)
   * [ Fast mode ](/api/docs/guides/fast-mode)
   * [ Ultrafast mode ](/api/docs/guides/ultrafast-mode)
   * [ Latency optimization ](/api/docs/guides/latency-optimization)
@@ -1113,11 +1113,11 @@ DocsShowcase
 
 ###  Recent 
 
+  * [ Build a retro handheld game with Codex and ModRetro Chromatic ](/blog/build-a-game-with-modretro-chromatic)
   * [ Designing failover across OpenAI model providers ](/blog/designing-failover-across-openai-model-providers)
   * [ Maintaining software with the GPT-6 family ](/blog/maintaining-software-with-the-gpt-6-family)
   * [ Bringing my LED display to life with GPT-Live-1 and Codex ](/blog/bringing-my-led-display-to-life)
   * [ Rethinking skills and prompts for GPT-6 Astra ](/blog/rethinking-skills-and-prompts-for-gpt-6-astra)
-  * [ Architectural visualization with Astra ](/blog/architectural-visualization-with-astra)
 
 
 
