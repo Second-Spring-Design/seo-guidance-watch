@@ -1113,11 +1113,11 @@ DocsShowcase
 
 ###  Recent 
 
-  * [ Build a retro handheld game with Codex and ModRetro Chromatic ](/blog/build-a-game-with-modretro-chromatic)
+  * [ Pushing voice agents further: inside four GPT-Live builds ](/blog/pushing-voice-agents-further)
+  * [ Building a retro handheld game with Codex and ModRetro Chromatic ](/blog/build-a-game-with-modretro-chromatic)
   * [ Designing failover across OpenAI model providers ](/blog/designing-failover-across-openai-model-providers)
   * [ Maintaining software with the GPT-6 family ](/blog/maintaining-software-with-the-gpt-6-family)
   * [ Bringing my LED display to life with GPT-Live-1 and Codex ](/blog/bringing-my-led-display-to-life)
-  * [ Rethinking skills and prompts for GPT-6 Astra ](/blog/rethinking-skills-and-prompts-for-gpt-6-astra)
 
 
 
@@ -1195,6 +1195,7 @@ DocsShowcase
   * [ Codex Ambassadors ](/community/codex-ambassadors)
     * [ Meet the ambassadors ](/community/codex-ambassadors/directory)
   * [ Codex for Students ](/community/students)
+  * [ Student Collective  ](https://openai.com/student-collective/)
   * [ Codex for Open Source ](/community/codex-for-oss)
   * [ OpenAI for Startups  ](https://openai.com/business/why-openai/startups/)
 
