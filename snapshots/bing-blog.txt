@@ -6,7 +6,32 @@
     <description>This is a place devoted to giving you deeper insight into the news, trends, people and technology behind Bing.</description>
     <language>en-US</language>
     <item>
-      <guid isPermaLink="false">https://bingblog-afddbkf9dsbrbub3.westus2-01.azurewebsites.net/?p=3566</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3572</guid>
+      <link>https://blogs.bing.com/search/2026/11/your-choice-turn-ai-answers-on-or-off-in-bing/</link>
+      <author>Bing Team</author>
+      <category>Search</category>
+      <title>Your choice: Turn AI answers on or off in Bing</title>
+      <description>&lt;p&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;When it comes to AI, we believe Bing users should have a choice in how they search. That&apos;s why Bing offers both AI-powered and traditional search experiences, including a browser extension that lets people easily turn off AI features in Bing.&lt;/span&gt;&lt;/p&gt;</description>
+      
+      <content><![CDATA[<p class="MsoNormal"><span style="white-space: pre-wrap;">When it comes to AI, we believe Bing users should have a choice in how they search. That&#8217;s why Bing offers both AI-powered and traditional search experiences, including a browser extension that lets people easily turn off AI features in Bing.</span></p>
+<p class="MsoNormal"><span style="white-space: pre-wrap;">AI is doing powerful things for search, and our research shows users want to have the option to choose whether or not AI is involved in every session. Sometimes a quick AI-generated summary is exactly what you need. Other times, you&#8217;d rather scan the results, compare sources and decide for yourself what information to trust.</span></p>
+<p class="MsoNormal"><span style="white-space: pre-wrap;">We&#8217;re proud of the AI experiences we&#8217;re building in Bing. Being able to turn AI answers off when you want to isn&#8217;t a step back from AI. It&#8217;s a step toward putting you in charge of how you use it.</span></p>
+<h2 class="l-h2"><span style="white-space: pre-wrap;">Two ways to search without AI answers on Bing</span></h2>
+<h3 class="l-h3"><span style="color: rgb(0, 90, 158); white-space: pre-wrap;">The Microsoft Bing AI Search Choice extension (preview)</span></h3>
+<p class="MsoNormal"><span style="white-space: pre-wrap;">After you install this browser extension, a simple toggle lets you choose whether to see AI-generated answers on Bing. Turn it on for fast, helpful summaries, or switch it off to focus on familiar search results and links. Your preference applies across all your Bing searches. The extension is available for Google Chrome and Microsoft Edge, and it also sets Bing as your default search engine.</span></p>
+<p><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/11/6f2baefa-bc10-45bd-be7a-2c2436089189-Picture1.png" alt="Picture of the Microsoft Bing AI Search Choice extension in the browser" style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="MsoNormal"><b><strong class="l-bold" style="white-space: pre-wrap;">Get it for Chrome:</strong></b><span style="white-space: pre-wrap;"> </span><a href="https://chromewebstore.google.com/detail/microsoft-bing-ai-search/mcaabonmnmphidjfohjkdobemneigopa" class="l-link"><span style="white-space: pre-wrap;">https://chromewebstore.google.com/detail/microsoft-bing-ai-search/mcaabonmnmphidjfohjkdobemneigopa</span></a></p>
+<p class="MsoNormal"><b><strong class="l-bold" style="white-space: pre-wrap;">Get it for Microsoft Edge:</strong></b><span style="white-space: pre-wrap;"> </span><a href="https://microsoftedge.microsoft.com/addons/detail/microsoft-bing-ai-search-/pmjianmjibiamoboooofebdpagpdekao" class="l-link"><span style="white-space: pre-wrap;">https://microsoftedge.microsoft.com/addons/detail/microsoft-bing-ai-search-/pmjianmjibiamoboooofebdpagpdekao</span></a></p>
+<h3 class="l-h3"><span style="color: rgb(0, 90, 158); line-height: 115%; white-space: pre-wrap;">The -ai operator</span></h3>
+<p class="MsoNormal"><span style="white-space: pre-wrap;">Bing also offers an option that doesn&#8217;t require installing anything. Simply add </span><b><strong class="l-bold" style="white-space: pre-wrap;">-ai</strong></b><span style="white-space: pre-wrap;"> to any Bing search to get results without AI-generated answers. Try it: </span><b><strong class="l-bold" style="white-space: pre-wrap;">why is the sky blue -ai</strong></b></p>
+<p><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/11/8f9bfe17-cf37-4321-b6bc-490d8455dfdf-Picture2.png" alt="picture of the search box adding the -ai operator to the end of a query" style="height:auto;max-width:100%;border-radius:8px"></p>
+<h2 class="l-h2"><span style="white-space: pre-wrap;">Tell us what you think</span></h2>
+<p class="MsoNormal"><span style="white-space: pre-wrap;">The extension is in preview, so we may make changes based on your feedback. Give it a try, then let us know what&#8217;s working, what&#8217;s missing and what else would help you choose when AI is part of your searches. </span><a href="https://x.com/bing" class="l-link"><span style="white-space: pre-wrap;">Reach us on X</span></a><span style="white-space: pre-wrap;">.</span></p>
+<p></p>
+]]></content>
+    </item>
+    <item>
+      <guid isPermaLink="false">urn:bingblogs:post:3566</guid>
       <link>https://blogs.bing.com/rewards/2026/11/the-total-prize-drop-is-here-and-millions-are-up-for-grabs-2/</link>
       <author>Bing Team</author>
       <category>Microsoft Rewards</category>
@@ -56,7 +81,7 @@ Stack of cash on a green background" style="height:auto;max-width:100%;border-ra
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">https://bingblog-afddbkf9dsbrbub3.westus2-01.azurewebsites.net/?p=3511</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3511</guid>
       <link>https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding/</link>
       <author>Bing Team</author>
       <category>Search</category>
@@ -303,7 +328,7 @@ Stack of cash on a green background" style="height:auto;max-width:100%;border-ra
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">https://bingblog-afddbkf9dsbrbub3.westus2-01.azurewebsites.net/?p=3489</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3489</guid>
       <link>https://blogs.bing.com/rewards/2026/10/real-people-real-winners-your-chance-could-be-next/</link>
       <author>Bing Team</author>
       <category>Microsoft Rewards</category>
@@ -351,7 +376,7 @@ Stack of cash on a green background" style="height:auto;max-width:100%;border-ra
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">https://bingblog-afddbkf9dsbrbub3.westus2-01.azurewebsites.net/?p=3475</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3475</guid>
       <link>https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/</link>
       <author>Bing Team</author>
       <category>Webmaster</category>
@@ -443,7 +468,7 @@ Stack of cash on a green background" style="height:auto;max-width:100%;border-ra
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">34882631-f47b-4486-be92-7b62bbd4c5d7</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3461</guid>
       <link>https://blogs.bing.com/search/2026/6/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare/</link>
       <author>Bing Team</author>
       <category>Search</category>
@@ -505,7 +530,7 @@ Product Managers, Microsoft AI&nbsp;</p>
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">http://3d307fc8-7c82-4eb1-9f6d-f0b94cfaa5b0</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3460</guid>
       <link>https://blogs.bing.com/webiq/2026/6/announcing-microsoft-web-iq/</link>
       <author>Bing Team</author>
       <category>Web IQ</category>
@@ -565,7 +590,7 @@ Distinguished Engineer, Search &amp; AI</p>
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">12a14a80-bfaf-4752-a247-859475a57425</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3459</guid>
       <link>https://blogs.bing.com/search/2026/5/A-Smarter-Way-to-Explore-Images-Has-Come-to-Bing/</link>
       <author>Bing Team</author>
       <category>Search</category>
@@ -610,7 +635,7 @@ Distinguished Engineer, Search &amp; AI</p>
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">aabb27ec-3a52-4d9a-9916-c8d2fdd8b8ab</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3457</guid>
       <link>https://blogs.bing.com/search/2026/5/Keeping-Trusted-Content-Visible-in-an-AI-Powered-Search-World/</link>
       <author>Bing Team</author>
       <category>Search</category>
@@ -676,7 +701,7 @@ Authored by Elena Yndurain, Principal Product Manager, and the Responsible AI De
 ]]></content>
     </item>
     <item>
-      <guid isPermaLink="false">dd94ac61-c66e-4ba3-ae81-d4e7d0111960</guid>
+      <guid isPermaLink="false">urn:bingblogs:post:3458</guid>
       <link>https://blogs.bing.com/search/2026/5/Evolving-role-of-the-index-From-ranking-pages-to-supporting-answers/</link>
       <author>Bing Team</author>
       <category>Search</category>
@@ -871,131 +896,6 @@ Authored by Elena Yndurain, Principal Product Manager, and the Responsible AI De
 <p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{122}" paraid="1414028882">Search&nbsp;optimizes&nbsp;for&nbsp;likelihood of relevance. Grounding must measure&nbsp;strength&nbsp;of&nbsp;evidence.&nbsp;Understanding that difference is not just an engineering concern.&nbsp;It is the starting point for building AI systems that people can actually trust.&nbsp;For a practical perspective on what this shift means for content creators, see our blog post&nbsp;from November 2025 on&nbsp;<a href="https://about.ads.microsoft.com/en/resources/discover/webcasts/optimizing-content-for-inclusion-in-the-era-of-ai" rel="noreferrer noopener" target="_blank">Optimizing&nbsp;content&nbsp;for inclusion&nbsp;in the era of AI</a>, which outlines concrete steps to make information easier to interpret, cite, and verify in AI experiences.&nbsp;<a href="https://www.bing.com/webmasters/" rel="noreferrer noopener" target="_blank">Bing Webmaster Tools</a>&nbsp;can complement that&nbsp;guidance&nbsp;helping you use real performance data to refine what you publish and how you structure it for AI-driven discovery.</p>
 <p>Krishna Madhavan, Knut Risvik, Meenaz Merchant<br />
 Microsoft AI</p>
-]]></content>
-    </item>
-    <item>
-      <guid isPermaLink="false">826cc8bf-7920-41da-bd16-851bd069cddc</guid>
-      <link>https://blogs.bing.com/search/2026/4/Microsoft-Open-Sources-Industry-Leading-Embedding-Model/</link>
-      <author>Bing Team</author>
-      <category>Search</category>
-      <title>Microsoft Open-Sources Industry-Leading Embedding Model</title>
-      <description>&lt;p&gt;&lt;strong&gt;Harrier&lt;/strong&gt; is a new embedding model series designed for the demands of modern AI systems. It is our latest open-source text embedding model series, delivering state-of-the-art performance and ranking 1&lt;sup&gt;st&lt;/sup&gt; on the multilingual MTEB-v2 benchmark. This result reflects Microsoft&amp;rsquo;s sustained commitment to improve grounding quality through advances in embedding models.&lt;/p&gt;
-</description>
-      
-      <content><![CDATA[<p>We&rsquo;re excited to announce an industry leading open-source embeddings model built to support the agentic web.<br />
-&nbsp;<br />
-As AI systems evolve from answering questions to acting, grounding is the foundational capability that drives user trust for any AI agent. The ability to provide the right level of information, at the right time, at the right context. At the heart of grounding is the embedding model: the layer that does the hard work of searching, retrieving, organizing, and connecting information across diverse sources into a coherent, meaningful response.</p>
-<p>It&rsquo;s for this reason, we&rsquo;re excited to announce we&rsquo;ve open-sourced our industry leading embeddings model built to support the agentic web.&nbsp;</p>
-<p>Grounding quality is determined long before a model produces its final answer. In production systems, stronger embeddings translate into higher factual accuracy through better first-pass retrieval, lower latency and cost through fewer retries and smaller contexts, and more stable agent behavior across multi-step tasks.</p>
-<p>In the agent era, this capability matters even more. Agents must search across diverse sources, maintain memory over time, and update context across multiple steps. In these environments, embeddings are not just a retrieval primitive. They are a foundational layer for memory, ranking, and orchestration.</p>
-<p>Enter <strong>Harrier</strong>.</p>
-<p>Harrier is a new embedding model series designed for the demands of modern AI systems. It is our latest open-source text embedding model series, delivering state-of-the-art performance and ranking 1<sup>st</sup> on the multilingual MTEB-v2 benchmark (as of April 6, 2026). This result reflects Microsoft&rsquo;s sustained commitment to improve grounding quality through advances in embedding models.</p>
-<p><br />
-(<strong><a href="https://huggingface.co/spaces/mteb/leaderboard" target="_blank">Image source</a>&nbsp;</strong>retrieved on&nbsp;April 6, 2026 &#8211; cropped for clarity)</p>
-<p>Better embeddings lead to better retrieval, surfacing the right information more often and ranking it higher, which in turn can improve the final user experience: often with more accurate answers, fewer hallucinations, better citations, and stronger multilingual performance. In other words, Harrier&rsquo;s benchmark gains translate into more reliable grounding in real-world systems.</p>
-<p>Harrier is designed not only to improve embedding quality in isolation, but to strengthen the full grounding pipeline that modern AI systems depend on. It supports more than 100 languages, offers a 32k context window, and produces fixed-size embeddings for each input, enabling seamless integration with vector search systems.</p>
-<p><strong>Technical overview</strong><br />
-We started by developing a scalable data pipeline that gathers multilingual text pairs from multiple sources and uses GPT-5 to generate a wide range of synthetic data. This process resulted in more than 2 billion weakly-supervised data examples for contrastive pre-training and over 10 million high-quality examples for fine-tuning. To ensure the highest standards, we applied thorough data filtering and rewrote the data using large language models, when necessary. After preparing the dataset, we trained our flagship model and then used it as a teacher for knowledge distillation, enhancing the performance of smaller embedding models.</p>
-<p><strong>Key technical ideas</strong><br />
-Building upon our prior work in text embeddings, including <a href="https://arxiv.org/abs/2212.03533" target="_blank">E5</a>, <a href="https://arxiv.org/abs/2402.05672" target="_blank">Multilingual E5</a>, <a href="https://aclanthology.org/2024.acl-long.642/" target="_blank">E5-mistral</a>, and <a href="https://arxiv.org/abs/2402.09906" target="_blank">GritLM</a>, we incorporated several approaches to advance the state of text embeddings:</p>
-<ol>
-<li><strong>Large-scale contrastive pre-training and fine-tuning.</strong> By scaling the dataset size throughout both the contrastive pre-training and fine-tuning stages, we observed consistent improvements in performance.</li>
-<li><strong>Synthetic data generation.</strong> Utilizing frontier models such as GPT-5, we generated multilingual text pairs at scale, employing a variety of synthesis strategies to enhance data diversity.</li>
-<li><strong>Knowledge distillation.</strong> LLM-based re-rankers produced high-quality training signals and efficiently filter noisy data. Our smaller models benefit from knowledge distillation, receiving guidance from larger teacher models during training.</li>
-</ol>
-<p><strong>Evaluation</strong><br />
-We evaluate on the <a href="https://huggingface.co/spaces/mteb/leaderboard" target="_blank">multilingual MTEB v2 benchmark</a>. For deployment on low-end devices, we trained two smaller models: <strong>Harrier-OSS-v1</strong><strong>-0.6b</strong> and <strong>Harrier-OSS-v1</strong><strong>-270m</strong>.</p>
-<table>
-<tbody>
-<tr>
-<td><strong>Model</strong></td>
-<td><strong>Avg Score over 131 tasks</strong></td>
-<td><strong>Borda Count Rank</strong></td>
-</tr>
-<tr>
-<td>MMTEB leaderboard SoTA</td>
-<td>72.3</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td><strong>Harrier-OSS-v1-27B</strong></td>
-<td>74.3 (<span style="color:#1abc9c;"><strong>+2.0%</strong></span>)</td>
-<td>1</td>
-</tr>
-<tr>
-		</tr>
-<tr>
-<td>multilingual-e5-large-inst</td>
-<td>63.2</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td>Qwen3-Embedding-0.6B</td>
-<td>64.3</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td><strong>Harrier-OSS-v1</strong><strong>-0.6b</strong></td>
-<td>69.0 (<span style="color:#1abc9c;"><strong>+4.7%</strong></span>)</td>
-<td>10</td>
-</tr>
-<tr>
-		</tr>
-<tr>
-<td>Embeddinggemma-270m</td>
-<td>61.2</td>
-<td>&#8211;</td>
-</tr>
-<tr>
-<td><strong>Harrier-OSS-v1</strong><strong>-270m</strong></td>
-<td>66.5 (<span style="color:#1abc9c;"><strong>+5.3%</strong></span>)</td>
-<td>15</td>
-</tr>
-</tbody>
-</table>
-<p>The table indicates that our model outperforms other open-source embedding models. The &quot;Borda Count Rank&quot; reflects the hypothetical ranking as of March 16 and may change with future submissions.</p>
-<p>Compared with leading proprietary models, we are operating at the frontier of embedding quality and efficiency.</p>
-<table>
-<tbody>
-<tr>
-<td><strong>Model</strong></td>
-<td><strong>MTEB Multilingual, Mean(Task)</strong></td>
-</tr>
-<tr>
-<td>OpenAI text-embedding-3-large</td>
-<td>58.92</td>
-</tr>
-<tr>
-<td>Amazon.titan-embed-text-v2</td>
-<td>60.37</td>
-</tr>
-<tr>
-<td><strong>Harrier-OSS-v1</strong>-270m</td>
-<td>66.55</td>
-</tr>
-<tr>
-<td>Gemini Embedding 1</td>
-<td>68.33</td>
-</tr>
-<tr>
-<td><strong>Harrier-OSS-v1</strong>-0.6b</td>
-<td>69.01</td>
-</tr>
-<tr>
-<td>Gemini Embedding 2(Multi-modal)</td>
-<td>69.9</td>
-</tr>
-<tr>
-<td><strong>Harrier-OSS-v1</strong><strong>&#8211;<strong>27B</strong></strong></td>
-<td><strong>74.27</strong></td>
-</tr>
-</tbody>
-</table>
-<p><strong>What comes next</strong><br />
-The work behind Harrier is not just a model release. It is part of a broader effort to <a href="https://blogs.bing.com/search/February-2026/Elevating-the-Role-of-Grounding-on-the-AI-Web" target="_blank">build the next generation of grounding systems for the agent era.</a></p>
-<p>Drawing on the same core advances, we are developing a new grounding service designed to deliver better retrieval quality, stronger semantic understanding, and more robust context selection at scale. These innovations will also be coming to Bing, bringing the benefits of this new embedding foundation into real user experiences.</p>
-<p>The future of capable agents will depend not only on reasoning and generation, but on how effectively they are grounded in the world. Harrier is a meaningful step toward making that possible &mdash; and we&#39;re just getting started.</p>
-<p>Authors:&nbsp;Xiaolong Huang, Liang Wang, Furu Wei, Jingwen Lu, Knut Risvik, Jason Li&nbsp;</p>
 ]]></content>
     </item>
   </channel>

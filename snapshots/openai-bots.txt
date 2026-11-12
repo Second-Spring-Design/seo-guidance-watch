@@ -900,7 +900,7 @@ DocsOverview
 ###  Codex Security 
 
   * [ Overview ](/codex/security)
-  * Codex Security Cloud
+  * Daybreak Defense Factory
     * [ Setup ](/codex/security/setup)
     * [ Security Review ](/codex/security/security-review)
     * [ Improving the threat model ](/codex/security/threat-model)
