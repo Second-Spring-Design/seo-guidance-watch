@@ -18,7 +18,7 @@ Theme Light  Dark  System
 
 [ ChatGPT  ](/chatgpt)
 
-[ Plugins  Extend ChatGPT and Codex  ](/plugins)[ Sign in with ChatGPT  Apps powered by your user's ChatGPT plan  ](/siwc)[ Commerce  Build commerce flows in ChatGPT  ](/commerce)[ Ads  Publish and measure ads in ChatGPT  ](/ads)[ Workspace Agents  Trigger published ChatGPT workspace agents  ](/workspace-agents)[ ChatGPT + Codex user docs  Guides and product docs for ChatGPT and Codex  ](https://learn.chatgpt.com/docs)[ Use cases  Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases)
+[ Plugins  Extend ChatGPT and Codex  ](/plugins)[ Sign in with ChatGPT  Apps powered by your user's ChatGPT plan  ](/siwc)[ Commerce  Build commerce flows in ChatGPT  ](/commerce)[ Agent Access  Allow verified ChatGPT browser visits to your website  ](/commerce/agent-access)[ Ads  Publish and measure ads in ChatGPT  ](/ads)[ Workspace Agents  Trigger published ChatGPT workspace agents  ](/workspace-agents)[ ChatGPT + Codex user docs  Guides and product docs for ChatGPT and Codex  ](https://learn.chatgpt.com/docs)[ Use cases  Example workflows and tasks teams can take on with ChatGPT or Codex  ](https://learn.chatgpt.com/use-cases)
 
 [ Docs ](/codex)
 
@@ -456,7 +456,7 @@ DocsOverview
 
 
 
-[ Overview ](/chatgpt) Plugins  Sign in with ChatGPT  Commerce  Ads  Workspace Agents [ ChatGPT + Codex user docs  ](https://learn.chatgpt.com/docs)[ Use cases  ](https://learn.chatgpt.com/use-cases)
+[ Overview ](/chatgpt) Plugins  Sign in with ChatGPT  Commerce [ Agent Access ](/commerce/agent-access) Ads  Workspace Agents [ ChatGPT + Codex user docs  ](https://learn.chatgpt.com/docs)[ Use cases  ](https://learn.chatgpt.com/use-cases)
 
 DocsOverview
 
@@ -560,29 +560,24 @@ DocsOverview
 
 
   * [ Home ](/commerce)
+  * [ Partner Playbook Overview ](/commerce/guides/overview)
 
 
 
-###  Guides 
+###  Commerce Partner Playbook 
 
-  * [ Get started ](/commerce/guides/get-started)
-  * [ Best practices ](/commerce/guides/best-practices)
-
-
-
-###  File Upload 
-
-  * [ Overview ](/commerce/specs/file-upload/overview)
-  * [ Products ](/commerce/specs/file-upload/products)
+  * [ Submit product feeds ](/commerce/guides/submit-product-feeds)
+  * [ Help ensure cloud browser access ](/commerce/guides/enable-browser-access)
+  * [ Accept payments ](/commerce/guides/accept-payments)
+  * [ Build a plugin ](/commerce/guides/build-a-plugin)
+  * [ Integrate Sign in with ChatGPT ](/commerce/guides/integrate-sign-in-with-chatgpt)
+  * [ Claim your business ](/commerce/guides/create-business-profile)
 
 
 
-###  API 
+###  Product feeds · Reference 
 
-  * [ Overview ](/commerce/specs/api/overview)
-  * [ Feeds ](/commerce/specs/api/feeds)
-  * [ Products ](/commerce/specs/api/products)
-  * [ Promotions ](/commerce/specs/api/promotions)
+  * [ Product feed schema ](/commerce/specs/file-upload/products)
 
 
 
@@ -902,8 +897,11 @@ DocsOverview
   * [ Overview ](/codex/security)
   * Daybreak Defense Factory
     * [ Setup ](/codex/security/setup)
+    * [ Findings and fixes ](/codex/security/findings-and-fixes)
+    * [ Import scanner findings ](/codex/security/scanner-imports)
     * [ Security Review ](/codex/security/security-review)
     * [ Improving the threat model ](/codex/security/threat-model)
+    * [ Notifications ](/codex/security/notifications)
     * [ FAQ ](/codex/security/faq)
   * Codex Security plugin
     * [ Quickstart ](/codex/security/plugin)
@@ -978,6 +976,7 @@ DocsOverview
   * [ NFS home directories ](/codex/environments/network-file-systems)
   * [ Manage app updates ](/codex/enterprise/manage-app-updates)
   * [ Managed configuration ](/codex/enterprise/managed-configuration)
+    * [ Desktop browser policies ](/codex/enterprise/desktop-browser-policies)
     * [ Self-host configuration ](/codex/enterprise/configuration-server)
   * [ Codex security cookbook ](/codex/enterprise/security-cookbook)
   * [ Remote connections ](/codex/remote-connections)
@@ -1113,11 +1112,11 @@ DocsShowcase
 
 ###  Recent 
 
+  * [ Securing persistent agents like OpenClaw at OpenAI ](/blog/securing-persistent-agents-like-openclaw-at-openai)
   * [ Pushing voice agents further: inside four GPT-Live builds ](/blog/pushing-voice-agents-further)
   * [ Building a retro handheld game with Codex and ModRetro Chromatic ](/blog/build-a-game-with-modretro-chromatic)
   * [ Designing failover across OpenAI model providers ](/blog/designing-failover-across-openai-model-providers)
   * [ Maintaining software with the GPT-6 family ](/blog/maintaining-software-with-the-gpt-6-family)
-  * [ Bringing my LED display to life with GPT-Live-1 and Codex ](/blog/bringing-my-led-display-to-life)
 
 
 
