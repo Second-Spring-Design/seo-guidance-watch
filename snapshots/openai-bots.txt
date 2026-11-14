@@ -414,6 +414,7 @@ DocsOverview
   * [ CSAM guidance ](/api/docs/guides/csam-guidance)
   * [ Content provenance ](/api/docs/guides/content-provenance)
   * [ Your data ](/api/docs/guides/your-data)
+  * [ Data residency ](/api/docs/guides/data-residency)
   * [ Private Safety Processing ](/api/docs/guides/private-safety-processing)
   * [ Permissions ](/api/docs/guides/rbac)
 
