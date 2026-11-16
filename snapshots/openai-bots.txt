@@ -1045,8 +1045,8 @@ DocsOverview
 
 
 
-  * [ Explore use cases ](/codex/use-cases)
-  * [ Collections ](/codex/use-cases/collections)
+  * [ Home ](/codex/use-cases)
+  * [ All use cases ](/codex/use-cases/all)
 
 
 
@@ -1074,8 +1074,25 @@ DocsOverview
 
 
 
-  * [ Explore use cases ](/codex/use-cases)
-  * [ Collections ](/codex/use-cases/collections)
+  * [ Home ](/codex/use-cases)
+  * [ All use cases ](/codex/use-cases/all)
+
+
+
+###  Collections 
+
+  * [ Productivity & Collaboration ](/codex/use-cases/collections/productivity-and-collaboration)
+  * [ Business Operations ](/codex/use-cases/collections/business-operations)
+  * [ Data Science ](/codex/use-cases/collections/data-science)
+  * [ Web development ](/codex/use-cases/collections/web-development)
+  * [ Game development ](/codex/use-cases/collections/game-development)
+  * [ Native development ](/codex/use-cases/collections/native-development)
+  * [ Production systems ](/codex/use-cases/collections/production-systems)
+  * [ Security ](/codex/use-cases/collections/security)
+  * [ Finance ](/codex/use-cases/collections/finance)
+  * [ Sales ](/codex/use-cases/collections/sales)
+  * [ Life Sciences ](/codex/use-cases/collections/life-sciences)
+  * [ Education ](/codex/use-cases/collections/education)
 
 
 
