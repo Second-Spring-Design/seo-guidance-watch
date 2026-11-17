@@ -195,6 +195,7 @@ DocsOverview
 
   * [ Embeddings ](/api/docs/guides/embeddings)
   * [ Moderation ](/api/docs/guides/moderation)
+  * [ CSAM classifier ](/api/docs/guides/csam-classifier)
 
 
 
