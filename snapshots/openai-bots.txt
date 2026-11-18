@@ -65,7 +65,7 @@ DocsOverview
 ###  Get started 
 
   * [ Quickstart ](/api/docs/quickstart)
-  * [ Using GPT-6 ](/api/docs/guides/latest-model)
+  * [ Using GPT-6.2 ](/api/docs/guides/latest-model)
   * [ Key concepts ](/api/docs/concepts)
   * [ API credits for ChatGPT subscribers ](/api/docs/guides/chatgpt-api-credits)
 
@@ -375,7 +375,7 @@ DocsOverview
 
 ###  Performance and quality 
 
-  * [ Keep the prefix unchanged ](/api/docs/guides/preserved-reasoning)
+  * [ Keep the prefix unchanged ](/api/docs/guides/keep-prefix-unchanged)
   * [ Fast mode ](/api/docs/guides/fast-mode)
   * [ Ultrafast mode ](/api/docs/guides/ultrafast-mode)
   * [ Latency optimization ](/api/docs/guides/latency-optimization)
@@ -989,6 +989,7 @@ DocsOverview
 ###  Advanced deployment 
 
   * [ Amazon Bedrock ](/codex/amazon-bedrock)
+  * [ Google Cloud ](/codex/enterprise/connect-to-vertex-ai)
   * [ GovCloud deployment ](/codex/enterprise/govcloud-configuration)
   * [ Connect to a gateway ](/codex/enterprise/connect-to-a-gateway)
   * [ Roll out a gateway ](/codex/enterprise/roll-out-a-gateway)
@@ -1240,7 +1241,7 @@ DocsShowcase
 ### Get started
 
   * [ Quickstart  ](/api/docs/quickstart)
-  * [ Using GPT-6  ](/api/docs/guides/latest-model)
+  * [ Using GPT-6.2  ](/api/docs/guides/latest-model)
   * [ Key concepts  ](/api/docs/concepts)
   * [ API credits for ChatGPT subscribers  ](/api/docs/guides/chatgpt-api-credits)
 

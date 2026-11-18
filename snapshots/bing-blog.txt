@@ -6,6 +6,80 @@
     <description>This is a place devoted to giving you deeper insight into the news, trends, people and technology behind Bing.</description>
     <language>en-US</language>
     <item>
+      <guid isPermaLink="false">urn:bingblogs:post:3589</guid>
+      <link>https://blogs.bing.com/webiq/2026/11/web-iq-is-now-broadly-available-build-better-agents-that-keep-up-with-the-world/</link>
+      <author>Bing Team</author>
+      <category>Web IQ</category>
+      <title>Web IQ is now broadly available: Build better agents that keep up with the world</title>
+      <description>&lt;p&gt;&lt;i&gt;&lt;em class=&quot;l-italic&quot; style=&quot;line-height: 115%; font-family: Aptos, sans-serif; white-space: pre-wrap;&quot;&gt;Powering frontier AI labs, trusted by enterprises&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;</description>
+      
+      <content><![CDATA[<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Without grounding, even the most capable AI agents would be working in airplane mode, disconnected from what&#8217;s happening in the world around them. Did interest rates change today? Did a competitor just announce a new product? Will this weather alert disrupt operations? Agents require a persistent connection to fresh, real-world knowledge to be effective.</span></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">That&#8217;s the challenge Web IQ is built to solve. Today we&#8217;re announcing that Web IQ is available to all Azure customers with new, lower pricing. And at Microsoft Ignite, we&#8217;re making it even more capable, with Web IQ Auto and Auto Advanced, new Weather, Places and Commerce (private preview) sources, and new support for health scenarios.</span></p>
+<h3 class="l-h3"><span style="white-space: pre-wrap;">Web IQ, now broadly available, with new capabilities</span></h3>
+<p class="MsoNormal"><a href="https://www.microsoft.com/en-us/webiq?msockid=17013fdf940e60300eba2a47900e66c3" class="l-link" target="_blank"><span style="white-space: pre-wrap;">Web IQ</span></a><span style="white-space: pre-wrap;"> gives agents access to comprehensive public web information and structured knowledge to help them reason, answer questions, and take action</span><span style="color: black; white-space: pre-wrap;">. </span><b><strong class="l-bold" style="color: black; white-space: pre-wrap;">Web IQ is now available to all Azure customers with new, lower pricing</strong></b><span style="color: black; white-space: pre-wrap;">. We’re also excited to announce new features that address the needs of enterprise customers.</span></p>
+<p class="MsoNoSpacing"><b><strong class="l-bold" style="color: black; white-space: pre-wrap;">Auto orchestration, less retrieval work.</strong></b><span style="color: black; white-space: pre-wrap;"> Web IQ Auto is the new, default way to use Web IQ. Auto handles multi-step retrieval in one call, orchestrating web, image, video, news, weather and places sources. It returns focused, ready-to-use evidence instead of whole pages, reducing the retrieval work and irrelevant context sent to the model. This helps developers use tokens more efficiently while delivering the critical evidence that agents need.</span></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Auto Advanced improves retrieval for more complex questions and workflows. When an initial result is not sufficient, Auto Advanced can evaluate the response, refine the query, and retrieve additional information. This gives developers a better way to improve results for demanding scenarios without building that iterative retrieval logic themselves.&nbsp;Teams can spend less effort stitching retrieval steps together and more effort designing how an agent answers, explains and acts.</span></p>
+<p><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/11/04a6b765-49f0-470e-833b-4612d31dcdf1-auto-white-loop.gif" alt="Diagram of Web IQ Auto handling multi-step retrieval in one request. After the AI thinks, Web IQ retrieves results from web, image and video sources, combines them and checks whether the evidence is sufficient. If it isn't, Web IQ retrieves more until the check passes. The AI then writes its answer and makes a recommendation." style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="MsoNormal" align="center" style="text-align: center;"><i><em class="l-italic" style="color: rgb(64, 64, 64); font-size: 14px; white-space: pre-wrap;">Auto handles multi-step and multi-source retrieval in one call to help developers use tokens more efficiently while delivering the critical evidence that agents need</em></i><i><em class="l-italic" style="font-size: 14px; white-space: pre-wrap;">.</em></i></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Consider a field-service agent planning a technician&#8217;s day. In a single call, Web IQ Auto can check the forecast at each job site, confirm a supplier&#8217;s hours, and pull the latest news on a product recall. This returns focused evidence instead of whole pages, resulting in more efficiency and better answers.</span></p>
+<p class="MsoNormal"><b><strong class="l-bold" style="white-space: pre-wrap;">Richer sources for real-world questions.</strong></b><span style="white-space: pre-wrap;"> In addition to fetching information from the public web, Web IQ also taps into rich, structured intelligence from specialized data sources. Today we’re launching new knowledge domains for Web IQ, which provide high-quality intelligence across verticals where having current information especially matters.</span></p>
+<ul class="l-ul">
+<li value="1" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Weather:</strong></b><span style="white-space: pre-wrap;"> Makes every agent weather-aware, with current conditions and forecasts from Microsoft&#8217;s award-winning weather models, selected as best in the world according to </span><a href="https://forecastwatch.com/awards/2026/" class="l-link" target="_blank"><span style="white-space: pre-wrap;">ForecastWatch</span></a><span style="white-space: pre-wrap;">. Agents can plan around real conditions, such as rerouting a delivery before a storm hits. Available via Web IQ Auto.</span></li>
+<li value="2" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Places:</strong></b><span style="white-space: pre-wrap;"> Connects agents to the physical world with fresh, structured information on more than 207 million businesses and places worldwide. Agents get the right address, phone number, opening hours and more in a consistent, model-ready format, for more reliable location-aware experiences.</span></li>
+<li value="3" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Commerce </strong></b><span style="white-space: pre-wrap;">(Private Preview): Powers new AI shopping experiences by combining the scale of Microsoft’s commerce ecosystem with offer retrieval and ranking built for agentic workloads. With more than 40 billion structured offers, this intelligence layer helps deliver higher-quality AI shopping experiences at scale, delivering relevant products across a wide range of categories and merchants of all sizes—plus images, descriptions, and product attributes. In a test of 500 representative product-category queries, Microsoft’s solution returned 57% more matched products than the next closest competitor.</span><sup style="vertical-align: super; line-height: 115%; font-family: Aptos, sans-serif; font-size: 12px; white-space: pre-wrap;"><span class="l-sup">1</span></sup></li>
+</ul>
+<p><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/11/34ad13e1-c1ea-4698-acdf-81dbb3bec705-Web-IQ-Sources.png" alt="Diagram with Web IQ at the center, connected to eight sources: web, news, images, video, commerce, places, weather and licensed content. Licensed content is content customers already license under a bring-your-own-license (BYOL) model. Licensed and web results come back ranked together in one response." style="height:auto;max-width:100%;border-radius:8px"></p>
+<p style="text-align: center;"><i><em class="l-italic" style="color: rgb(64, 64, 64); font-size: 14px; white-space: pre-wrap;">Web IQ connects agents to web and specialized intelligence across web pages, news, images, video, places, weather, and commerce product data.</em></i></p>
+<p style="text-align: left;"><span style="white-space: pre-wrap;">We are also making Web IQ a better service for </span><b><strong class="l-bold" style="white-space: pre-wrap;">Health</strong></b><span style="white-space: pre-wrap;"> scenarios. Web IQ automatically identifies healthcare-related questions and prioritizes more clinically relevant and credible sources, resulting in more trustworthy answers. Source credibility is informed by principles independently published by the National Academy of Medicine.</span></p>
+<h3 class="l-h3"><span style="white-space: pre-wrap;">Responsible grounding together with enterprise-grade controls</span></h3>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Trust begins at the source. </span><span style="white-space: pre-wrap;">Web IQ is built on Microsoft&#8217;s commitment to responsible grounding, respecting publisher preferences and giving enterprise customers greater confidence in the provenance of the content powering their AI agents. Web IQ’s robust approach includes:</span></p>
+<ul class="l-ul">
+<li value="1" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Microsoft&#8217;s own index. </strong></b><span style="white-space: pre-wrap;">Because Microsoft builds and operates its own proprietary index, it controls how content is discovered and sourced, and every result links back to its original source so customers can see where information comes from. &nbsp;</span></li>
+<li value="2" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">A publicly identified crawler.</strong></b><span style="white-space: pre-wrap;"> Bingbot is Microsoft&#8217;s </span><a href="https://www.bing.com/webmasters/help/how-to-verify-bingbot-3905dc26" class="l-link" target="_blank"><span style="white-space: pre-wrap;">documented web crawler</span></a><span style="white-space: pre-wrap;"> supporting Bing Search, Copilot, and Web IQ. Publishers can identify Bingbot and explicitly set its access preferences. This provides enterprises with greater confidence in how web content is collected.</span></li>
+<li value="3" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Distinct publisher preferences for grounding, crawling, and indexing. </strong></b><span style="white-space: pre-wrap;">Microsoft supports three unique mechanisms for content publishers to express their preferences:</span>
+<ul class="l-ul">
+<li value="1" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Grounding:</strong></b><span style="white-space: pre-wrap;"> On October 30, Microsoft </span><a href="https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding/" class="l-link" target="_blank"><span style="white-space: pre-wrap;">announced industry-first AI preferences</span></a><span style="white-space: pre-wrap;"> specific to AI grounding at the page level, giving publishers more choice over how their content is used.</span></li>
+<li value="2" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Crawling:</strong></b><span style="white-space: pre-wrap;"> robots.txt guides Bingbot crawler access. Bingbot does not crawl sites that publishers disallow, so that content is not in the index Web IQ draws on.</span></li>
+<li value="3" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Indexing:</strong></b><span style="white-space: pre-wrap;"> NoIndex prevents pages from appearing in our Search index.</span></li>
+</ul>
+</li>
+<li value="4" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Web IQ Scopes also offers customers more control over their grounding sources.</strong></b><span style="white-space: pre-wrap;"> Web IQ Scopes allows businesses to restrict grounding to approved websites or exclude specific sources.</span></li>
+</ul>
+<p class="MsoNormal"><span style="white-space: pre-wrap;">Besides source controls, Web IQ offers additional benefits for enterprise customers:</span></p>
+<ul class="l-ul">
+<li value="1" style="--listitem-marker-white-space: pre-wrap;"><b><strong class="l-bold" style="white-space: pre-wrap;">Zero Query Logging</strong></b><span style="white-space: pre-wrap;"> is available to Azure managed customers in regulated industries. This helps organizations protect sensitive information by ensuring their queries are not retained, supporting stricter data privacy, security, and compliance requirements. &nbsp;</span></li>
+<li value="2" style="--listitem-marker-white-space: pre-wrap;"><span style="white-space: pre-wrap;">Integration with </span><b><strong class="l-bold" style="white-space: pre-wrap;">Microsoft IQ</strong></b><span style="white-space: pre-wrap;"> makes it easy to orchestrate answers across organizational and external knowledge sources. And because Web IQ runs on the trusted Azure cloud, customers benefit from familiar procurement, metering, and billing, as well as eligible Azure consumption discounts.</span></li>
+</ul>
+<h3 class="l-h3"><span style="white-space: pre-wrap;">Frontier performance with lower total cost-of-ownership (TCO)</span></h3>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">In agent workflows, speed, quality and token efficiency matter. </span><span style="white-space: pre-wrap;">&nbsp;Web IQ offers industry-leading p95 latency while delivering an outstanding combination of quality with token efficiency. Web IQ operates at the frontier of these outcomes, maximizing performance without compromises.</span></p>
+<p><span style="white-space: pre-wrap;"> </span><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/11/5943b015-5a99-41bf-9ce5-845ed291443f-latency-animation-loop.gif" alt="Bar chart of P95 latency in milliseconds across engines, where lower is faster: Web IQ is better than Perplexity Fast, Exa Lite, Brave, You.com, Perplexity, Exa, Parallel.ai and Tavily. P95 is averaged across 8 regions in North America, Europe and Asia, with 1,000 queries per region, measured on November 8." style="height:auto;max-width:100%;border-radius:8px"><span style="white-space: pre-wrap;">  </span><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/11/4e29ec81-0af2-4fd9-8b14-800c90fdef1a-quality-animation-loop.gif" alt="Line chart titled Quality vs Token, plotting grounding satisfaction (quality) against average tokens per response. The Web IQ /auto and Web IQ /web curves sit above the trendlines for Perplexity, ParallelAI, BraveContext and Exa at every point shown. Based on 2,850 randomly sampled global queries, with evals run November 8 and 9." style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Another important element when evaluating answer quality is how current the retrieved results are. In the absence of well-established benchmarks, we’ve open sourced a new FreshSearch index, which measures freshness across two dimensions, weighted equally: how current the information returned is and how effectively providers discover newly published content. Based on this methodology, Web IQ shows a strong ability to return fresh results.</span></p>
+<p><img decoding="async" src="https://blogs.bing.com/api/media/assets/uploads/2026/11/1eacc93c-909b-40c1-b5f0-1666f73e2e3f-freshness-animation-loop.gif" alt="Bar chart of grounding freshness scores from the open-sourced FreshSearch benchmark, on a scale of 0 to 100: Web IQ /auto 87.5 Parallel 82.4, Web IQ /web 81.2, Exa 3.0 Auto 73.5 and Perplexity 57.9. The benchmark measures how well grounding providers discover newly published content and how fresh their evidence is for time-sensitive queries. Scores are averaged over sampled runs in November 2026." style="height:auto;max-width:100%;border-radius:8px"></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Don’t just take our word for it. Explore the methodology and replicate the benchmark yourself using our open-source code sample on </span><a href="https://github.com/microsoft/web-iq-samples" class="l-link" target="_blank"><span style="white-space: pre-wrap;">GitHub</span></a><span style="color: black; white-space: pre-wrap;">.</span></p>
+<p class="MsoNoSpacing"><b><strong class="l-bold" style="color: black; white-space: pre-wrap;">See how Web IQ customers are building successful agent workflows</strong></b></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Benchmarks show what the platform can do, but customers show what it can truly deliver for businesses.</span></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">For a live agent to be useful, relevant information must arrive fast enough to keep the interaction moving. Genspark, the AI platform that includes search and content generation, needs its AI’s voice assistant to answer time-sensitive questions about weather, prices, and headlines. Each voice turn has only a few seconds to recognize the question, find the right information, and respond, so every fraction of a second matters.</span></p>
+<p class="MsoQuote" style="text-align: center;"><i><em class="l-italic" style="white-space: pre-wrap;">“When you’re talking to an AI assistant, responses need to be quick and fluid. Web IQ reduced our response time from 6 seconds to 0.6 seconds. Six seconds in a voice turn is audible dead air; 0.6 seconds is not. That’s why our voice team has already moved to Web IQ.”</em></i></p>
+<p class="MsoCaption" align="center" style="text-align: center;"><b><strong class="l-bold" style="color: rgb(233, 113, 50); white-space: pre-wrap;">Ray Zhong, Co-founder, Genspark</strong></b></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">The value of current evidence also extends to the world’s largest communications group. At Publicis Groupe, Web IQ supports Marcel (MRCL), its internal creative-intelligence platform. Web IQ supports MRCL’s workflows by bringing authoritative, current external information into briefs, client presentations, competitive analyses, battlecards, and trend radars.</span></p>
+<p class="MsoQuote" style="text-align: center;"><i><em class="l-italic" style="white-space: pre-wrap;">“Microsoft Web IQ has empowered us to extend our capabilities of Marcel, our internal applied intelligence platform at Publicis. Through Web IQ, we&#8217;ve been able to add incredibly useful skills to Marcel&#8217;s capabilities, which are flexible and replicable to meet any employee need. Whether it&#8217;s building a competitive battlecard or surfacing new behaviors on our trend radar, Web IQ gives us robust answers we can trust.”</em></i></p>
+<p class="MsoCaption" align="center" style="text-align: center;"><b><strong class="l-bold" style="color: rgb(233, 113, 50); white-space: pre-wrap;">Scott Hagedorn, CEO, Marcel at Publicis Groupe</strong></b></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">And for teams looking for agility, Web IQ removes the need for extra retrieval work. National Grid&#8217;s experience illustrates why that matters:</span></p>
+<p class="MsoQuote" style="text-align: center;"><i><em class="l-italic" style="white-space: pre-wrap;">“We wanted a straightforward way to bring fresh web information into our internal AI applications without building and maintaining a separate retrieval layer. Microsoft Web IQ gave us exactly that. It integrates into our existing workflows through a simple API, delivers the speed and capabilities we were looking for, and lets us focus on building useful AI experiences instead of solving web retrieval challenges.”</em></i></p>
+<p class="MsoCaption" align="center" style="text-align: center;"><b><strong class="l-bold" style="color: rgb(233, 113, 50); white-space: pre-wrap;">Louis Barone, Platform Technical Lead – Principal Architect, Automation &amp; AI, National Grid</strong></b></p>
+<p class="MsoNoSpacing"><b><strong class="l-bold" style="color: black; white-space: pre-wrap;">Get started today</strong></b></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">With Web IQ&#8217;s broad availability and new, lower pricing, more teams and organizations can now power their agents with web intelligence to deliver better answers, more informed decisions, and useful actions. We&#8217;re excited to see what they build.</span></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">Get started today by </span><a href="https://aka.ms/webiq-get-started-on-azure" class="l-link" target="_blank"><span style="white-space: pre-wrap;">deploying a Web IQ resource in Azure</span></a><span style="white-space: pre-wrap;">.</span></p>
+<p class="MsoNoSpacing"><span style="color: black; white-space: pre-wrap;">For developers, follow our quick start guidance in the </span><a href="https://learn.microsoft.com/en-us/web-iq/" class="l-link" target="_blank"><span style="white-space: pre-wrap;">Microsoft Web IQ documentation</span></a><span style="white-space: pre-wrap;">, </span><span style="color: black; white-space: pre-wrap;">and explore our </span><a href="https://github.com/microsoft/web-iq-samples" class="l-link" target="_blank"><span style="white-space: pre-wrap;">GitHub</span></a><span style="color: black; white-space: pre-wrap;"> for ready-to-use code samples and integration examples that make it easier to turn Web IQ into real-world AI applications. More information about new pricing and features are available on the </span><a href="https://www.microsoft.com/en-us/webiq" class="l-link" target="_blank"><span style="white-space: pre-wrap;">Web IQ website</span></a><span style="color: black; white-space: pre-wrap;">.</span></p>
+<p></p>
+<p><span style="line-height: 115%; font-family: Aptos, sans-serif; white-space: pre-wrap;">Jordi Ribas</span></p>
+<p><span style="line-height: 115%; font-family: Aptos, sans-serif; white-space: pre-wrap;">President, Search &amp; AI</span></p>
+<p></p>
+<p class="MsoNormal"><span class="MsoFootnoteReference"><sup style="vertical-align: super; line-height: 115%; font-family: Aptos, sans-serif; font-size: 12px; white-space: pre-wrap;"><span class="MsoFootnoteReference">[1]</span></sup></span><span style="font-size: 12px; white-space: pre-wrap;"> </span><i><em class="l-italic" style="line-height: 115%; font-family: &quot;Segoe UI&quot;, sans-serif; font-size: 12px; white-space: pre-wrap;">Source: Microsoft internal assessment, Nov. 2026. Results assessed across the same 500 representative category describing a product type, budget, and required features. Products counted only when the evidence supported every requirement, price, variant, and direct purchase</em></i></p>
+<p class="MsoQuote" style="text-align: center;"></p>
+]]></content>
+    </item>
+    <item>
       <guid isPermaLink="false">urn:bingblogs:post:3572</guid>
       <link>https://blogs.bing.com/search/2026/11/your-choice-turn-ai-answers-on-or-off-in-bing/</link>
       <author>Bing Team</author>
@@ -698,204 +772,6 @@ It is foundational to how AI-powered search should function.</p>
 </ul>
 <p>
 Authored by Elena Yndurain, Principal Product Manager, and the Responsible AI Defensive Team, Microsoft AI</p>
-]]></content>
-    </item>
-    <item>
-      <guid isPermaLink="false">urn:bingblogs:post:3458</guid>
-      <link>https://blogs.bing.com/search/2026/5/Evolving-role-of-the-index-From-ranking-pages-to-supporting-answers/</link>
-      <author>Bing Team</author>
-      <category>Search</category>
-      <title>Evolving role of the index: From ranking pages to supporting answers</title>
-      <description>Search indexing was built to help humans decide what to read. Grounding is being built to help AI systems decide what to say&amp;nbsp;and&amp;nbsp;simultaneously&amp;nbsp;helping&amp;nbsp;people to verify, refine, or challenge what the AI system produces. That is the shift - and it runs deeper than it might first appear.</description>
-      
-      <content><![CDATA[<p><strong><em>Same Foundations. Different Optimization Problems.</em></strong></p>
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{60}" paraid="1048223516"><strong>Introduction&nbsp;</strong></p>
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{66}" paraid="1469855440">For decades, search engines have relied on large&ndash;scale indexing systems to help people discover information on the web. The infrastructure behind this &ndash; crawling billions of pages, evaluating content quality, ranking results by relevance &ndash; became the backbone of how people navigate the internet. This model has worked extraordinarily well, and it still does.&nbsp;</p>
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{72}" paraid="541139173">But AI systems (for example,&nbsp;AI agents,&nbsp;companions, and generative AI answers embedded in search and apps) don&#39;t navigate the internet the way humans do. And that changes the indexing problem in fundamental ways.&nbsp;</p>
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{88}" paraid="439843413"><strong>Two Systems, Two Responsibilities&nbsp;</strong></p>
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{94}" paraid="1589947926">Traditional&nbsp;search and grounding systems share the same foundation &ndash; crawling, understanding, and&nbsp;ranking&nbsp;the web &ndash;&nbsp;but they are&nbsp;optimized&nbsp;for fundamentally different outcomes.&nbsp;</p>
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{108}" paraid="1168126321">Traditional search asks: which pages should a user visit? Grounding asks: what information can an AI system responsibly use to construct a&nbsp;response? These questions sound similar. They are not.&nbsp;The table below provides a breakdown of key considerations:&nbsp;</p>
-<table aria-rowcount="7" border="1" data-tablelook="1184" data-tablestyle="MsoTable15Grid4Accent1" dir="ltr">
-<tbody>
-<tr aria-rowindex="1" role="row">
-<td data-celllook="4369" role="rowheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{124}" paraid="107947576"><strong>Dimension&nbsp;</strong></p>
-</td>
-<td data-celllook="4369" role="columnheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{131}" paraid="1592009159"><strong>Traditional search&nbsp;</strong></p>
-</td>
-<td data-celllook="4369" role="columnheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{138}" paraid="291671428"><strong>Grounding for AI&nbsp;responses&nbsp;</strong></p>
-</td>
-</tr>
-<tr aria-rowindex="2" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{148}" paraid="836000881">Primary question&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{155}" paraid="1014191706">Which pages should a user visit?&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{162}" paraid="1116280586">What information can an AI system responsibly use to construct an answer?&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="3" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{170}" paraid="1762050330">Unit of value&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{177}" paraid="1056030930">The document (page)&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{184}" paraid="1470364406">Groundable&nbsp;information (discrete, supportable facts with clear provenance)&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="4" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{192}" paraid="1795787371">Role of the user&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{199}" paraid="613732004">Human evaluates results and self-corrects&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{206}" paraid="1430503153">User sees a synthesized answer; independent verification&nbsp;requires checking the cited sources.&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="5" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{218}" paraid="1144632190">Error dynamics&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{225}" paraid="1974850847">Imperfect ranking is tolerable; recovery is easy&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{232}" paraid="2115328827">Errors can compound across reasoning steps&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="6" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{240}" paraid="1065013541">Valid outcomes&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{247}" paraid="462209773">Return ranked options&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{22d7b914-60f8-4874-ba1a-5a9135cc4a78}{254}" paraid="373695003">Answer when supported; abstain when evidence is insufficient&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="7" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{7}" paraid="536819512">Accountability&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{14}" paraid="330116453">Surface relevant options&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{21}" paraid="1074000385">Provide high-quality evidence that can support a committed answer&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{31}" paraid="77460537"><strong>What Traditional Search Indexing Optimizes For</strong></p>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{37}" paraid="862987903">Traditional indexing answers a simple question: which pages should a user visit? The goal is recall and breadth &ndash; surface as many relevant options as possible and let the user choose. The unit of value is the document: a page that ranks well, that a human can skim, evaluate, and act on.&nbsp;</p>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{43}" paraid="2013946741">That simplicity is a feature. Search was designed for humans who can scan a results page, skip the results that&nbsp;don&rsquo;t&nbsp;fit, and course&ndash;correct in real time. The index does not need to be right about every result &ndash; it needs to be right enough that the user finds what they are looking for.&nbsp;</p>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{49}" paraid="280490806"><strong>What Changes When the Goal Is Grounding AI Answers&nbsp;</strong></p>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{55}" paraid="1199672102">Grounding an AI&ndash;generated answer introduces a fundamentally different constraint: the system is no longer just pointing to&nbsp;information,&nbsp;it is using it. The goal shifts from &ldquo;fetch the best documents&rdquo; to &ldquo;fetch the best information to synthesize into a reliable, verifiable answer.&rdquo;&nbsp;</p>
-<p>Instead of just ranking pages, the index must help an AI system&nbsp;determine&nbsp;which specific information can responsibly support an answer. The unit of value shifts from documents to&nbsp;groundable&nbsp;information &ndash; discrete, supportable facts with clear provenance. When an AI system presents an answer, multiple sources&nbsp;might&nbsp;collapse into a single&nbsp;statement&nbsp;and errors can compound across reasoning steps.&nbsp;Grounding practices therefore emphasize source identification so users can validate claims or explore further when needed.&nbsp;Grounding&nbsp;consequently&nbsp;emphasizes high-quality source identification and&nbsp;attribution&nbsp;so users (and downstream systems) can verify what was used and follow the evidence when needed. In this setting, the system must decide not only what to answer, but whether the evidence is sufficient to answer at all. Abstention is a valid outcome when support is missing, stale, or conflicting&nbsp;&ndash;&nbsp;it reflects a deliberate judgment about what the available evidence can justify.</p>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{83}" paraid="1263039816"><strong>What the Index Must Measure Differently&nbsp;</strong></p>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{89}" paraid="707972224">This is where the two systems diverge most concretely.&nbsp;The metrics a search optimizes&nbsp;for are not the same metrics grounding needs to track &ndash; and closing that gap requires rethinking what &ldquo;index quality&rdquo; means from the ground up.&nbsp;</p>
-<table aria-rowcount="6" border="1" data-tablelook="1184" data-tablestyle="MsoTable15Grid4Accent1" dir="ltr">
-<tbody>
-<tr aria-rowindex="1" role="row">
-<td data-celllook="4369" role="rowheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{99}" paraid="2063740276"><strong>What to measure&nbsp;</strong></p>
-</td>
-<td data-celllook="4369" role="columnheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{106}" paraid="1499698033"><strong>In traditional search&nbsp;</strong></p>
-</td>
-<td data-celllook="4369" role="columnheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{113}" paraid="1977819035"><strong>In grounding&nbsp;</strong></p>
-</td>
-</tr>
-<tr aria-rowindex="2" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{121}" paraid="984626520">Factual fidelity&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{128}" paraid="2009114114">Ranking can tolerate some mismatch; the user can click through and interpret&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{135}" paraid="1678189847">Critical: chunking/transformations must preserve meaning and claims used in the answer&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="3" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{143}" paraid="630069317">Source attribution quality&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{150}" paraid="1782564235">Attribution is helpful, but users<br />
-			choose what to trust&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{157}" paraid="1434200345">Core signal: evidence needs clear provenance and varying evidentiary weight&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="4" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{165}" paraid="1417960963">Freshness&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{172}" paraid="516372465">Stale content&nbsp;mainly degrades&nbsp;<br />
-			ranking usefulness&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{179}" paraid="870599633">Stale facts can directly produce wrong answers&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="5" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{187}" paraid="1088932065">Coverage of high-value facts&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{194}" paraid="139142820">Coverage is broad; missing a<br />
-			document is often<br />
-			recoverable via alternative results&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{201}" paraid="256371263">Must ensure facts and sources people ask about are&nbsp;actually retrievable&nbsp;and&nbsp;groundable&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="6" role="row">
-<td data-celllook="0" role="rowheader">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{209}" paraid="1210780283">Contradictions / conflict&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{217}" paraid="271411436">Can surface one source above<br />
-			another and let the user arbitrate&nbsp;</p>
-</td>
-<td data-celllook="0">
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{224}" paraid="1346634428">Must detect and represent conflict; silent arbitration risks confident wrong answers&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{239}" paraid="1013668960">Traditional search quality is&nbsp;largely measured&nbsp;through user behavior and ranking performance. The index asks: is the most relevant content being surfaced at the top? Are users finding what they need? Is content fresh enough to be useful for ranking? Are near&ndash;duplicate pages&nbsp;being collapsed&nbsp;efficiently? These measures all assume a human in the loop who can scan, skip, and&nbsp;self&ndash;correct. A stale result is a ranking problem. A missed document is a coverage gap. Both matter &ndash; but neither is&nbsp;catastrophic, because&nbsp;the user can recover.&nbsp;</p>
-<p paraeid="{b501502b-6736-447d-927a-c043457fc159}{245}" paraid="1593333957">Grounding changes what the index&nbsp;needs to&nbsp;account for, in ways that are both more demanding and harder to measure. Factual fidelity becomes critical: does the indexed representation of a page accurately preserve the meaning of the original content? The processes of breaking content into retrievable chunks and transforming it for fast lookup can distort&nbsp;page&nbsp;substance&nbsp;in ways that never appear in any ranking signal. Source&nbsp;attribution&nbsp;quality matters in an entirely new way &ndash; not all indexed content carries equal evidentiary weight for an AI answer, and the index needs to understand that distinction.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{6}" paraid="121575764">Freshness failure carries a categorically different cost. In search, stale content degrades ranking. In grounding, a&nbsp;stale&nbsp;fact produces a&nbsp;misleading&nbsp;response. The index must also account for coverage gaps in high&ndash;value content &ndash; not just whether the web is broadly indexed, but whether the specific facts and sources that people are likely to ask about are&nbsp;actually available&nbsp;and&nbsp;groundable. And when two indexed sources contradict each other, a grounding index cannot simply surface one above the other and move on. It needs to register that conflict, because an AI system that silently arbitrates between contradictory sources is one that may confidently assert the wrong thing.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{18}" paraid="751100723">The shift in what gets measured reflects a deeper shift in what the index&nbsp;is responsible for. A search&nbsp;function&nbsp;is accountable for surfacing options. A grounding&nbsp;function&nbsp;is accountable for the quality of evidence it provides to an AI system that will commit to an answer which the users may subsequently verify.</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{34}" paraid="1599797038"><strong>Grounding Builds on Search&nbsp;</strong></p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{40}" paraid="2114981757">A common misconception is that grounding replaces search. It does not. Grounding builds on the same foundational infrastructure &ndash; the same crawlers, the same quality signals, the same deep understanding of the web &ndash; but it adds a new optimization layer on top.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{46}" paraid="2084067006">Grounding is about&nbsp;determining&nbsp;what information can responsibly support a claim and having the discipline to withhold when the evidence is not there. The infrastructure is shared. The purpose is different.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{52}" paraid="1635579552"><strong>Retrieval Becomes a System,&nbsp;Not&nbsp;a Step&nbsp;</strong></p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{58}" paraid="426392294">Traditional search is typically a single interaction: query in, ranked results out. The simplicity of that model is a feature &ndash; it is fast, predictable, and easy to reason about.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{64}" paraid="714938942">Grounding&nbsp;operates&nbsp;in loops. A system grounding an AI answer may need to ask follow&ndash;up questions, refine retrieval based on intermediate results, combine evidence from multiple sources, and re&ndash;evaluate when confidence is low.&nbsp;This changes the&nbsp;error profile of the index entirely&nbsp;&ndash; in particular the retrieval systems.&nbsp;If early retrieval steps introduce subtle errors, those errors compound through&nbsp;subsequent&nbsp;reasoning steps in ways that no human reviewer would catch in real time. Grounding systems cannot rely on the safety net that search provides &ndash; where a user scans results, skips irrelevant hits, and course&ndash;corrects on the fly.&nbsp;Retrieval&nbsp;systems&nbsp;must therefore&nbsp;optimize&nbsp;not just for one&ndash;shot retrieval, but for consistent, repeatable behavior across iterative use.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{88}" paraid="1939539898"><strong>The Bigger Picture&nbsp;</strong></p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{94}" paraid="126332620">Indexing for grounded AI answers is not a reinvention of search &ndash; it is a major evolution of it. Grounding commits to an answer. This is not a surface&ndash;level evolution.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{100}" paraid="190278967">The shift&nbsp;we&nbsp;described at the opening is worth restating plainly: search indexing was built to help humans decide what to read. Grounding indexing is being built to help AI systems decide what to say. The infrastructure&nbsp;required&nbsp;to do those two things well is not the same &ndash; even when it starts from the same foundation.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{110}" paraid="1223622426">What makes this hard is not the technology gap &ndash; it is the measurement&nbsp;gap. We have decades of practice measuring search quality. We are still learning what it means to measure grounding quality rigorously: not just whether an answer was retrieved, but whether the evidence behind it was&nbsp;accurate, fresh, attributable, and consistent.&nbsp;</p>
-<p paraeid="{f23d1af8-a9d5-4d2e-a2ff-3fc2c8e825aa}{122}" paraid="1414028882">Search&nbsp;optimizes&nbsp;for&nbsp;likelihood of relevance. Grounding must measure&nbsp;strength&nbsp;of&nbsp;evidence.&nbsp;Understanding that difference is not just an engineering concern.&nbsp;It is the starting point for building AI systems that people can actually trust.&nbsp;For a practical perspective on what this shift means for content creators, see our blog post&nbsp;from November 2025 on&nbsp;<a href="https://about.ads.microsoft.com/en/resources/discover/webcasts/optimizing-content-for-inclusion-in-the-era-of-ai" rel="noreferrer noopener" target="_blank">Optimizing&nbsp;content&nbsp;for inclusion&nbsp;in the era of AI</a>, which outlines concrete steps to make information easier to interpret, cite, and verify in AI experiences.&nbsp;<a href="https://www.bing.com/webmasters/" rel="noreferrer noopener" target="_blank">Bing Webmaster Tools</a>&nbsp;can complement that&nbsp;guidance&nbsp;helping you use real performance data to refine what you publish and how you structure it for AI-driven discovery.</p>
-<p>Krishna Madhavan, Knut Risvik, Meenaz Merchant<br />
-Microsoft AI</p>
 ]]></content>
     </item>
   </channel>
