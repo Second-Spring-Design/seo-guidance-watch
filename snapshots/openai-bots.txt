@@ -2,13 +2,15 @@ For the complete documentation index, see [llms.txt](/llms.txt). Markdown versio
 
 [ ChatGPT ](/)
 
-Start searching
-
 [API Dashboard](https://platform.openai.com/login)
 
 [Try ChatGPT](https://chatgpt.com/)
 
-Theme Light  Dark  System 
+Language
+
+Loading languages…
+
+ThemeTheme
 
 [ Home ](/)
 
@@ -45,8 +47,6 @@ responses createreasoning_effortrealtimeprompt caching
 Primary navigation 
 
 API  ChatGPT  Docs  Use cases  Training  Resources  Resources 
-
-Theme Light  Dark  System 
 
 Search docs
 
@@ -398,6 +398,7 @@ DocsOverview
     * [ Prompt cache diagnostics ](/api/docs/guides/prompt-caching/diagnostics)
   * [ Batch ](/api/docs/guides/batch)
   * [ Flex processing ](/api/docs/guides/flex-processing)
+  * [ Reserved Tier ](/api/docs/guides/reserved-tier)
 
 
 
@@ -1132,11 +1133,11 @@ DocsShowcase
 
 ###  Recent 
 
+  * [ Prompting GPT-Live for languages and regional accents ](/blog/prompting-multilingual-voice-agents)
   * [ Securing persistent agents like OpenClaw at OpenAI ](/blog/securing-persistent-agents-like-openclaw-at-openai)
   * [ Pushing voice agents further: inside four GPT-Live builds ](/blog/pushing-voice-agents-further)
   * [ Building a retro handheld game with Codex and ModRetro Chromatic ](/blog/build-a-game-with-modretro-chromatic)
   * [ Designing failover across OpenAI model providers ](/blog/designing-failover-across-openai-model-providers)
-  * [ Maintaining software with the GPT-6 family ](/blog/maintaining-software-with-the-gpt-6-family)
 
 
 
