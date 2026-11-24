@@ -129,6 +129,8 @@ Sign in
 
       * [Optimizing for generative AI](/search/docs/fundamentals/ai-optimization-guide)
       * [Guidance on using generative AI](/search/docs/fundamentals/using-gen-ai-content)
+      * [Control how your content is used for generative AI](/search/docs/fundamentals/gen-ai-controls)
+      * [Attribution and factuality in Search generative AI features](/search/docs/fundamentals/gen-ai-attribution-factuality)
 
     * [Maintaining your site's SEO](/search/docs/fundamentals/get-started)
     * [Developer's guide to Search](/search/docs/fundamentals/get-started-developers)
@@ -219,7 +221,23 @@ Sign in
       * [A/B testing](/search/docs/crawling-indexing/website-testing)
       * [Temporarily pause or disable a website](/search/docs/crawling-indexing/pause-online-business)
 
-  * Ranking and search appearance
+  * Ranking
+
+    * [Overview](/search/docs/ranking)
+    * [Our principles for ranking results](/search/docs/ranking/principles-for-ranking-results)
+    * How ranking systems and updates work
+
+      * [A guide to Google Search ranking systems](/search/docs/appearance/ranking-systems-guide)
+      * [How Search ranking works](https://www.google.com/search/howsearchworks/how-search-works/ranking-results/)
+      * [List of confirmed ranking updates](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history)
+      * [Core updates](/search/docs/appearance/core-updates)
+      * [Spam updates](/search/docs/appearance/spam-updates)
+      * [Reviews system](/search/docs/appearance/reviews-system)
+
+    * [Stay informed on ranking updates](/search/docs/ranking/stay-informed)
+    * [Submit feedback about ranking changes](/search/docs/ranking/submit-feedback)
+
+  * Search appearance
 
     * [Overview](/search/docs/appearance)
     * [AI features](/search/docs/appearance/ai-features)
